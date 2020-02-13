@@ -1,0 +1,446 @@
+nr;nume;prenume;sex;localitate;sediu
+1;Sapta;Florian;m;Alba Iulia;Alba Iulia, piaţa Iuliu Maniu nr. 25,judeţul Alba
+2;Baba;Teodor Nicolae;m;Alba Iulia;Alba Iulia, str. Camil Velican nr. 26, judeţulAlba
+3;Cherşa;Sebastian Bobi;m;Alba Iulia;Alba Iulia, str. Fr. Mistral nr. 5, corp B,camera 1, judeţul Alba
+4;Sav;Augustin;m;Câmpeni;Câmpeni, Str. Teiului, bl. L1, ap. 4, judeţulAlba
+5;Aldea;Marin Vasile;m;Aiud;Aiud, Str. Băilor nr. 33A, judeţul Alba
+6;Sărăţean;Dumitru Alexandru;m;Blaj;Blaj, Str. Păcii nr. 40, judeţul Alba
+7;Boldas;Liviu Nicolae;m;Sebeş;Sebeş, str. Lucian Blaga nr. 61, ap. 5, judeţulAlba
+8;Cârja;Ispas;m;Sibiu;Sibiu, Bd. Victoriei nr. 21, judeţul Sibiu
+9;Cruduleci;Horaţiu;m;Sibiu;Sibiu, Bd. Victoriei nr. 14, ap. 9A, judeţulSibiu
+10;Marin;Vasile;m;Sibiu;Sibiu, Str. Banatului nr. 9, ap. 7, judeţulSibiu
+11;Tatu;Felician Liviu;m;Sibiu;Sibiu, Bd. Victoriei nr. 21, judeţul Sibiu
+12;Moldovan;Florin Gheorghe;m;Sibiu;Sibiu, Bd. Victoriei nr. 17, judeţul Sibiu
+13;Nuţescu;Constantin Ciprian;m;Sibiu;Sibiu, Bd. Victoriei nr. 17, parter, judeţulSibiu
+14;Rotaru;Simion;m;Mediaş;Mediaş, str. Haţeg nr. 10, judeţul Sibiu
+15;Tudor;Vasile Petru;m;Mediaş;Mediaş, str. L. Roth nr. 29, judeţul Sibiu
+16;Tămaş;Ovidiu Nicolae;m;Mediaş;Mediaş, str. piaţa Regele Ferdinand I nr. 1,judeţul Sibiu
+17;Scutea;Sorin;m;Agnita;Agnita, str. M. Viteazu nr. 73, judeţul Sibiu
+18;Mişcoci;Dorina Anca;f;Avrig;Avrig, Str. Bisericii nr. 1, judeţul Sibiu
+19;Veştemean;Ioan Stan;m;Avrig;Avrig, str. Mihai Viteazu nr. 1, judeţul Sibiu
+20;Baciu;Traian;m;Hunedoara;Hunedoara, str. N. Bălcescu nr. 1, judeţulHunedoara
+21;Ifrim;Remus Daniel;m;Hunedoara;Hunedoara, str. N. Bălcescu nr. 1, judeţulHunedoara
+22;Barboni;Eugen;m;Deva;Deva, str. Avram Iancu, bl. H3, sc. A, judeţulHunedoara
+23;Benteu;Aron;m;Deva;Deva, str. Aurel Vlaicu nr. 1, judeţulHunedoara
+24;Opriş;Ofelia Monica;f;Deva;Deva, str. Iuliu Maniu nr. 6, judeţul Hunedoara
+25;Răducanu;Cecilia Camelia;f;Petroşani;Petroşani, Str. 1 Decembrie 1918 nr. 100,judeţul Hunedoara
+26;Popescu;Emilia;f;Petroşani;Petroşani, Aleea Poporului, bl. 3A, sc. 1,ap. 2, judeţul Hunedoara
+27;Oancea;Petru;m;Petroşani;Petroşani, Aleea Poporului, bl. 3, sc. 3,ap. 26 parter, judeţul Hunedoara
+28;Rovinar;Marin Daniel;m;Brad;Brad, Str. Minerilor nr. 57, judeţul Hunedoara
+29;Suciu;Bogdan;m;Sălişte;Sălişte, Str. Junilor nr. 39, judeţul Sibiu
+30;Fieraru;Eugen;m;Piteşti;Piteşti, str. Exerciţiu, bl. A5, sc. D, ap. 14,judeţul Argeş
+31;Rada;Ion;m;Piteşti;Piteşti, Bd. Eroilor nr. 51, cam. 105, judeţulArgeş
+32;Bucescu;Emanoil Aron;m;Piteşti;Piteşti, Bd. Eroilor nr. 46, et. 1, camera 1,judeţul Argeş
+33;Negoescu;Adrian Gheorghe;m;Piteşti;Piteşti, str. Trivale, bl. 10A, sc. C, ap. 27,et. 3, judeţul Argeş
+34;Ioana;Cristian;m;Piteşti;Piteşti, str. Exerciţiu, bl. PD4, sc. A, ap.13, judeţul Argeş
+35;Copaci;Vasile;m;Piteşti;Piteşti, Str. Paltinului, bl. C14, sc. B, ap.9, judeţul Argeş
+36;Vârgă;Ioan;m;Piteşti;Piteşti, str. Exerciţiu nr. 70, judeţul Argeş
+37;Iordache;Ion;m;Piteşti;Ştefăneşti, Valea Mare, judeţul Argeş
+38;Mitu;MihaiIoan;dk;Câmpulung;Câmpulung, str. Alexandru cel Bun nr. 4, bl.D 28, sc. B, ap. 11, judeţul Argeş
+39;Florea;Ioana;f;Câmpulung;Câmpulung, str. Ctin Popescu nr. 7, judeţulArgeş
+40;Iordache;Vasile;m;Curtea de Argeş;Curtea de Argeş, str. T. Vladimirescu nr. 2,judeţul Argeş
+41;Bunescu;Dumitru Teodor;m;Râmnicu Vâlcea;Râmnicu Vâlcea, Bd. Tineretului nr. 7, bl.A11/1, sc. C, et. 5, ap. 23, judeţul Vâlcea
+42;Deaconu;Mihail;m;Râmnicu Vâlcea;Râmnicu Vâlcea, Str. Tineretului nr. 14, bl.S2, sc. 1, ap. 13, judeţul Vâlcea
+43;Buzatu;Constantin;m;Râmnicu Vâlcea;Râmnicu Vâlcea, str. Marian Sorescu nr. 2, bl.A37/1, sc. A, ap. 1, judeţul Vâlcea
+44;Gătejescu;Bogdan;m;Râmnicu Vâlcea;Râmnicu Vâlcea, Aleea Melodiei nr. 1, bl. P3,sc. A, ap. 1, judeţul Vâlcea
+45;Radu;Marius;m;Râmnicu Vâlcea;Brezoi, Str. Eroilor nr. 41, judeţul Vâlcea
+46;Condoiu;Florea;dk;Drăgăşani;Drăgăşani, str. Gib Mihăescu nr. 19, judeţulVâlcea
+47;Văleanu;Ilie;m;Horezu;Horezu, Str. Unirii nr. 17, bl. O 2, parter,judeţul Argeş
+48;Grigore;Nicolae;m;Bacău;Bacău, Str. 9 Mai, bl. 80, judeţul Bacău
+49;Chiticeanu;Florin;m;Bacău;Bacău, str. Trotuş nr. 5, judeţul Bacău
+50;Ciobanu;Ioan;m;Bacău;Bacău, Str. Energiei, bl. 37, sc. B, ap. 3,judeţul Bacău
+51;Dăscăliţa;Dumitru;m;Bacău;Bacău, str. Nicu Enea, bl. 40, sc. A, ap. 7,judeţul Bacău
+52;Mititelu;Iosif;m;Bacău;Bacău, Str. Energiei, bl. 27A2, judeţul Bacău
+53;Necula;Sorica;f;Bacău;Bacău, str. Oituz nr. 27, judeţul Bacău
+54;Aldea;Diana Elena;f;Bacău;Bacău, str. Carpaţi nr. 1, sc. A, ap. 1,judeţul Bacău
+55;AbabeiPetrea;Irina Nicoleta;f;Bacău;Bacău, Str. Vasile Alecsandri nr. 39, judeţulBacău
+56;Kovacs;Gabriel;m;Buhuşi;Buhuşi, str. Bucegi nr. 1, judeţul Bacău
+57;Popa;Valentin;m;Oneşti;Oneşti, Bd. Republicii, bl. 4, ap. 14, judeţulBacău
+58;Tabarcea;Alexandru;m;Oneşti;Oneşti, Bd. Republicii, bl. 2, sc. B, judeţulBacău
+59;Prisecariu;Cezar Sorin;m;Oneşti;Oneşti, Str. Republicii, bl. 26, ap. 24,judeţul Bacău
+60;Bâra;Dragoş;m;Oneşti;Oneşti, Str. Republicii, bl. 23, ap. 12,judeţul Bacău
+61;Bindileu;Eugen;m;Moineşti;Moineşti, str. V. Alecsandri, bl. E 8, ap. 6,judeţul Bacău
+62;Neneci;Tănase;m;PiatraNeamţ;PiatraNeamţ, Bd. Republicii nr. 16, judeţulNeamţ
+63;Cotoi;Cornel;m;PiatraNeamţ;PiatraNeamţ, str. M. Eminescu nr. 35, ap. 18,judeţul Neamţ
+64;Mareş;Ioan;m;PiatraNeamţ;PiatraNeamţ, str. Anton Vorel nr. 6, bl.B6A21, judeţul Neamţ
+65;Mocanu;Pavel;m;PiatraNeamţ;PiatraNeamţ, Bd. 9 Mai nr. 21, bl. 11A4,judeţul Neamţ
+66;Bălan;Ioan;m;PiatraNeamţ;PiatraNeamţ, Str. Republicii nr. 7, judeţulNeamţ
+67;Postelnicu;Spiridon;m;Roman;Roman, str. Oituz, bl. 8, ap. 3, judeţul Neamţ
+68;Mereuţă;Ioan;m;Roman;Roman, str. Sucedava, bl. 38, ap. 41, judeţulNeamţ
+69;Grigoraş;Mihaela;f;Roman;Roman, str. M. Eminescu, bl. 4 C, sc. A, ap. 4,judeţul Neamţ
+70;Dron;Gheorghe;m;TârguNeamţ;TârguNeamţ, str. Calistrat Hogaş, bl. B1,ap. 3, judeţul Neamţ
+71;Grigoraş;Ioan Nicolae;m;Podul Turcului;SUSPENDAT
+72;Puşcaş;Eugen Nicolae;m;Oradea;Oradea, str. Parcul Traian nr. 7, ap. 6,judeţul Bihor
+73;Beiuşan;Gheorghe;m;Oradea;Oradea, str. Franz Schubert nr.1, judeţul Bihor
+74;Beiuşan;Andrei;m;Oradea;Oradea, str. Franz Schubert nr.1, judeţul Bihor
+75;Bucurean;Ioan;m;Oradea;Oradea, str. Parcul Traian nr. 1, ap. 3,judeţul Bihor
+76;Negrău;Mihai;m;Oradea;Oradea, str. Franz Schubert nr.7, judeţul Bihor
+77;Popovici;Dorin;m;Oradea;Oradea, str. Franz Schubert nr.1, judeţul Bihor
+78;Pantiş;Anamaria Bianca;f;Oradea;Oradea, str. G. Enescu nr. 6, judeţul Bihor
+79;Paşca;Titu;m;Beiuş;Beiuş, Str. 22 Decembrie nr. 21, judeţul Bihor
+80;Paşca;Rodica Lăcrămioara;f;Beiuş;Beiuş, Str. 22 Decembrie nr. 21, judeţul Bihor
+81;Serfezi;Florin;m;Marghita;Marghita, str. N. Bălcescu nr.19, judeţul Bihor
+82;Mihalcea;Benone;m;NegreştiOaş;NegreştiOaş, Aleea Trandafirilor, bl. 14,ap. 3, judeţul Satu Mare
+83;Vasvari;Aurel;m;Satu Mare;Satu Mare, str. Horea nr. 10, ap. 1, judeţulSatu Mare
+84;Michiş;Ioan;m;Satu Mare;Satu Mare, str. Horia nr. 11, judeţul Satu Mare
+85;Iva;Aniţaş Dan;m;Satu Mare;Satu Mare, str. T. Vladimirescu nr. 9, corp C3,et. 1, judeţul Satu Mare
+86;Lăzărescu;Nicolae Dorin;m;Satu Mare;Satu Mare, str. Mihai Viteazu nr. 7, et. 1,judeţul Satu Mare
+87;Kiss;Gabrie lValentin;dk;Satu Mare;Satu Mare, str. Mihai Viteazu nr. 7, et. 1,judeţul Satu Mare
+88;Mociran;Viorel;m;Satu Mare;Satu Mare, str. Horea nr. 8, ap. 5, judeţulSatu Mare
+89;Pop;Ioan Vasile;m;Carei;Carei, Str. 1 Decembrie 1918 nr. 22, et. 1,judeţul Satu Mare
+90;Făiniţă;Gabriela;f;Salonta;FĂRĂ ACTIVITATE
+91;Tătaru;Ioan;m;Suceava;Suceava, str. Ştefan cel Mare nr. 43, bl. E 3,sc. C, ap. 1, judeţul Suceava
+92;Mustea;Marcel;m;Suceava;Suceava, str. Ştefan cel Mare nr. 51 bl. A 2,sc. A, ap. 3, judeţul Suceava
+93;Jugaru;Constantin;m;Suceava;Suceava, str. Ştefan cel Mare nr. 43, bl. E 3,sc. D, ap. 1, judeţul Suceava
+94;Ţugui;Cezar;m;Suceava;Suceava, str. Ştefan cel Mare nr. 43, bl. E 3,sc. D, ap. 2, judeţul Suceava
+95;Belibou;Paula;f;Suceava;Suceava, str. Anastasie Crimca nr. 1, bl. 1,sc. B, ap. 3, judeţul Suceava
+96;Cîmpulungeanu;Marius Georgel Sarmis;m;Suceava;Suceava, str. Ştefan cel Mare, nr. 43, bl. E3,sc. C, ap. 1, judeţul Suceava
+97;Bordian;Constantin;m;Gura Humorului;Gura Humorului, Bd. Bucovinei nr. 21, judeţulSuceava
+98;Miron;Cătălin;m;Rădăuţi;Rădăuţi, Piaţa Unirii nr. 70, judeţul Suceava
+99;Miron;BenoniViorel;dk;Rădăuţi;Rădăuţi, Piaţa Unirii nr. 70, judeţul Suceava
+100;OnofreiciucDranca;Gheorghe;m;Rădăuţi;SUSPENDAT
+101;Stărică;Radu;m;Vatra Dornei;Vatra Dornei, Str. Gării nr. 1, judeţul Suceava
+102;Nica;Gabriel;m;Vatra Dornei;Vatra Dornei, Str. Gării nr. 1, judeţul Suceava
+103;Ioneac;Sevastian;m;Câmpulung;Câmpulung Moldovenesc, str. T. Ştefanelli nr.2,parter, camerele 1617, judeţul Suceava
+104;Căruceriu;Alexandru;m;Câmpulung;Câmpulung Moldovenesc, Str. Mărţişorului nr. 1,judeţul Suceava
+105;Hopu;Vasile;m;Fălticeni;Fălticeni, str. Nicu Gane, f.n, judeţul Suceava
+106;Dumitraş;Ancuţa;f;Fălticeni;Fălticeni, str. Nicu Gane, f.n, judeţul Suceava
+107;Manoilă;Vasile;m;Botoşani;Botoşani, bd. Mihai Eminescu nr. 69, judeţulBotoşani
+108;Sfaiţer;Carmen;f;Botoşani;Botoşani, bd. Mihai Eminescu nr. 48, et. 1,camera 45, judeţul Botoşani
+109;Gavriliuc;Sorin;m;Botoşani;Botoşani, bd. Mihai Eminescu nr. 48, et. 1,camera 45, judeţul Botoşani
+110;Secrieru;Dinu;m;Botoşani;Botoşani, bd. G. Enescu nr. 5, bl. 5, sc. B,parter, judeţul Botoşani
+111;Secrieru;Paul;m;Botoşani;Botoşani, Str. Victoriei nr. 8, ap. 6, judeţulBotoşani
+112;Popa;Daniel;m;Dorohoi;Dorohoi, str. Dimitrie Pompiliu nr. 64, bl.Turn, parter, judeţul Botoşani
+113;Smocot;Grigori;m;Dorohoi;Dorohoi, str. N. Titulescu nr. 36, judeţulBotoşani
+114;Guceanu;Adrian;m;Dărăbani;Dărăbani, Str. 1 Decembrie nr. 158, judeţulBotoşani
+115;Cârlan;Florin;m;Săveni;Săveni, Str. 1 Decembrie, bl. E 3, parter,judeţul Botoşani
+116;Tereacă;Cornel Toma;m;Braşov;Braşov, str. Iuliu Maniu nr. 68, bl. 3, sc. B,ap. 1, judeţul Braşov
+117;Dincă;Stelian Emil;m;Braşov;Braşov, Bd. 15 Noiembrie nr. 43, sc. A, et. 2,ap. 4, judeţul Braşov
+118;Koppandi;Ollyver;dk;Braşov;Braşov, Bd. 15 Noiembrie nr. 43, sc. A, et. 2,ap. 5, judeţul Braşov
+119;Dutceac;Ioan;m;Braşov;Braşov, Bd. Griviţei nr. 93, sc. C, ap. 1,judeţul Braşov
+120;Anca;Ramona Loredana;f;Braşov;Braşov, str. Iuliu Maniu nr. 64, sc. A, ap. 5,judeţul Braşov
+121;Manolache;Marcel Iulian;m;Braşov;Braşov, str. Iuliu Maniu nr. 47, et. 5, camera505A, judeţul Braşov
+122;Corşate;Alexandru Alin;m;Braşov;Braşov, Bd. 15 Noiembrie nr. 43, sc. A, et. 2,ap. 4, judeţul Braşov
+123;Ţermure;CălinOvidiu;dk;Braşov;Braşov, Str. 15 Noiembrie nr. 62, sc. D, ap.38, judeţul Braşov
+124;Balca;Florentina;f;Braşov;Braşov, str. Iuliu Maniu nr. 68, bl. 2, sc. B,ap. 7, judeţul Braşov
+125;Koncz;Csaba jr.;m;Braşov;Braşov, str. Iuliu Maniu nr. 47, camera 10,judeţul Braşov
+126;Blajiu;Gheorghe;m;Zărneşti;Zărneşti, Str. Postăvarului, bl. 11, sc. A,ap. 3, judeţul Braşov
+127;Frăţilă;Viorel Alexandru;m;Făgăraş;Făgăraş, str. Doamna Stanca nr. 27, judeţulBraşov
+128;Manole;Victor;m;Făgăraş;Făgăraş, str. Doamna Stanca nr. 2426, judeţulBraşov
+129;Foca;Marilena;f;Făgăraş;SUSPENDATĂ
+130;MathePeter;Iosif;m;Sfântu Gheorghe;Sfântu Gheorghe, str. Banki Donath nr. 35,judeţul Covasna
+131;Koncz;Csaba;m;Sfântu Gheorghe;Sfântu Gheorghe, str. Ioszef Bem nr. 2, bl. 3,sc. B, ap. 3, judeţul Covasna
+132;Kolcza;Jeno Gabor;m;Sfântu Gheorghe;Sfântu Gheorghe, Str. Ciucului nr. 3, judeţulCovasna
+133;Katona;Ella;f;Sfântu Gheorghe;Sfântu Gheorghe, str. Bem Ioszef nr. 2, bl. 3,sc. F, ap. 7, judeţul Covasna
+134;Bălaş;Marius;m;Târgu Secuiesc;Târgu Secuiesc, str. Petofi Sandor nr. 33,bl. 6, sc. A, ap. 4, judeţul Covasna
+135;MathePeter;Edit;dk;Târgu Secuiesc;Târgu Secuiesc, str. Petofi Sandor nr. 16,judeţul Covasna
+136;Manoli;Lucian;m;Întorsura;SUSPENDAT
+137;Popescu;Sofica;f;Bucureşti;Bucureşti, Bd. Tineretului nr. 3, bl. Z1,ap. 5, parter, sectorul 4
+138;Popescu;Florin;m;Bucureşti;Bucureşti, Bd. Tineretului nr. 3, bl. Z1,ap. 5, parter, sectorul 4
+139;Dima;Mihai;m;Bucureşti;Bucureşti, bd. Mircea Vodă nr. 41, bl. M31,sc. 1, ap. 2, parter, sectorul 3
+140;Iordache;Radu;m;Bucureşti;Bucureşti, str. Nerva Traian nr. 16, bl. M 35,sc. 2, et. 1, ap. 31, sectorul 3
+141;Stăiculescu;Dumitru;m;Bucureşti;Bucureşti, Bd. Unirii nr. 43, bl. E2, sc. 1,et. 2, ap. 6, sectorul 3
+142;Răileanu;Ionuţ Cătălin;m;Bucureşti;Bucureşti, str. Clucerul Udricani nr. 13, bl.106A, sc. 2, ap. 22, et. 1, sectorul 3
+143;Boambeş;Viorel;m;Bucureşti;Bucureşti, str. Negru Vodă nr. 2, bl. C 4,sc. A, et. 6, ap. 27, sectorul 3
+144;Badea;Cătălin;m;Bucureşti;Bucureşti, str. Negru Vodă nr. 2, bl. C 4,sc. A, et. 6, ap. 27, sectorul 3
+145;CasagrandaStana;Anton;m;Bucureşti;Bucureşti, Splaiul Unirii nr. 10, bl. B5,sc. 1, et. 1, ap. 1, sectorul 4
+146;Ezer;Lucian;m;Bucureşti;Bucureşti, bd. D. Cantemir nr. 25, bl. 2,sc. C, ap. 18, et. 4, sectorul 4
+147;Popescu;Claudiu George;m;Bucureşti;Bucureşti, bd. D. Cantemir nr. 25, bl. 2,sc. C, ap. 18, et. 4, sectorul 4
+148;Stănescu;Ilie;m;Bucureşti;Bucureşti, bd. Magheru nr. 68, et. 6, camera34, sectorul 1
+149;Nemeş;Dan;m;Bucureşti;Bucureşti, bd. Magheru nr. 68, et. 6, camera35, sectorul 1
+150;Vasiliu;George;m;Bucureşti;Bucureşti, str. Grigore Cobălcescu nr. 54,sc. 1, et. 1, ap. 1, sectorul 1
+151;Drăgănescu;George Gabriel;m;Bucureşti;Bucureşti, bd. Brâncoveanu nr. 9, bl. B14,sc. 4, ap. 91, parter, sectorul 4
+152;Ionescu;Niculae;m;Bucureşti;Bucureşti, bd. Brâncoveanu nr. 9, bl. B14,sc. 4, ap. 91, parter, sectorul 4
+153;Crafcenco;Gheorghe Marius;m;Bucureşti;Bucureşti, bd. Brâncoveanu nr. 9, bl. B14,sc. 4, ap. 91, parter, sectorul 4
+154;Tănase;Gheorghe;m;Bucureşti;Bucureşti, Piaţa Naţiunile Unite nr. 35, bl.A, sc. A, ap. 15, sectorul 4
+155;Chiriloiu;Filoftia;f;Bucureşti;Bucureşti, bd. I.C. Brătianu nr. 44, sc. B,et. 3, ap. 24, sectorul 3
+156;Andrei;Ionel;m;Bucureşti;Bucureşti, bd. I.C. Brătianu nr. 44, sc. B,et. 3, ap. 24, sectorul 3
+157;Miloş;Cristian;m;Bucureşti;Bucureşti, str. Matei Basarab nr. 96, bl.L 122, sc. 1, ap. 1, parter, sectorul 3
+158;Jalbă;Georgiana;f;Bucureşti;Bucureşti, Calea Victoriei nr. 142, sc. D,ap. 1, parter, sectorul 1
+159;Gonţ;Dorina;f;Bucureşti;Bucureşti, str. J.L. Calderon nr. 45, ap. 1,sectorul 2
+160;Gonţ;Lucian;m;Bucureşti;Bucureşti, str. J.L. Calderon nr. 45, ap. 1,sectorul 2  asociat cu BEJ Gonţ Dorina
+161;Safta;Doina;f;Bucureşti;SUSPENDATĂ
+162;Scăeşteanu;Silvia;f;Bucureşti;Bucureşti, bd. Naţiunile Unite nr. 8, bl. 104,sc. 5, ap. 89, et. 2, sectorul 5
+163;Dobranici;Doina Crenguţa;f;Bucureşti;Bucureşti, bd. Corneliu Coposu nr. 7, bl. 104,sc. 3, et. 2, ap. 67, sectorul 3
+164;Bran;Cristian;m;Bucureşti;Bucureşti, str. Panduri nr. 35, bl. P1B, sc. A,et. 5, ap. 24, sectorul 5
+165;Canea;Cătălin;m;Bucureşti;Bucureşti, str. Drumul Taberei nr. 20, bl. C 2,sc. 1, parter, ap. 2, sectorul 6
+166;Fediuc;Gheorghe Marian;m;Bucureşti;Bucureşti, str. Poenaru Bordea nr. 1214, et.5, ap. 15, sectorul 4
+167;Plăveti;Nicolae Dorin;m;Bucureşti;Bucureşti, bd. Naţiunile Unite nr. 15, bl. 110,sc. A, et. 5, ap. 17, sectorul 5
+168;Pârvan;Violeta Alexandra;f;Bucureşti;Bucureşti, bd. Corneliu Coposu nr. 5, bl. 103,ap. 54, sectorul 3
+169;Olteanu;Nicolae Caius;m;Bucureşti;SUSPENDAT
+170;Şomâldoc;Paula Daniela;f;Bucureşti;Bucureşti, Bd. Unirii nr. 37, bl. A4, ap. 9,sectorul 3
+171;Toma;Ana Maria;f;Bucureşti;Bucureşti, str. Ilfov nr. 1, et. 2, ap. 3,sectorul 5
+172;Ulman;Bogdan Vasile;m;Bucureşti;Bucureşti, bd. Carol I nr. 76, ap.3, sectorul 2
+173;Constantin;Gabriel Cătălin;m;Bucureşti;Bucureşti, str. Ţepeş Vodă nr. 13, et. 2,ap. 3, sectorul 2
+174;Giurgea;Bucur;m;Bucureşti;Bucureşti, bd. I. C. Brătianu nr. 44, sc. A,et. 2, ap. 18, sectorul 3
+175;Maghiar;Bogdan;m;Bucureşti;Bucureşti, Bd. Unirii nr. 20, bl. 5C, ap. 64,sectorul 4
+176;Raportoru;Georgeta;f;Bucureşti;Bucureşti, Piaţa Alba Iulia nr. 8, bl. 17,sc. 2, et. 1, ap. 25, sectorul 3
+177;Ştefan;Viorel Dinu;m;Bucureşti;Bucureşti, bd. Regina Elisabeta nr. 30,sectorul 5
+178;Petre;Cristian;m;Bucureşti;Bucureşti, Str. Baniei nr. 17, parter, ap. 2,sectorul 3
+179;Duică;Claudiu;m;Bucureşti;Bucureşti, Splaiul Independenţei nr. 17, bl.101, sc. 4, et. 2, ap. 59, sectorul 5
+180;Dumitrache;Bogdan;m;Bucureşti;Bucureşti, bd. Burebista nr. 4, bl. D13, sc. 4,et. 4, ap. 124, sectorul 3
+181;Culea;Marian Orlando;m;Bucureşti;Bucureşti, bd. Burebista nr. 4, bl. D13, sc. 4,et. 4, ap. 124, sectorul 3
+182;Costescu;Lucian;m;Bucureşti;Bucureşti, bd. Dimitrie Cantemir nr. 16, bl. 6,sc. 5, et. 1, ap. 133, sectorul 4
+183;Paviliu;Bogdan Adrian;m;Bucureşti;Bucureşti, Splaiul Independenţei nr. 58A,ap. 6, parter, sectorul 5
+184;Popa;Carmen Gabriela;f;Bucureşti;Bucureşti, Splaiul Independenţei nr. 3, bl. 17,sc. 1, et. 8, ap. 19 bis, sectorul 5
+185;Rocoşanu;DragoşPaul;dk;Bucureşti;Bucureşti, str. Ştefan cel Mare nr. 31, bl. 29,sc. 4, et. 1, ap. 104, sectorul 2
+186;Sersea;AdrianEugen;dk;Bucureşti;Bucureşti, Str. Dristorului nr. 97119, bl. 63,sc. 1, parter, ap. 21, sectorul 3
+187;Mutuligă;Monica;f;Bucureşti;Bucureşti, str. Ştirbei Vodă nr. 117, ap. 2,sectorul 1
+188;Cojocaru;Bogdan Mihai;m;Bucureşti;Bucureşti, bd. Magheru nr. 29, et. 1, ap. 4,sectorul 1
+189;Nastasă;Alexandru;m;Bucureşti;Bucureşti, Str. Zborului (Sborului) nr. 10,sectorul 3
+190;Samoilă;Liliana Minodora;f;Bucureşti;Bucureşti, bd. Dimitrie Cantemir nr. 2, bl.P 2, sc. 1, et. 4, ap. 13, sectorul 4
+191;Culcea;Raluca Mariana;f;Bucureşti;Bucureşti, Bd. Unirii nr. 70, bl. J 4, sc.TR 3, et. 1, ap. 53, sectorul 3
+192;Ichim;Viorel;m;Buftea;Buftea, str. Ştirbei Vodă nr. 55, bl. Vila 1,sc. 2, et. 2, ap. 5, judeţul Ilfov
+193;Benescu;Cătălin;m;Buftea;Buftea, str. Mihai Eminescu nr.5, judeţul Ilfov
+194;Vasiliu;Marinela;f;Buftea;Buftea, str. Mihai Eminescu nr.5, judeţul Ilfov
+195;Dobra;Camelia Ofelia;f;Buftea;Buftea, str. Ştirbei Vodă nr. 55, vila 1,parter, ap. 2, judeţul Ilfov
+196;Voican;Mădălina;f;Buftea;SUSPENDATĂ
+197;Balica;Marius Eugen;m;Buftea;Buftea, str. Mihai Eminescu nr.5, judeţul Ilfov
+198;Mihăilescu;Adriana Emanuela;f;Cornetu;Cornetu, Şos. Alexandriei nr. 8, judeţul Ilfov
+199;Coşoreanu;Iulian Ilie;m;Cornetu;Cornetu, Şos. Alexandriei nr. 138, bl. D 2,sc. 3, parter, judeţul Ilfov
+200;Nistor;Vasile;m;Zimnicea;Zimnicea, str. Cuza Vodă, bl. 10A, sc. D,ap. 4, judeţul Teleorman
+201;Împungerouă;Nicolae;m;Videle;Videle, Str. Primăverii, bl. C 6, sc. B, et. 1,ap. 18, judeţul Teleorman
+202;Mihăiţă;Marian;m;Alexandria;Alexandria, Str. Dunării nr. 145 bis, bl. H127,sc. A, ap. 5, et. 1, judeţul Teleorman
+203;Horovath;Sorin;m;Alexandria;Alexandria, Str. Dunării nr. 218, bl. TRB4,sc. A, ap. 2, judeţul Teleorman
+204;Zlătan;GabrielaSimona;dk;Alexandria;Alexandria, Str. Libertăţii nr. 211, bl. L8L9,et. 1, judeţul Teleorman
+205;Niţu;Ion;m;Slobozia;Slobozia, Bd. Cosminului nr. 14, bl. T 3,sc. A, et. 1, ap. 7, judeţul Ialomiţa
+206;Banciu;Constantin;m;Slobozia;Slobozia, str. Cuza Vodă, bl. 17, sc. A, ap. 1,parter, judeţul Ialomiţa
+207;Milea;Anghel;m;Slobozia;Slobozia, Bd. Cosminului, bl. BN5, et. 1,camera 3, judeţul Ialomiţa
+208;Constantin;Radu;m;Urziceni;Urziceni, Aleea Grădiniţei nr. 1, judeţulIalomiţa
+209;Vasiliu;Marinela;f;Urziceni;asociată la Buftea
+210;Bărbulescu;Constantin;m;BolintinVale;BolintinVale, Str. Republicii, bl. B5, sc. D,et. 1, ap. 52, judeţul Giurgiu
+211;Petre;Dan;m;BolintinVale;SUSPENDAT
+212;Iordache;Ion;m;Giurgiu;Giurgiu, str. Hristo Botev nr. 9, judeţulGiurgiu
+213;Martin;Constantin;m;Giurgiu;Giurgiu, str. Gral Berthelot, bl. 79, sc. C,ap. 43, parter, judeţul Giurgiu
+214;GogoaşePopescu;FlorinelBebe;dk;Giurgiu;Giurgiu, Str. Portului, bl. 60, sc. C, parter,ap. 32, judeţul Giurgiu
+215;Stoian;Valentin;m;Călăraşi;Călăraşi, str. Flacăra bl. B 3, sc. 1, ap. 2,parter, judeţul Călăraşi
+216;Şerban;Victor;m;Călăraşi;Călăraşi, str. Bucureşti nr. 139, bl. A 38(Volna), judeţul Călăraşi
+217;Mihalcea;Ionel;m;Călăraşi;Călăraşi, str. Bucureşti nr. 139, bl. A 38(Volna), judeţul Călăraşi
+218;Dumitrache;CorneliaGabriela;dk;Călăraşi;SUSPENDATĂ
+219;Ene;Alexandru;m;Olteniţa;Olteniţa, Bd. Republicii nr. 51, bl. B, sc. A,ap. 1, judeţul Călăraşi
+220;Oprişan;Constantin;m;LehliuGară;LehliuGară, Str. Industriilor nr. 412,judeţul Călăraşi
+221;Miloş;Marius Emil;m;Turnu Măgurele;Turnu Măgurele, Str. Pompierilor, bl. M1,sc. B, ap. 22, judeţul Teleorman
+222;Goleac;BogdanGeorge;dk;Turnu Măgurele;
+223;Agiu;Iulian;m;Roşiori de Vede;Roşiori de Vede, str. Plt. Rădulescu, bl. 302,sc. B, ap. 1, judeţul Teleorman
+224;Savu;OanaMaria;dk;Roşiori de Vede;FĂRĂ ACTIVITATE
+225;Ciupercă;DumitruVirgil;dk;Feteşti;Feteşti, str. Călăraşi nr. 395, judeţulIalomiţa
+226;Stolnean;RomeoMarius;dk;ClujNapoca;ClujNapoca, Calea Dorobanţilor nr. 11, ap. 1,judeţul Cluj
+227;Stolnean;DianaMaria;dk;ClujNapoca;ClujNapoca, Calea Dorobanţilor nr. 9, ap. 7,judeţul Cluj
+228;Cîmpian;Mihai Radu;m;ClujNapoca;ClujNapoca, Calea Dorobanţilor nr. 13, judeţulCluj
+229;Boloş;Mircea;m;ClujNapoca;ClujNapoca, Calea Dorobanţilor nr. 3, et. 1,judeţul Cluj
+230;Popa;Nicolae Fanfany;m;ClujNapoca;ClujNapoca, Calea Dorobanţilor nr. 3, et. 1,judeţul Cluj
+231;Adam;Dragoş;m;ClujNapoca;ClujNapoca, str. Pavel Roşca nr. 3, et. 1,judeţul Cluj
+232;Oszoczki;Andras;m;ClujNapoca;ClujNapoca, str. Calea Dorobanţilor nr. 13,judeţul Cluj
+233;Man;Ovidiu Ioan;m;ClujNapoca;ClujNapoca, str. Calea Dorobanţilor nr. 15,ap. 3, judeţul Cluj
+234;Şipoş;Alexandru;m;ClujNapoca;ClujNapoca, Calea Dorobanţilor nr. 1, judeţulCluj
+235;Moldovan;Ion Florin;m;ClujNapoca;SUSPENDAT
+236;Şortan;Ioan Călin;m;ClujNapoca;ClujNapoca, Calea Dorobanţilor nr. 1719,ap. 12, judeţul Cluj
+237;Marian;Daniel;m;Turda;Turda, Str. Republicii nr. 36, judeţul Cluj
+238;MironBocaMoldovan;AndreeaLaura;dk;;
+239;Todoruţ;Andrei;m;Dej;Dej, str. George Coşbuc nr. 21, ap. 4, judeţulCluj
+240;IoaniciuSapta;FlorinaLivia;dk;Dej;Dej, str. George Coşbuc nr. 21, ap. 4, judeţulCluj  asociată la CEJ Alba Iulia
+241;Lungu;Răzvan;m;Gherla;Gherla, str. Mihai Eminescu nr. 5, judeţul Cluj
+242;Ivanov;Emilian Giani;m;Bistriţa;Bistriţa, str. N. Titulescu nr. 21, judeţulBistriţaNăsăud
+243;Manchevici;Marin;m;Bistriţa;Bistriţa, str. Al. Odobescu nr. 17, judeţulBistriţaNăsăud
+244;Andronesi;Valerian Dorin;m;Bistriţa;Bistriţa, str. Alba Iulia nr. 3, judeţulBistriţaNăsăud
+245;Joldeş;OvidiuLaurenţiu;dk;Bistriţa;Bistriţa, str. N. Titulescu nr. 27, ap. 7,judeţul BistriţaNăsăud
+246;Ilovan;Dumitru;m;Năsăud;Năsăud, Str. Gării, bl. 5 ABC, et. 1, judeţulBistriţaNăsăud
+247;Sârbu;Viorel;m;Năsăud;Năsăud, Str. Gării, bl. 5 ABC, et. 1, judeţulBistriţaNăsăud
+248;Mureşan;Vasile Mircea;m;Beclean;Beclean, str. I.L. Caragiale nr. 4, judeţulBistriţaNăsăud
+249;Vucea;Gheorghe;m;Baia Mare;Baia Mare, Str. Republicii nr. 1, ap. 24,judeţul Maramureş
+250;Morari;Marius Iacob;m;Baia Mare;Baia Mare, Str. Republicii nr. 1, ap. 115,judeţul Maramureş
+251;Bud;Robert Mihai;m;Baia Mare;Baia Mare, Str. Republicii nr. 1, ap. 17,judeţul Maramureş
+252;Pintea;BogdanIoan;dk;Baia Mare;Baia Mare, Bd. Republicii nr. 1, ap. 13,judeţul Maramureş
+253;Şimon;Attila;m;Baia Mare;Baia Mare, Str. Republicii, bl. 1, ap. 106,judeţul Maramureş
+254;Coman;Gheorghe Gavril;m;Sighetu Marmaţiei;Sighetu Marmaţiei, str. Bogdan Vodă nr. 30,judeţul Maramureş
+255;Roman;Mariana;f;Sighetu Marmaţiei;Sighetu Marmaţiei, str. Gheorghe Şincai nr. 24,judeţul Maramureş
+256;Batin;Petru;m;Sighetu Marmaţiei;Sighetu Marmaţiei, str. Bogdan Vodă nr. 30,judeţul Maramureş
+257;Aniţei;Dorel;m;Vişeu de Sus;Vişeu de Sus, Str. Republicii nr. 2, camera 6,judeţul Maramureş
+258;Amişculesei;Radu Cătălin;m;Vişeu de Sus;Vişeu de Sus, Str. 22 Decembrie nr. 14 A,judeţul Maramureş
+259;Oszoczki;Marton;m;Zalău;Zalău, str. T. Vladimirescu, bl. P 24, ap. 2,judeţul Sălaj
+260;Ţurcaş;Ioan;m;Zalău;Zalău, str. T. Vladimirescu, bl. P 24, ap. 2,judeţul Sălaj
+261;Kovacs;Levente Ferenc;m;Zalău;Zalău, str. T. Vladimirescu, bl. P 24, ap. 2,judeţul Sălaj
+262;Stoica;Ioan Alin;m;Târgu Lăpuş;SUSPENDAT
+263;StoicaConstantin;Adrian;m;Constanţa;Constanţa, Str. Griviţei nr. 18, parter,judeţul Constanţa
+264;StoicaConstantin;GabrielaSimona;dk;Constanţa;Constanţa, Str. Griviţei nr. 18, parter,judeţul Constanţa
+265;Vasile;Dumitru Gabriel;m;Constanţa;Constanţa, bd. Tomis nr. 267, bl. T 4, ap. 16,judeţul Constanţa
+266;Deacu;Vasile;m;Constanţa;Constanţa, Str. Daciei nr. 62, judeţulConstanţa
+267;Gavrilescu;Alin;m;Constanţa;Constanţa, Str. Daciei nr. 62, judeţulConstanţa
+268;Volintiru;Ştefan;m;Constanţa;Constanţa, str. Miron Costin nr. 36, ap. 6,judeţul Constanţa
+269;Malciu;Aurel;m;Constanţa;Constanţa, bd. Tomis nr. 44, et. 1, judeţulConstanţa
+270;Romanescu;Adrian;m;Constanţa;Constanţa, str. Traian nr. 11 bis, judeţulConstanţa
+271;Oana;Silviu;m;Constanţa;Constanţa, str. Traian nr. 28, bl. C3, sc. C,ap. 32, parter, judeţul Constanţa
+272;Munteanu;Ionel;m;Constanţa;Constanţa, bd. Ferdinand nr. 33, bl. R 7,parter, judeţul Constanţa
+273;Bogdan;Ionică;m;Constanţa;Constanţa, bd. Alexandru Lăpuşneanu nr. 108,bl. L2, sc. D, ap. 61, judeţul Constanţa
+274;Duşu;Dumitru;m;Constanţa;Constanţa, str. Soveja nr. 100, bl. 54, sc. D,ap. 51, parter, judeţul Constanţa
+275;Grasu;Gelu Iulian;m;Mangalia;Mangalia, str. Mircea cel Bătrân nr. 5,bl. M 3, judeţul Constanţa
+276;Solomon;Nicolae;m;Medgidia;Medgidia, Str. Independenţei nr. 87C, bl. CăminC3, ap. 2, judeţul Constanţa
+277;Dumbravă;Dumitru;m;Tulcea;Tulcea, str. Gavrilov Corneliu nr. 168, bl.A 2, sc. B, ap. 5, judeţul Tulcea
+278;Casapu;Cătălin Octavian;m;Tulcea;Tulcea, Str. Mică nr. 1, stand 7, judeţulTulcea
+279;Vlad;Irinel;dk;Tulcea;Tulcea, Str. Sălciilor nr. 7, judeţul Tulcea
+280;Cornea;Pompiliu;m;Tulcea;Tulcea, Str. Mică nr. 1, stand 6, judeţulTulcea
+281;Banea;Alexandru;m;Măcin;Măcin, str. Mihai Bravu, bl. 15, ap. 3, judeţulTulcea
+282;Dorache;Nicolae;m;Babadag;Babadag, str. Pavel Gheorghe nr. 5, bl. 60 G,ap. 10, judeţul Tulcea
+283;Ivanovici;Cristodor Constantin;m;Craiova;Craiova, Str. Brestei nr. 16, judeţul Dolj
+284;Iacob;Mircea;m;Craiova;Craiova, str. România Muncitoare nr. 54 A,judeţul Dolj
+285;Balaci;Titi;m;Craiova;Craiova, str. România Muncitoare nr. 67,judeţul Dolj
+286;Talpa;Neacşu Cristian;m;Craiova;Craiova, str. România Muncitoare nr. 65,judeţul Dolj
+287;Terpovici;L.Bogdan;m;Craiova;Craiova, str. România Muncitoare nr. 65,judeţul Dolj
+288;Lăpădat;Nicolae;m;Craiova;Craiova, str. România Muncitoare nr. 74,judeţul Dolj
+289;Crînguş;Florina;f;Craiova;Craiova, str. A. I. Cuza nr. 36, judeţul Dolj
+290;Strinoiu;ConstantinDaniel;dk;Craiova;Craiova, str. A. I. Cuza nr. 24, judeţul Dolj
+291;Prodan;Apostol;dk;Calafat;Calafat, str. Gh. Doja nr. 7, judeţul Dolj
+292;Cheşoi;MihaelaRamona;dk;Calafat;Calafat, str. Gh. Doja nr. 7, judeţul Dolj
+293;Stan;Elena;f;Calafat;Calafat, str. T. Vladimirescu, bl. 4, sc. A,ap. 9, judeţul Dolj
+294;Olaru;Constantin;m;Târgu Jiu;Târgu Jiu, str. Gh. Magheru, bl. 2, parter,judeţul Gorj
+295;Talianu;Savu;m;Târgu Jiu;Târgu Jiu, str. Traian, bl. C 1, parter,judeţul Gorj
+296;Trancă;Nicuşor;m;Târgu Jiu;Târgu Jiu, str. Traian nr. 1, judeţul Gorj
+297;Enea;Marin;m;Târgu Jiu;Târgu Jiu, Str. Confederaţiei nr. 1, judeţulGorj
+298;Bârsăşteanu;Florian;m;Târgu Jiu;Târgu Jiu, str. Geneva nr. 9, judeţul Gorj
+299;Dumitrescu;Ilona;f;Târgu Jiu;Târgu Jiu, str. Geneva nr. 9, judeţul Gorjasociată cu BEJ Bârsăşteanu Florin
+300;Gagiu;Nicolae;m;Târgu Jiu;Târgu Jiu, str. Traian nr. 27, judeţul Gorj
+301;Enea;M.Marin;m;Târgu Jiu;Târgu Jiu, str. T. Vladimirescu nr. 65, judeţulGorj
+302;Vonica;Filimon;m;Novaci;SUSPENDAT
+303;Dăianu;Gheorghe;m;Novaci;Novaci, Str. Parângului nr. 94, judeţul Gorj
+304;Matei;Marian;m;Slatina;Slatina, str. Lipscani nr. 32, judeţul Olt
+305;Vlad;Constantin;m;Slatina;Slatina, str. Lipscani nr. 55, judeţul Olt
+306;Păvăloiu;Georgeta;f;Slatina;Slatina, str. M. Eminescu nr. 29, judeţul Olt
+307;Ţăpuşi;Ruxandra;f;Slatina;Slatina, str. Lipscani nr. 31, judeţul Olt
+308;Neda;Ion;m;Caracal;Caracal, Str. Bradului nr. 2, judeţul Olt
+309;Rafailă;Vasile;m;Caracal;Caracal, Str. Bradului nr. 4, judeţul Olt
+310;Ispas;George;m;Corabia;Corabia, str. C.A. Rosetti nr. 71, judeţul Olt
+311;Dîrloagă;Florinel;m;Strehaia;Strehaia, Str. Republicii nr. 193, judeţulMehedinţi
+312;Dumitrescu;Alfred Constantin;m;DrobetaTurnu;DrobetaTurnu Severin, str. Smârdannr. 10, judeţul Mehedinţi
+313;Cerbulescu;Constantin;m;DrobetaTurnu;DrobetaTurnu Severin, Str. Independenţeinr. 1, judeţul Mehedinţi
+314;Popescu;Grigore Alin;m;DrobetaTurnu;DrobetaTurnu Severin, str. Dr. Babeşnr. 57, bl. 6, sc. 1, judeţul Mehedinţi
+315;Purcaru;Marcel;m;DrobetaTurnu;DrobetaTurnu Severin, str. G. Coşbucnr. 14, judeţul Mehedinţi
+316;Mădescu;Lionela;f;DrobetaTurnu;DrobetaTurnu Severin, str. Carol Inr. 73, judeţul Mehedinţi
+317;Raicu;Ion;m;DrobetaTurnu;DrobetaTurnu Severin, str. Carol I,bl. A 1, sc. 1, judeţul Mehedinţi
+318;Guran;George Cătălin;m;DrobetaTurnu;DrobetaTurnu Severin, bd. Carol I nr. 6,judeţul Mehedinţi
+319;Mărăscu;Ion;m;Vânju Mare;Vânju Mare, Str. Rahovei nr. 8, judeţulMehedinţi
+320;Pătăşanu;Constantin;m;Orşova;Orşova, str. Porţile de Fier nr. 6, judeţulMehedinţi
+321;Stan;Monica;f;Balş;Balş, Str. Cireşului nr. 11, judeţul Olt
+322;Diaconiţa;Constantin;m;Motru;Motru, Str. Trandafirilor, bl. C 4, ap. 1,judeţul Gorj
+323;Iovan;Cornel;m;Băileşti;Băileşti, Str. Victoriei nr. 46, judeţul Dolj
+324;Martinescu;Iacob;m;Baia de Aramă;SUSPENDAT
+325;Răduleţu;Valeriu;m;Târgu Cărbuneşti;Târgu Cărbuneşti, Str. Trandafirilor nr. 47,judeţul Gorj
+326;Viţelaru;Dumitru;m;Galaţi;Galaţi, str. Regiment 11 Siret nr. 45, bl. I.2,ap. 27, judeţul Galaţi
+327;Micu;Constantin;m;Galaţi;Galaţi, Str. Brăilei nr. 157, bl. A7, ap. 16,judeţul Galaţi
+328;Munteanu;Paraschiva Laura;f;Galaţi;Galaţi, Str. Brăilei nr. 157, bl. A7, ap. 67,judeţul Galaţi
+329;Coţac;DănuţCarmen;dk;Galaţi;Galaţi, str. Regimentul 11 Siret nr. 43, bl.E9, sc. 1, ap. 4, judeţul Galaţi
+330;Postelnicu;Ştefan;m;Galaţi;Galaţi, str. Regimentul 11 Siret nr. 43,bl. E9, ap. 2, parter, judeţul Galaţi
+331;Tudorie;Ştefan;m;Galaţi;Galaţi, Str. Brăilei nr. 165, bl. A 3, et. 1,ap. 38, judeţul Galaţi
+332;Dajbog;Geanina;f;Galaţi;Galaţi, Str. Brăilei nr. 155, bl. A8, ap. 12,judeţul Galaţi
+333;Căpraru;Apostu;dk;Tecuci;Tecuci, str. Costache Racoviţă nr. 2, bl. R,ap. 64, judeţul Galaţi
+334;Ţigănuş;ViorelMirel;dk;Tecuci;Tecuci, str. Vasile Alecsandri nr. 2, bl. R,ap. 43, parter, judeţul Galaţi
+335;Ionescu;Claudia Cristina;f;Panciu;Panciu, str. Nicolae Titulescu, fără număr,judeţul Vrancea
+336;Pintilie;Lucian Gabriel;m;Brăila;Brăila, bd. A. I. Cuza nr. 18, judeţul Brăila
+337;Drăgulin;Eugen;m;Brăila;Brăila, Str. Frumoasă nr. 7, judeţul Brăila
+338;Postelnicu;Gabriela;f;Brăila;Brăila, bd. A.I. Cuza nr. 5, bl. Duplex,ap. 12, parter, judeţul Brăila
+339;Turcu;George;m;Brăila;Brăila, bd. A. I. Cuza nr. 3, judeţul Brăila
+340;Romarciuc;CosminIulian;dk;Brăila;Brăila, Calea Călăraşilor nr. 56, bl. 11, sc 4,ap. 10, parter, judeţul Brăila
+341;Motoc;Petrică;m;Însurăţei;Însurăţei, str. Ecaterina Teodoroiu nr. 24,judeţul Brăila
+342;Coman;Gelu;m;Focşani;Focşani, str. Cuza Vodă nr. 3, judeţul Vrancea
+343;Creţu;CirpianCorneliu;dk;Focşani;Focşani, str. Cuza Vodă nr. 3, judeţul Vrancea
+344;Bârsan;Firel;m;Focşani;Focşani, str. Bucegi nr. 2, bl. 7, ap. 16,judeţul Vrancea
+345;Bârsan;Vicuţa Maria;f;Focşani;Focşani, str. Bucegi nr. 2, bl. 7, ap. 16,judeţul Vrancea
+346;Teodorescu;Ioan Cristian;m;Focşani;Focşani, str. Cezar Bolliac nr. 6, bl. 6,ap. 3, judeţul Vrancea
+347;Bercariu;Corneliu;m;Focşani;Focşani, str. Bucegi nr. 2, bl. 7, ap. 18,judeţul Vrancea
+348;Mircea;BogdanConstantin;dk;Adjud;Adjud, str. Al. I. Cuza nr. 54, judeţul Vrancea
+349;Pop;Ioan;m;Târgu Mureş;Târgu Mureş, str. Bolyai Farkas nr. 28, ap. 4,judeţul Mureş
+350;Olariu;Titu Traian;m;Târgu Mureş;Târgu Mureş, str. Borsos Tamas nr. 14/A,judeţul Mureş
+351;Giunca;Maria Cristina;f;Târgu Mureş;Târgu Mureş, Str. Retezatului nr. 13, judeţulMureş
+352;Puia;Romulus;m;Târgu Mureş;Târgu Mureş, Str. Busuiocului nr. 4, sc. C,ap. 42, parter, judeţul Mureş
+353;Szekely;Szabolcs Barna;m;Târgu Mureş;Târgu Mureş, str. Bolyai nr. 17/A, judeţulMureş
+354;Hurubă;Eugen;m;Târgu Mureş;Târgu Mureş, str. Bolyai Farkas nr. 28, ap. 4,judeţul Mureş
+355;Şooş;Ştefan;m;Târgu Mureş;Târgu Mureş, str. Bolyai Farkas nr. 28, ap. 4,judeţul Mureş
+356;Kenosy;Adrian Zoltan;m;Sighişoara;Sighişoara, str. Hermen Oberth nr. 28, judeţulMureş
+357;Corcescu;Horaţiu;m;Târnăveni;Târnăveni, str. Gh. Mănoiu nr. 3, judeţul Mureş
+358;Roga;Sorin;m;Reghin;Reghin, Str. Sării nr. 2, judeţul Mureş
+359;Olteanu;Radu;m;Reghin;Reghin, str. Petru Maior nr. 48, et. 2, ap. 8,judeţul Mureş
+360;Sarig;Attila;m;MiercureaCiuc;MiercureaCiuc, str. Gh. Doja, bl. 11, et. 1,ap. 1, judeţul Harghita
+361;Szilagyi;Erzsebet;f;MiercureaCiuc;MiercureaCiuc, str. N. Bălcescu, bl. 2,ap. 12, judeţul Harghita
+362;Cotfas;Marin Cornel;m;Topliţa;Topliţa, str. Miron Cristea, bl. D, sc. 1,ap. 1, judeţul Harghita
+363;Biro;Mihaiu;m;Odorheiu Secuiesc;Odorheiu Secuiesc, str. Tamasi Aron nr. 12,ap. 7, judeţul Harghita
+364;Zacornea;Constantin;m;Iaşi;Iaşi, str. Grigore Ureche, Casa cu absidă
+365;Airinei;Constantin;m;Iaşi;Iaşi, Str. Armeană nr. 12, judeţul
+366;Andrei;Cezar;m;Iaşi;Iaşi, str. Grigore Ureche, Casa cu absidă
+367;Bîrcă;Gabriel;m;Iaşi;Iaşi, str. Anastasie Panu nr. 23, bl. Muntenia,
+368;Anchidin;Cornelia;f;Iaşi;Iaşi, str. Arcu nr. 24, judeţul Iaşi
+369;Plumbu;Sergiu-Sebastian;m;Iaşi;Iaşi, str. Anastasie Panu nr. 23, bl. Muntenia,mezanin, judeţul Iaşi
+370;Zabolotnăi;Vladimir;m;Iaşi;Iaşi, str. Sf. Lazăr nr. 4, bl. Peneş Curcanul,tronson 5, sc. C, demisol, judeţul Iaşi
+371;Zacornea;Constantin-Ciprian;m;Iaşi;Iaşi, str. A. Panu nr. 52, bl. H2, et. 9,ap. 3, judeţul Iaşi
+372;Bujoreanu;George-Cristian;m;Bârlad;Bârlad, Str. Republicii nr. 298 B, et. 1,judeţul Vaslui
+373;Stan;Iulian Marius;m;Bârlad;Bârlad, Str. Republicii, bl. UMPS, et. 2,judeţul Vaslui
+374;Boboc;Mihai;m;Vaslui;Vaslui, str. Ştefan cel Mare, bl. 95, sc. A,ap. 25, judeţul Vaslui
+375;Angheluţă;Lucian;m;Răducăneni;Raducăneni, ConsumCoop, judeţul Iaşi
+376;Corbu;Vasile;m;Paşcani;Paşcani, str. Eugen Stamate, bl. D2A, judeţulIaşi
+377;Popovici;Florin;m;Paşcani;Paşcani, str. Eugen Stamate nr. 6, bl. L1,parter, judeţul Iaşi
+378;Guţu;Adrian;m;Huşi;Huşi, Str. Eroilor, bl. 17, sc. A, ap. 3,judeţul Vaslui
+379;Rădulescu;Remus;m;Ploieşti;Ploieşti, str. Toma Caragiu nr. 7, et. 2,ap. 6, judeţul Prahova
+380;Matei;Sebastian;m;Ploieşti;Ploieşti, P-ţa Victoriei nr. 9, bl. CC Sud,sc. B, et. 1, ap. 19, judeţul Prahova
+381;Trifina;Elena;f;Ploieşti;Ploieşti, P-ţa Victoriei nr. 4, bl. CC VEST,sc. D, ap. 83, judeţul Prahova
+382;Tănase;Laura-Ioana;f;Ploieşti;Ploieşti, P-ţa Victoriei nr. 4, bl. CC VEST,sc. D, ap. 83, judeţul Prahova
+383;Galea;Cristian Viorel;m;Ploieşti;Ploieşti, P-ţa Victoriei nr. 4, bl. CC VEST,sc. D, ap. 83, judeţul Prahova-asociat cu
+384;Divoiu;Maria;f;Ploieşti;Ploieşti, P-ţa Victoriei nr. 5, bl. B Est,sc. G, et. 3, ap. 101, judeţul Prahova
+385;Petcu;Alexandru;m;Ploieşti;Ploieşti, Str. Luminii nr. 2, bl. 30D, sc. A,ap. 2, judeţul Prahova
+386;Roşu;Ortansa-Adriana;f;Ploieşti;Ploieşti, str. Toma Caragiu nr. 7, et. 1,ap. 3, judeţul Prahova
+387;Goslan;Mihai;m;Ploieşti;Ploieşti, Str. Poştei nr. 3, judeţul Prahova
+388;Muşat;Mihaela Alina;f;Ploieşti;Ploieşti, str. Toma Caragiu nr. 9, et. 1,ap. 5, judeţul Prahova
+389;Huideş;Elena;f;Câmpina;SUSPENDATĂ
+390;Frîncu;Mihai;m;Câmpina;Câmpina, Str. 1 Decembrie nr. 19, bl. R 59,ap. 4, judeţul Prahova
+391;Rosu;Cristian-Cornel;m;Câmpina;Câmpina, Str. 1 Decembrie 1918 nr. 16, bl.20 C, sc. A, et. 2, ap. 11, judeţul Prahova
+392;Negulescu;Emilian Mihail;m;Vălenii de Munte;Vălenii de Munte, Aleea Alunilor nr. 1, judeţulPrahova
+393;Mihai;Ducu;m;Târgovişte;Târgovişte, calea Bucureşti, bl. O 1, sc. D,et. 1, ap. 2, judeţul Dâmboviţa
+394;Deaconescu;Adrian;m;Târgovişte;Târgovişte, str. Radu Geoglovan, bl. 51, ap. 2,judeţul Dâmboviţa
+395;Stănescu;Mihai;m;Târgovişte;Târgovişte, str. Avram Iancu, bl. 37A, ap. 2,judeţul Dâmboviţa
+396;Mihai;Alexandru-Daniel;m;Târgovişte;Târgovişte, calea Bucureşti, bl. O 1, sc. D,et. 1, ap. 2, judeţul Dâmboviţa
+397;Zavera;Carmen;f;Târgovişte;Târgovişte, Calea Domnească nr. 355, judeţulDâmboviţa
+398;Scurtu;Alexe;m;Târgovişte;SUSPENDAT
+399;Bivolaru;Margareta;f;Găeşti;Găeşti, Str. 13 Decembrie, bl. 49, sc. B,parter, judeţul Dâmboviţa
+400;Gruianu;Viorel;m;Pucioasa;Pucioasa, Str. Libertăţii nr. 1, judeţulDâmboviţa
+401;Stefan;Cătălin-Cristian;m;Pucioasa;Pucioasa, Str. Gării nr. 21, judeţul Dâmboviţa
+402;Pavel;Bebi;m;Sinaia;Sinaia, Str. Republicii nr. 26, judeţul Prahova
+403;Marin;Florea;dk;Răcari;Răcari, str. Ana Ipătescu nr. 88, judeţulDâmboviţa
+404;Marin;George-Robert;m;Răcari;Răcari, str. Ana Ipătescu nr. 88, judeţulDâmboviţa
+405;Porojnicu;Adrian;m;Buzău;Buzău, str. Obor nr. 53, bl. 11, sc. B, ap. 2,parter, judeţul Buzău
+406;Popescu;Adrian;m;Buzău;Buzău, Bd. Unirii nr. 201, bl. 1, sc. B,parter, judeţul Buzău
+407;Cucu;Lucian-Ciprian;m;Buzău;Buzău, Str. Unirii nr. 201, bl. 1, sc. B,parter, judeţul Buzău
+408;Ailincăi;Alexandru;m;Buzău;Buzău, Str. Unirii, bl. 181, ap. 3, judeţulBuzău
+409;Nicolau;Iulian-Nicolae;m;Buzău;Buzău, Bd. Democraţiei nr. 50, judeţul Buzău
+410;Clinciu;Gheorghe;m;Râmnicu Sărat;Râmnicu Sărat, str. Crângul Meiului nr. 34,judeţul Buzău
+411;Dumitru;Florina-Loredana;f;Moreni;Moreni, Str. 22 Decembrie nr. 57, bl. 160 B,ap. 27, judeţul Dâmboviţa
+412;Popescu;Virgil Paul;m;Arad;Arad, Str. Blajului nr. 2, judeţul Arad
+413;Păsculescu;Horia;m;Arad;Arad, bd. Gen. Vasile Milea nr. 41, ap. 2,judeţul Arad
+414;Cârciumaru;Gheorghe;m;Arad;Arad, str. Avram Iancu nr. 5/6, et. 1, ap. 10,judeţul Arad
+415;Viţan;Ştefan;m;Arad;Arad, bd. Gen. V. Milea nr. 41, ap. 2, judeţulArad
+416;Horvat;Viorel;m;Arad;Arad, Str. Blajului nr. 2, et. 1, ap. 9,judeţul Arad
+417;Chersa;Pantelimon;m;Arad;Arad, Str. Blajului nr. 3, ap. 15, judeţul Arad
+418;Godea;Alexandru;m;Arad;Arad, str. Praporgescu nr. 21, ap. 2, judeţulArad
+419;Găluţi;Alexandru;m;Ineu;Ineu, str. Republicii nr. 26, judeţul Arad
+420;Gavrilescu;Magnolia-Maria;f;Ineu;Ineu, Str. Republicii nr. 36, ap. 3, judeţulArad
+421;Bosneac;Lavinia Maria;f;Lipova;Lipova, Str. Teiului nr. 18, judeţul Arad
+422;Nebunu;Nicolae;m;Reşiţa;Reşiţa, Str. Corbului, bl. 7, sc. 2, ap. 3,judeţul Caraş-Severin
+423;Modâlcă;Gheorghe;m;Reşiţa;Reşiţa, str. Petru Maior nr. 2, bl. 800, et. 1,camera 122, judeţul Caraş-Severin
+424;Ciobanu;Gheorghe;m;Reşiţa;Reşiţa, str. George Coşbuc nr. 3, judeţulCaraş-Severin
+425;Dragomir;Daniel;m;Timişoara;Timişoara, str. Palanca nr. 1, ap. 3, judeţulTimiş
+426;Jurchescu;Cristian Mihai;m;Timişoara;Timişoara, str. Ionel I.C. Brătianu nr. 1,ap. 4, judeţul Timiş
+427;Munteanu;Doru;m;Timişoara;Timişoara, str. Griselini nr. 1, et. 1, judeţulTimiş
+428;Opriţescu;Bujor;m;Timişoara;Timişoara, str. Gen. Traian Doda nr. 1, ap. 5,judeţul Timiş
+429;Todoran;Sorin-Marius;m;Timişoara;Timişoara, P-ţa Ţepeş Vodă nr. 1, et. 1, camera3, judeţul Timiş
+430;Marghescu;Anca Lucia;f;Timişoara;Timişoara, str. Palanca nr. 1, parter, ap. 2,judeţul Timiş
+431;Matei;Sorin-Romeo;m;Timişoara;Timişoara, str. Ţepeş Vodă nr. 1, ap. 7,judeţul Timiş
+432;Matei;Alina-Ioana;f;Timişoara;Timişoara, str. Ţepeş Vodă nr. 1, ap. 7,judeţul Timiş
+433;Crăciun;Cristian;m;Timişoara;Timişoara, str. Gen. Traian Doda nr. 1, ap. 5,judeţul Timiş
+434;Capotescu;Ioan;m;Timişoara;Timişoara, str. Paul Chinezul nr. 2, et. 1,S.A.D. 8A, judeţul Timiş
+435;Huţiu;Vasile-Constantin;m;Făget;SUSPENDAT
+436;Blajovan;Nucu-Tiberius;m;Lugoj;Lugoj, str. Ion Huniade, bl. 5, ap. 3, judeţulTimiş
+437;Mereu;Cristian Petru;m;Lugoj;Lugoj, Str. 20 Decembrie 1918 nr. 18, judeţulTimiş
+438;Damian-Kleinsz;Nicolae-Vasile;m;Lugoj;Lugoj, str. Făgăraş nr. 2, parter, camera 4,judeţul Timiş
+439;Sima-Pinteală;Ion;m;Caransebeş;Caransebeş, str. N. Bălcescu nr. 3, et. 1,judeţul Caraş-Severin
+440;Sima-Pinteală;Andrada-Georgiana;f;Caransebeş;Caransebeş, str. N. Bălcescu nr. 3, et. 1,judeţul Caraş-Severin
+441;Ţimonea;Mihai;m;Caransebeş;Caransebeş, str. Cloşca nr. 3, judeţulCaraş-Severin
+442;Ţerei;Simona-Elisabeta;f;Sânnicolau Mare;Sânnicolau Mare, Str. 16 Decembrie 1989 nr. 7,judeţul Timiş
+443;Stepanov;Voislav;dk;Sânnicolau Mare;Sânnicolau Mare, P-ţa 30 Decembrie nr. 9,judeţul Timiş
+444;Iliescu;Alexandru;m;Sânnicolau Mare;Sânnicolau Mare, P-ţa 30 Decembrie nr. 9,judeţul Timiş
+445;Buduşan;Mirabela;f;Chişineu-Criş;Chişineu-Criş, Piaţa Avram Iancu nr. 1, judeţulArad

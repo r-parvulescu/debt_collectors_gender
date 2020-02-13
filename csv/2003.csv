@@ -1,0 +1,324 @@
+nr;nume;prenume;camera;localitate;sediu;sex;cod sex, femeie = 1
+1;Sapta;Florian;Alba Iulia;Alba Iulia;;m;0
+2;Baba;Teodor Nicolae;Alba Iulia;Alba Iulia;;m;0
+3;Aldea;Marin Vasile;Alba Iulia;Aiud;;m;0
+4;Saratean;Dumitru Alexandru;Alba Iulia;Blaj;;m;0
+5;Sav;Augustin;Alba Iulia;Campeni;;m;0
+6;Boldas;Liviu Nicolae;Alba Iulia;Sebes;;m;0
+7;Carja;Ispas;Alba Iulia;Sibiu;;m;0
+8;Cruduleci;Horatiu;Alba Iulia;Sibiu;;m;0
+9;Marin;Vasile;Alba Iulia;Sibiu;;m;0
+10;Tatu;Felician Liviu;Alba Iulia;Sibiu;;m;0
+11;Tudor;Vasile Petru;Alba Iulia;Medias;;m;0
+12;Rotaru;Simion;Alba Iulia;Medias;;m;0
+13;Baciu;Traian;Alba Iulia;Hunedoara;;m;0
+14;Barboni;Eugen;Alba Iulia;Deva;;m;0
+15;Benteu;Aron;Alba Iulia;Deva;;m;0
+16;Vrabie;Florin Constantin;Alba Iulia;Petrosani;;m;0
+17;Dumitrache;Emilia;Alba Iulia;Petrosani;;f;1
+18;Oancea;Petru;Alba Iulia;Orastie;;m;0
+19;Rovinar;Daniel Marin;Alba Iulia;Brad;;m;0
+20;Nutescu;C-ţin Ciprian;Alba Iulia;Saliste;;m;0
+21;Opris;Ofelia;Alba Iulia;Hateg;;f;1
+22;Scutea;Sorin;Alba Iulia;Agnita;;m;0
+23;Ifrim;Remus;Alba Iulia;Hunedoara;;m;0
+24;Bucescu;Emanoil Aron;Pitesti;Pitesti;;m;0
+25;Rada;Ion;Pitesti;Pitesti;;m;0
+26;Ioana;Cristian;Pitesti;Pitesti;;m;0
+27;Negoescu;Adrian Gheorghe;Pitesti;Pitesti;;m;0
+28;Copaci;Vasile Dorel;Pitesti;Pitesti;;m;0
+29;Fieraru;Eugen;Pitesti;Pitesti;;m;0
+30;Mitu;Mihai Ioan;Pitesti;Campulung;;m;0
+31;Iordache;Vasile;Pitesti;Curtea de Arges;;m;0
+32;Raduca;Constantin;Pitesti;Ramnicu Valcea;;m;0
+33;Bunescu;Dumitru Teodor;Pitesti;Ramnicu Valcea;;m;0
+34;Deaconu;Mihai;Pitesti;Ramnicu Valcea;;m;0
+35;Gatejescu;Bogdan Constantin;Pitesti;Ramnicu Valcea;;m;0
+36;Buzatu;Constantin;Pitesti;Ramnicu Valcea;;m;0
+37;Condoiu;Florea;Pitesti;Dragasani;;m;0
+38;Valeanu;Ilie;Pitesti;Horezu;;m;0
+39;Radu;Marius;Pitesti;Brezoi;;m;0
+40;Andrei;Ionel;Pitesti;Costesti;;m;0
+41;Iordache;Ion;Pitesti;Topoloveni;;m;0
+42;Varga;Ioan;Pitesti;Balcesti;;m;0
+43;Grigore;Nicolae;Bacau;Bacau;;m;0
+44;Chiticeanu;Florin;Bacau;Bacau;;m;0
+45;Ciobanu;Ioan;Bacau;Bacau;;m;0
+46;Dascalita;Dumitru;Bacau;Bacau;;m;0
+47;Mititelu;Iosif;Bacau;Bacau;;m;0
+48;Kovacs;Gabriel;Bacau;Buhusi;;m;0
+49;Popa;Valentin;Bacau;Onesti;;m;0
+50;Bajenaru;Dorin;Bacau;Onesti;;m;0
+51;Prisecariu;Cezar Sorin;Bacau;Onesti;;m;0
+52;Bindileu;Eugen;Bacau;Moinesti;;m;0
+53;Neneci;Tanase;Bacau;Piatra-Neamt;;m;0
+54;Cotoi;Cornel;Bacau;Piatra-Neamt;;m;0
+55;Mares;Ioan;Bacau;Piatra-Neamt;;m;0
+56;Mocanu;Pavel;Bacau;Piatra-Neamt;;m;0
+57;Mereuta;Ioan;Bacau;Roman;;m;0
+58;Postelnicu;Spiridon;Bacau;Roman;;m;0
+59;Dron;Gheorghe;Bacau;Targu-Neamt;;m;0
+60;Balan;Ioan;Bacau;Bicaz;;m;0
+61;Puscas;Eugen Nicolae;Oradea;Oradea;;m;0
+62;Puiu;Gheorghe;Oradea;Oradea;;m;0
+63;Bucureanu;Ioan;Oradea;Oradea;;m;0
+64;Negrau;Mihai;Oradea;Oradea;;m;0
+65;Pasca;Titu;Oradea;Beius;;m;0
+66;Popovici;Dorin;Oradea;Alesd;;m;0
+67;Serfezi;Florin;Oradea;Marghita;;m;0
+68;Danciu;Gheorghe Radu;Oradea;Satu Mare;;m;0
+69;Vasvari;Aurel;Oradea;Satu Mare;;m;0
+70;Michis;Ioan;Oradea;Satu Mare;;m;0
+71;Iva-Anitas;Dan Marian;Oradea;Carei;;m;0
+72;Tataru;Ioan;Suceava;Suceava;;m;0
+73;Tugui;Cezar;Suceava;Suceava;;m;0
+74;Mustea;Marcel Mihai;Suceava;Suceava;;m;0
+75;Jugaru;Constantin;Suceava;Suceava;;m;0
+76;Bordian;Constantin;Suceava;Gura Humorului;;m;0
+77;Miron;Catalin;Suceava;Radauti;;m;0
+78;Miron;Benoni Viorel;Suceava;Radauti;;m;0
+79;Starica;Radu;Suceava;Campulung Moldovenesc;;m;0
+80;Ioneac;Sevastian;Suceava;Campulung Moldovenesc;;m;0
+81;Hopu;Vasile;Suceava;Falticeni;;m;0
+82;Strachinaru;Dumitru;Suceava;Botosani;;m;0
+83;Gavriliuc;Sorin;Suceava;Botosani;;m;0
+84;Manoila;Vasile;Suceava;Botosani;;m;0
+85;Sfaiter;Carmen;Suceava;Botosani;;f;1
+86;Secrieru;Dinu;Suceava;Botosani;;m;0
+87;Popa;Daniel;Suceava;Dorohoi;;m;0
+88;Smocot;Grigore;Suceava;Dorohoi;;m;0
+89;Guceanu;Adrian;Suceava;Darabani;;m;0
+90;Carlan;Florin;Suceava;Saveni;;m;0
+91;Tereaca;Cornel Toma;Brasov;Braşov;;m;0
+92;Dinca;Stelian Emil;Brasov;Braşov;;m;0
+93;Koppandi;Ollyver;Brasov;Braşov;;m;0
+94;Dutceac;Ioan;Brasov;Braşov;;m;0
+95;Anca;Ramona Loredana;Brasov;Braşov;;f;1
+96;Blajiu;Gheorghe;Brasov;Zarnesti;;m;0
+97;Fratila;Viorel Alexandru;Brasov;Fagaras;;m;0
+98;Mathe-Peter;Iosif;Brasov;Sfantu Gheorghe;;m;0
+99;Concz;Csaba;Brasov;Sfantu Gheorghe;;m;0
+100;Kolcza;Jeno Gabor;Brasov;Sfantu Gheorghe;;m;0
+101;Balas;Marius;Brasov;Targu Secuiesc;;m;0
+102;Iordache;Cristian;Brasov;Madalin Rupea;;m;0
+103;Draganescu;Gabriel George;Bucuresti;Bucureşti;;m;0
+104;Ionescu;Niculae;Bucuresti;Bucureşti;;m;0
+105;Crafcenco;Marius Gheorghe;Bucuresti;Bucureşti;;m;0
+106;Nemes;Dan;Bucuresti;Bucureşti;;m;0
+107;Stanescu;Ilie;Bucuresti;Bucureşti;;m;0
+108;Ezer;Lucian;Bucuresti;Bucureşti;;m;0
+109;Popescu;Claudiu George;Bucuresti;Bucureşti;;m;0
+110;Staiculescu;Dumitru;Bucuresti;Bucureşti;;m;0
+111;Popescu;Sofica;Bucuresti;Bucureşti;;f;1
+112;Dima;Mihai;Bucuresti;Bucureşti;;m;0
+113;Iordache;Radu;Bucuresti;Bucureşti;;m;0
+114;Boambes;Viorel;Bucuresti;Bucureşti;;m;0
+115;Badea;Catalin;Bucuresti;Bucureşti;;m;0
+116;Raileanu;Ionut Catalin;Bucuresti;Bucureşti;;m;0
+117;Casagranda-Stana;Anton;Bucuresti;Bucureşti;;m;0
+118;Popa;Vasile;Bucuresti;Bucureşti;;m;0
+119;Vasiliu;George;Bucuresti;Bucureşti;;m;0
+120;Tanase;Gheorghe;Bucuresti;Bucureşti;;m;0
+121;Chiriloiu;Filoftia;Bucuresti;Bucureşti;;f;1
+122;Milos;Cristian;Bucuresti;Bucureşti;;m;0
+123;Gont;Dorina;Bucuresti;Bucureşti;;m;0
+124;Jalba;Georgiana Nicoleta;Bucuresti;Bucureşti;;f;1
+125;Safta;Doina;Bucuresti;Bucureşti;;f;1
+126;Scaesteanu;Silvia;Bucuresti;Bucureşti;;f;1
+127;Dobra;Camelia Ofelia;Bucuresti;Buftea;;f;1
+128;Dobranici;Doina Crenguta;Bucuresti;Buftea;;f;1
+129;Ichim;Viorel;Bucuresti;Buftea;;m;0
+130;Benescu;Catalin Manuel;Bucuresti;Buftea;;m;0
+131;Nistor;Vasile;Bucuresti;Zimnicea;;m;0
+132;Agiu;Iulian;Bucuresti;Rosiori de Vede;;m;0
+133;Milos;Marius Emil;Bucuresti;Rosiori de Vede;;m;0
+134;Impungeroua;Nicolae;Bucuresti;Videle;;m;0
+135;Mihaita;Marian;Bucuresti;Alexandria;;m;0
+136;Horvath;Sorin Cornel;Bucuresti;Alexandria;;m;0
+137;Nitu;Ion;Bucuresti;Slobozia;;m;0
+138;Banciu;Constantin;Bucuresti;Slobozia;;m;0
+139;Constantin;Radu;Bucuresti;Urziceni;;m;0
+140;Milea;Anghel;Bucuresti;Fetesti;;m;0
+141;Barbulescu;Constantin;Bucuresti;Bolintin-Vale;;m;0
+142;Iordache;Ion;Bucuresti;Giurgiu;;m;0
+143;Martin;Constantin;Bucuresti;Giurgiu;;m;0
+144;Gogoase-Popescu;Florinel Bebe;Bucuresti;Giurgiu;;m;0
+145;Stoian;Valentin;Bucuresti;Calarasi;;m;0
+146;Şerban;Victor;Bucuresti;Calarasi;;m;0
+147;Mihalcea;Ionel;Bucuresti;Calarasi;;m;0
+148;Ene;Alexandru;Bucuresti;Oltenita;;m;0
+149;Oprisan;Constantin;Bucuresti;Lehliu-Gara;;m;0
+150;Stolnean;Romeo Marius;Cluj;Cluj-Napoca;;m;0
+151;Campian;Mihai-Radu;Cluj;Cluj-Napoca;;m;0
+152;Bolos;Mircea;Cluj;Cluj-Napoca;;m;0
+153;Popa;Nicolae Fanfany;Cluj;Cluj-Napoca;;m;0
+154;Marian;Daniel;Cluj;Turda;;m;0
+155;Sipos;Alexandru;Cluj;Dej;;m;0
+156;Potra;Iulian Adrian;Cluj;Huedin;;m;0
+157;Moldovan;Ioan Florin;Cluj;Gherla;;m;0
+158;Ivanov;Emilian Geani;Cluj;Bistrita;;m;0
+159;Manchevici;Marin;Cluj;Bistrita;;m;0
+160;Andronesi;Valerian Dorin;Cluj;Bistrita;;m;0
+161;Ilovan;Dumitru;Cluj;Nasaud;;m;0
+162;Sarbu;Viorel;Cluj;Nasaud;;m;0
+163;Muresan;Vasile Mircea;Cluj;Beclean;;m;0
+164;Vucea;Gheorghe;Cluj;Baia Mare;;m;0
+165;Morari;Marius Iacob;Cluj;Baia Mare;;m;0
+166;Bud;Robert Mihai;Cluj;Baia Mare;;m;0
+167;Simos;Attila;Cluj;Baia Mare;;m;0
+168;Coman;Gheorghe Gavril;Cluj;Sighetu Marmatiei;;m;0
+169;Batin;Petru;Cluj;Sighetu Marmatiei;;m;0
+170;Bucur;Ioan;Cluj;Viseu de Sus;;m;0
+171;Anitei;Dorel;Cluj;Viseu de Sus;;m;0
+172;Titoc;Ioan;Cluj;Targu Lapus;;m;0
+173;Oszoczki;Marton;Cluj;Zalau;;m;0
+174;Turcas;Ioan;Cluj;Zalau;;m;0
+175;Kovacs;Levente Ferenc;Cluj;Zalau;;m;0
+176;Fati;Vasile;Cluj;Simleu Silvaniei;;m;0
+177;Deacu;Vasile;Constanta;Constanta;;m;0
+178;Gavrilescu;Alin;Constanta;Constanta;;m;0
+179;Volintiru;Ştefan;Constanta;Constanta;;m;0
+180;Oana;Marian;Constanta;Constanta;;m;0
+181;Malciu;Aurel;Constanta;Constanta;;m;0
+182;Vasile;Dumitru Gabriel;Constanta;Constanta;;m;0
+183;Stoica;Constantin Adrian;Constanta;Constanta;;m;0
+184;Romanescu;Adrian;Constanta;Constanta;;m;0
+185;Munteanu;Ionel;Constanta;Constanta;;m;0
+186;Dumbrava;Dumitru;Constanta;Tulcea;;m;0
+187;Vlad;Irinel;Constanta;Tulcea;;m;0
+188;Cornea;Pompiliu;Constanta;Tulcea;;m;0
+189;Casapu;Catalin Octavian;Constanta;Tulcea;;m;0
+190;Solomon;Nicolae;Constanta;Medgidia;;m;0
+191;Banea;Alexandru;Constanta;Macin;;m;0
+192;Dorache;Nicolae;Constanta;Babadag;;m;0
+193;Grasu;Gelu Iulian;Constanta;Mangalia;;m;0
+194;Ivanovici;Cristodor Constantin;Craiova;Craiova;;m;0
+195;Terpovici;Laurentiu Bogdan;Craiova;Craiova;;m;0
+196;Iacob;Mircea;Craiova;Craiova;;m;0
+197;Balaci;Titi;Craiova;Craiova;;m;0
+198;Talpa-Neacsu;Cristian Florian;Craiova;Craiova;;m;0
+199;Balica;Marius Eugen;Craiova;Craiova;;m;0
+200;Prodan;Apostol;Craiova;Calafat;;m;0
+201;Crangus;Florina;Craiova;Filiasi;;f;1
+202;Olaru;Constantin;Craiova;Targu Jiu;;m;0
+203;Pasarin;Ionel;Craiova;Targu Jiu;;m;0
+204;Talianu;Savu;Craiova;Targu Jiu;;m;0
+205;Tranca;Nicusor;Craiova;Targu Jiu;;m;0
+206;Enea;Marin;Craiova;Targu Jiu;;m;0
+207;Vonica;Filimon;Craiova;Novaci;;m;0
+208;Matei;Marian;Craiova;Slatina;;m;0
+209;Vlad;Constantin;Craiova;Slatina;;m;0
+210;Pavaloiu;Georgeta;Craiova;Slatina;;f;1
+211;Neda;Ion;Craiova;Caracal;;m;0
+212;Rafaila;Vasile;Craiova;Caracal;;m;0
+213;Barsasteanu;Florian;Craiova;Corabia;;m;0
+214;Ispas;George;Craiova;Corabia;;m;0
+215;Darloaga;Florinel;Craiova;Strehaia;;m;0
+216;Dumitrescu;Alfred Constantin;Craiova;Drobeta-Turnu Severin;;m;0
+217;Cerbulescu;Constantin;Craiova;Drobeta-Turnu Severin;;m;0
+218;Purcaru;Marcel;Craiova;Drobeta-Turnu Severin;;m;0
+219;Popescu;Grigore Alin;Craiova;Drobeta-Turnu Severin;;m;0
+220;Raicu;Ion;Craiova;Vanju Mare;;m;0
+221;Marascu;Ion;Craiova;Vanju Mare;;m;0
+222;Patrasanu;Constantin;Craiova;Orşova;;m;0
+223;Stan;Monica;Craiova;Bals;;m;0
+224;Diaconita;Constantin;Craiova;Motru;;m;0
+225;Iovan;Cornel;Craiova;Segarcea;;m;0
+226;Martinescu;Iacob;Craiova;Baia de Arama;;m;0
+227;Madescu;Lionela;Craiova;Bailesti;;f;1
+228;Colt;Victor;Galati;Galaţi;;m;0
+229;Vitelaru;Dumitru;Galati;Galaţi;;m;0
+230;Martin;Tudorel;Galati;Galaţi;;m;0
+231;Micu;Constantin;Galati;Galaţi;;m;0
+232;Munteanu;Paraschiva Laura;Galati;Galaţi;;f;1
+233;Capraru;Apostu;Galati;Tecuci;;m;0
+234;Tiganus;Viorel Mirel;Galati;Tecuci;;m;0
+235;Postelnicu;Ştefan;Galati;Targu Bujor;;m;0
+236;Pintilie;Lucian Gabriel;Galati;Brăila;;m;0
+237;Dragulin;Eugen;Galati;Brăila;;m;0
+238;Turcu;George;Galati;Brăila;;m;0
+239;Postelnicu;Gabriela;Galati;Brăila;;f;1
+240;Motoc;Petrica;Galati;Insuratei;;m;0
+241;Coman;Gelu;Galati;Focsani;;m;0
+242;Barsan;Mititelu Firel;Galati;Focsani;;m;0
+243;Teodorescu;Ioan Cristian;Galati;Focsani;;m;0
+244;Bercariu;Corneliu;Galati;Panciu;;m;0
+245;Cotac;Danut Carmen;Galati;Adjud;;f;1
+246;Puia;Romulus;Targu Mures;Targu Mures;;m;0
+247;Soos;Ştefan;Targu Mures;Targu Mures;;m;0
+248;Szekely;Szabolcs Barna;Targu Mures;Targu Mures;;m;0
+249;Pop;Ioan;Targu Mures;Targu Mures;;m;0
+250;Olariu;Titu Traian;Targu Mures;Targu Mures;;m;0
+251;Giunca;Cristina Maria;Targu Mures;Targu Mures;;f;1
+252;Kenosy;Adrian Zoltan;Targu Mures;Sighisoara;;m;0
+253;Corcescu;Horatiu;Targu Mures;Tarnaveni;;m;0
+254;Roga;Sorin;Targu Mures;Reghin;;m;0
+255;Olteanu;Radu;Targu Mures;Reghin;;m;0
+256;Sarig;Attila;Targu Mures;Miercurea-Ciuc;;m;0
+257;Szilagyi;Erzsebet;Targu Mures;Miercurea-Ciuc;;f;1
+258;Cotfas;Marin Cornel;Targu Mures;Toplita;;m;0
+259;Baroti;Pal;Targu Mures;Gheorgheni;;m;0
+260;Biro;Mihaiu;Targu Mures;Odorheiu Secuiesc;;m;0
+261;Huruba;Eugen;Targu Mures;Ludus;;m;0
+262;Zacornea;Constantin;Iasi;Iaşi;;m;0
+263;Mihaila;Radu;Iasi;Iaşi;;m;0
+264;Airinei;Constantin;Iasi;Iaşi;;m;0
+265;Andrei;Cezar;Iasi;Iaşi;;m;0
+266;Barca;Gabriel;Iasi;Iaşi;;m;0
+267;Stan;Iulian Marius;Iasi;Murgeni;;m;0
+268;Boboc;Mihai;Iasi;Vaslui;;m;0
+269;Angheluta;Lucian;Iasi;Raducaneni;;m;0
+270;Corbu;Vasile;Iasi;Pascani;;m;0
+271;Popovici;Florin;Iasi;Pascani;;m;0
+272;Gutu;Adrian;Iasi;Husi;;m;0
+273;Petre;Cristian;Ploiesti;Ploiesti;;m;0
+274;Rădulescu;Remus;Ploiesti;Ploiesti;;m;0
+275;Matei;Sebastian;Ploiesti;Ploiesti;;m;0
+276;Trifina;Elena Cornelia;Ploiesti;Ploiesti;;f;1
+277;Tanase;Laura Ioana;Ploiesti;Ploiesti;;f;1
+278;Divoiu;Maria;Ploiesti;Ploiesti;;f;1
+279;Francu;Mihai;Ploiesti;Campina;;m;0
+280;Negulescu;Emilian Mihail;Ploiesti;Valenii de Munte;;m;0
+281;Mihai;Ducu;Ploiesti;Targoviste;;m;0
+282;Georgescu;Gheorghe;Ploiesti;Targoviste;;m;0
+283;Deaconescu;Adrian;Ploiesti;Targoviste;;m;0
+284;Ştefan;Viorel Dinu;Ploiesti;Targoviste;;m;0
+285;Stanescu;Mihai;Ploiesti;Targoviste;;m;0
+286;Duica;Claudiu;Ploiesti;Gaesti;;m;0
+287;Gruianu;Viorel;Ploiesti;Pucioasa;;m;0
+288;Manole;Victor;Ploiesti;Patarlagele;;m;0
+289;Pavel;Bebi;Ploiesti;Moreni;;m;0
+290;Marin;Florea;Ploiesti;Racari;;m;0
+291;Porojnicu;Adrian;Ploiesti;Buzau;;m;0
+292;Popescu;Adrian Gabriel;Ploiesti;Buzau;;m;0
+293;Rusen;Valeriu;Ploiesti;Buzau;;m;0
+294;Ailincai;Alexandru;Ploiesti;Ramnicu Sarat;;m;0
+295;Clinciu;Gheorghe;Ploiesti;Ramnicu Sarat;;m;0
+296;Nicolau;Iulian Nicolae;Ploiesti;Pogoanele;;m;0
+297;Dragomir;Daniel;Timisoara;Timişoara;;m;0
+298;Jurchescu;Cristian Mihai;Timisoara;Timişoara;;m;0
+299;Munteanu;Doru;Timisoara;Timişoara;;m;0
+300;Opritescu;Bujor;Timisoara;Timişoara;;m;0
+301;Todoran;Marius Sorin;Timisoara;Timişoara;;m;0
+302;Matei;Sorin Romeo;Timisoara;Timişoara;;m;0
+303;Milici;Gheorghe;Timisoara;Timişoara;;m;0
+304;Marghescu;Anca Lucia;Timisoara;Timişoara;;f;1
+305;Soimosan;Alina;Timisoara;Timişoara;;f;1
+306;Vitan;Ştefan;Timisoara;Arad;;m;0
+307;Popescu;Virgil Paul;Timisoara;Arad;;m;0
+308;Pasculescu;Horia;Timisoara;Arad;;m;0
+309;Galuti;Alexandru;Timisoara;Ineu;;m;0
+310;Oprea;Dan;Timisoara;Lipova;;m;0
+311;Rus;Valentin Mihai;Timisoara;Gurahont;;m;0
+312;Carciumaru;Gheorghe;Timisoara;Chisineu-Cris;;m;0
+313;Nebunu;Nicolae;Timisoara;Resita;;m;0
+314;Modalca;Gheorghe;Timisoara;Resita;;m;0
+315;Ciobanu;Gheorghe;Timisoara;Resita;;m;0
+316;Tabusca;Vasile;Timisoara;Caransebes;;m;0
+317;Ghidut;Lucian Corneliu;Timisoara;Oravita;;m;0
+318;Hutiu;Vasile Constantin;Timisoara;Faget;;m;0
+319;Blajovan;Nucu Tiberius;Timisoara;Lugoj;;m;0
+320;Furdean;Mugurel;Timisoara;Lugoj;;m;0
+321;Sima;Ion;Timisoara;Caransebes;;m;0
+322;Capotescu;Ioan;Timisoara;Sannicolau Mare;;m;0
+;322;;0.07;;;;24

@@ -1,0 +1,7846 @@
+nr;nume;prenume;camera;localitate;sediu
+1;Scutea;Sorin;Alba Iulia;Agnita;Localitatea Agnita, str. Mihai Viteazu nr. 73, judeţul Sibiu
+2;Suciu;Anca Maria;Alba Iulia;Agnita;suspendat
+3;Aldea;Marin Vasile;Alba Iulia;Aiud;Localitatea Aiud, Str. Băilor nr. 33a, judeţul Alba
+4;Frăţilă;Ioan Florin;Alba Iulia;Aiud;Localitatea Aiud, Str. Morii nr. 6, judeţul Alba
+5;Baba;Teodor Nicolae;Alba Iulia;Alba Iulia;Localitatea Alba Iulia, str. Regina Maria nr. 2, camera 4, judeţul Alba
+6;Cherşa;Sebastian;Alba Iulia;Alba Iulia;Localitatea Alba Iulia, str. Fr. Mistral nr. 5 (corp B, camera 1), judeţul Alba
+7;Gligor-Lungan;Ştefan;Alba Iulia;Alba Iulia;Localitatea Alba Iulia, Str. Teilor nr. 4, ap. 5, judeţul Alba
+8;Ioaniciu-Sapta;Florina Livia;Alba Iulia;Alba Iulia;Localitatea Alba Iulia, str. Piaţa Iuliu Maniu nr. 25, judeţul Alba
+9;Sapta;Florian;Alba Iulia;Alba Iulia;Localitatea Alba Iulia, str. Piaţa Iuliu Maniu nr. 25, judeţul Alba
+10;Şchiopu;Florica;Alba Iulia;Alba Iulia;suspendat
+11;Vinersar;Maria Daniela;Alba Iulia;Alba Iulia;Localitatea Alba Iulia, str. Traian nr. 16, judeţul Alba
+12;Mişcoci;Dorina-Anca;Alba Iulia;Avrig;"Asociat SCPEJ ""Dumitru Marius Vasile, Miscoci Dorina Anca şi Stoian Codruta"" în Sibiu, Str. Justiţiei nr. 6A, judeţul Sibiu"
+13;Tatu;Anca;Alba Iulia;Avrig;Localitatea Avrig, str. Gheorghe Lazăr nr. 2A, judeţul Sibiu
+14;Rotaru-Zărnescu;Daniel;Alba Iulia;Blaj;Asociat BEJA Simion Rotaru şi Zarnescu Daniel Rotaru în Mediaş, str. Haţeg nr. 10, judeţul Sibiu
+15;Sărăţean;Dumitru Alexandru;Alba Iulia;Blaj;suspendat
+16;Bolog;Ileana Laura;Alba Iulia;Brad;suspendat
+17;Boloş;Georgiana-Adina;Alba Iulia;Brad;"Asociat SCPEJ ""Boloş şi Partenerii"" în Cluj-Napoca, Calea Dorobanţilor nr. 17, P, ap. 7, judeţul Cluj"
+18;Sav;Augustin;Alba Iulia;Câmpeni;Localitatea Câmpeni, Str. Teiului, bl. L1, ap. 4, judeţul Alba
+19;Sitterli;Ovidiu Ioan;Alba Iulia;Câmpeni;suspendat
+20;Barboni;Eugen;Alba Iulia;Deva;Localitatea Deva, str. Avram Iancu, bl. H3, sc. A, parter, judeţul Hunedoara
+21;Băieş;Maria Lucica;Alba Iulia;Deva;Localitatea Deva, Piaţa Victoriei nr. 2, camera 307, judeţul Hunedoara
+22;Benteu;Aron;Alba Iulia;Deva;Localitatea Deva, str. Aurel Vlaicu nr. 1, judeţul Hunedoara
+23;Ladariu;Anghel;Alba Iulia;Deva;Localitatea Deva, str. Ciprian Porumbescu, bl. 19A, sc. D, ap. 35, judeţul Hunedoara
+24;Neamţu;Teodor;Alba Iulia;Deva;Localitatea Deva, Piaţa Victoriei nr. 2, clădirea I, P. H., et. 3, camera 306, judeţul Hunedoara
+25;Opriş;Ofelia Monica;Alba Iulia;Deva;Localitatea Deva, str. Iuliu Maniu nr. 6, judeţul Hunedoara
+26;Pupeză;Bogdan Mihai;Alba Iulia;Deva;Localitatea Deva, bd. Decebal, bl. P, mezanin, camera 1, judeţul Hunedoara
+27;Pupeză;Elena;Alba Iulia;Deva;Localitatea Deva, bd. Decebal, bl. P, mezanin, camera 1, judeţul Hunedoara
+28;Rovinar;Daniel Marin;Alba Iulia;Deva;Localitatea Deva, str. Iuliu Maniu nr. 6, et. 3, judeţul Hunedoara
+29;Radu;Cristiana;Alba Iulia;Haţeg;suspendat
+30;Baciu;Traian;Alba Iulia;Hunedoara;Localitatea Hunedoara, str. Nicolae Bălcescu nr. 1, judeţul Hunedoara
+31;Creţu;Ionaşc Florin;Alba Iulia;Hunedoara;Localitatea Hunedoara, Str. Revoluţiei nr. 3, complex comercial, judeţul Hunedoara
+32;Ifrim;Remus;Alba Iulia;Hunedoara;Localitatea Hunedoara, str. Nicolae Bălcescu nr. 1, et. 2, camera 23, judeţul Hunedoara
+33;Plăviţu;Florina Mihaela;Alba Iulia;Hunedoara;Localitatea Hunedoara, str. Ion Creangă nr. 3, bl. 3, demisol, ap. 13, judeţul Hunedoara
+34;Rotaru;Simion;Alba Iulia;Mediaş;Localitatea Mediaş, str. Haţeg nr. 10, judeţul Sibiu
+35;Tămaş;Ovidiu Nicolae;Alba Iulia;Mediaş;Localitatea Mediaş, str. Piaţa Ferdinand I nr. 1, judeţul Sibiu
+36;Tudor;Vasile Petru;Alba Iulia;Mediaş;Localitatea Mediaş, str. Stephan Ludwig Roth nr. 29, judeţul Sibiu
+37;Romanesse;Diana-Elena;Alba Iulia;Orăştie;suspendat
+38;Durbacă;Claudia Bianca;Alba Iulia;Petroşani;Localitatea Petroşani, str. Anghel Saligny nr. 12, judeţul Hunedoara
+39;Oancea;Petru;Alba Iulia;Petroşani;Localitatea Petroşani, Aleea Poporului, bl. 3, ap. 26, judeţul Hunedoara
+40;Petre;Adrian-Nicolae;Alba Iulia;Petroşani;Localitatea Petroşani, str. Avram Iancu nr. 5, bl. 5A, sc. I, ap. 2, judeţul Hunedoara
+41;Popescu;Emilia;Alba Iulia;Petroşani;Localitatea Petroşani, Aleea Poporului, bl. 3A, sc. I, ap. 2, judeţul Hunedoara
+42;Răducanu;Cecilia Camelia;Alba Iulia;Petroşani;Localitatea Petroşani, Str. 1 Decembrie 1918 nr. 100, judeţul Hunedoara
+43;Stoian;Codruţa;Alba Iulia;Sălişte;"Asociat SCPEJ ""Dumitru Marius Vasile, Miscoci Dorina Anca şi Stoian Codruta"" în Sibiu, Str. Justiţiei nr. 6A, judeţul Sibiu"
+44;Suciu;Bogdan;Alba Iulia;Sălişte;"Asociat SCPEJ ""Tamaş şi Suciu"" în Mediaş, str. Piaţa Regele Ferdinand I nr. 1, judeţul Sibiu"
+45;Boldaş;Liviu Nicolae;Alba Iulia;Sebeş;Localitatea Sebeş, str. Lucian Blaga nr.61, ap. 5, judeţul Alba
+46;Uleşan;Daniela;Alba Iulia;Sebeş;Localitatea Sebeş, str. Călăraşi nr. 2D, judeţul Alba
+47;Bandi;Oana-Maria;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 19, judeţul Sibiu
+48;Cazan;Horea;Alba Iulia;Sibiu;Localitatea Sibiu, str. George Coşbuc nr.1, et.1, judeţul Sibiu
+49;Cîrja;Ispas;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 21, judeţul Sibiu
+50;Cîrja;Mureşanu Maria-Iulia;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 21, judeţul Sibiu
+51;Constantin;Andrada-Iuliana;Alba Iulia;Sibiu;Localitatea Sibiu, str. Cezar Bolliac nr. 1, camera 6, judeţul Sibiu
+52;Cruduleci;Horaţiu Vasile;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 14, ap. 9A, judeţul Sibiu
+53;Dinu;Mirela-Nicoleta;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 22, judeţul Sibiu
+54;Dumitru;Marius-Vasile;Alba Iulia;Sibiu;Localitatea Sibiu, Str. Justiţiei nr. 6A, judeţul Sibiu
+55;Grec;Cristina Elena;Alba Iulia;Sibiu;Localitatea Sibiu, str. Johann Sebastian Bach nr. 4, judeţul Sibiu
+56;Herlea;Romulus-Nicolae;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 30, ap. 2, judeţul Sibiu
+57;Marin;Vasile;Alba Iulia;Sibiu;Localitatea Sibiu, Str. Banatului nr. 9, ap. 1, judeţul Sibiu
+58;Moldovan;Florin Gheorghe;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 14, et. 2, ap. 12, judeţul Sibiu
+59;Nuţescu;Constantin Ciprian;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 17, parter, judeţul Sibiu
+60;Prodea;Ioan Adrian;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 30, ap. 2, judeţul Sibiu
+61;Sântea;Cosmin;Alba Iulia;Sibiu;Localitatea Sibiu, str. Cezar Bolliac nr. 1, judeţul Sibiu
+62;Tatu;Felician Liviu;Alba Iulia;Sibiu;Localitatea Sibiu, Bd. Victoriei nr. 21, judeţul Sibiu
+63;Ababei-Petrea;Irina Nicoleta;Bacău;Bacău;Bacău, str. Vasile Alecsandri, bl. 2, sc. D, ap. 3
+64;Aldea;Diana Elena;Bacău;Bacău;Bacău, Str. Energiei, bl. 8, sc. B, ap. 3
+65;Azoiţei;Neculai;Bacău;Bacău;Bacău, str. Ana Ipătescu nr. 3, sc. C, ap. 2, parter
+66;Baraneţchi;Leonid;Bacău;Bacău;suspendat
+67;Chiticeanu;Elena;Bacău;Bacău;Bacău, str. I. Gh. Destelnica (fosta Trotuş) nr. 5
+68;Chiticeanu;Florin;Bacău;Bacău;Bacău, str. I. Gh. Destelnica (fosta Trotuş) nr. 5
+69;Ciobanu;Elena;Bacău;Bacău;Bacău, Str. Energiei, bl. 37, sc. B, ap. 3, judeţul Bacău
+70;Ciobanu;Ioan;Bacău;Bacău;Bacău, Str. Energiei, bl. 37, sc. B, ap. 3, judeţul Bacău
+71;Cîrnu;Eugen;Bacău;Bacău;Bacău, str. 9 Mai, bl. 28, sc. A, ap. 1
+72;Dăscăliţa;Dumitru;Bacău;Bacău;Bacău, str. Nicu Enea, bl. 40, sc. A, ap. 7
+73;Gherasim;Nicu;Bacău;Bacău;Bacău, str. Milcov nr. 2-4
+74;Grigore;Nicolae;Bacău;Bacău;Bacău, str. I.S. Sturza nr. 22
+75;Mititelu;Iosif;Bacău;Bacău;Bacău, Str. Energiei, bl. 27-A-2
+76;Necula;Sorica;Bacău;Bacău;Bacău, str. Oituz nr. 27
+77;Niagu;Liviu-Cosmin;Bacău;Bacău;Bacău, judeţul Bacău
+78;Lavric;Paula;Bacău;Bicaz;suspendat
+79;Trandabăţ;Maria;Bacău;Bicaz;suspendat
+80;Grigoraş;Ioan Nicolae;Bacău;Buhuşi;suspendat
+81;Kovacs;Gabriel;Bacău;Buhuşi;Buhuşi, str. Bucegi nr. 1
+82;Apostol;Camelia-Dorina;Bacău;Moineşti;Moineşti, str. V. Alecsandri, bl. E8, ap. 6
+83;Bâra;Jan;Bacău;Moineşti;Moineşti, Str. Zorilor, bl. OB 2, parter
+84;Bindileu;Eugen;Bacău;Moineşti;Moineşti, str. V. Alecsandri, bl. E8, ap. 6
+85;Bâra;Dragoş;Bacău;Oneşti;Oneşti, Str. Republicii, bl. 23, ap. 12
+86;Popa;Reta;Bacău;Oneşti;Oneşti Str. Republicii, bl. 4, ap. 14
+87;Prisecariu;Cezar Sorin;Bacău;Oneşti;Oneşti, Str. Republicii, bl. 22, ap. 22, Bacău
+88;Tabarcea;A.Alexandru;Bacău;Oneşti;Oneşti, Str. Republicii, bl. 2, sc. B, Bacău
+89;Tabarcea;C.Alexandru;Bacău;Oneşti;Oneşti, Str. Republicii bl. 2, sc. B, Bacău
+90;Voiculescu;Cosmin;Bacău;Oneşti;Oneşti, Str. Republicii nr. 11, sc. C, ap. 39
+91;Bălan;Ioan;Bacău;Piatra-Neamţ;Piatra-Neamţ, Str. Republicii nr. 7, judeţul Neamţ
+92;Chiriac;Nicolaie;Bacău;Piatra-Neamţ;suspendat
+93;Cotoi;Cornel;Bacău;Piatra-Neamţ;Piatra-Neamţ, str. M. Eminescu nr. 35, ap. 18, judeţul Neamţ
+94;Gârbea;George;Bacău;Piatra-Neamţ;Piatra-Neamţ, Bd. Republicii nr. 13, etaj II, cam. 18-19
+95;Mareş;Ioan;Bacău;Piatra-Neamţ;Piatra-Neamţ, str. A. Vorel nr. 6, bl. B6, sc. B, ap. 21, judeţul Neamţ
+96;Mihăilă;Gigel;Bacău;Piatra-Neamţ;Piatra-Neamţ, Str. Durăului nr. 11, camera 10, parter, judeţul Neamţ
+97;Mocanu;Pavel;Bacău;Piatra-Neamţ;Piatra-Neamţ, Bd. 9 Mai nr. 21, bl. 11-A-4, judeţul Neamţ
+98;Neneci;Tănase;Bacău;Piatra-Neamţ;Piatra-Neamţ, Bd. Republicii nr. 16, judeţul Neamţ
+99;Rogojan;Vasilică-Silviu;Bacău;Piatra-Neamţ;Piatra-Neamţ, Aleea Plaiului nr. 10, bl. B1, sc. D, ap. 61, judeţul Neamţ
+100;Ursache;Ciprian-Constantin;Bacău;Piatra-Neamţ;Piatra-Neamţ, Bd. 9 Mai nr. 19, bl. B10, sc. A, ap. 3, parter, judeţul Neamţ
+101;Păncescu;Daniel Nicolae;Bacău;Podu Turcului;Podu Turcului, str. T. Vladimirescu nr. 6, ap. 3
+102;Grigoraş;Mihaela;Bacău;Roman;suspendat
+103;Mereuţă;Ioan;Bacău;Roman;Asociat BEJA Mereuţă Ioan şi Mereuţă Lăcrămioara în A. Panu bl. 7 Noiembrie, Iaşi
+104;Moraru;Sebastian;Bacău;Roman;Roman, str. M. Eminescu bl. 2, ap. 41, judeţul Neamţ
+105;Postelnicu;Spiridon;Bacău;Roman;Roman, str. Oituz bl. 8, ap. 3, judeţul Neamţ
+106;Şoican;Ovidiu Iosif;Bacău;Roman;Roman, str. M Eminescu bl. 6 B (10), ap. 39, judeţul Neamţ
+107;Dron;Gheorghe;Bacău;Târgu Neamţ;Târgu Neamţ, str. C. Hogaş, bl. B1, ap. 3
+108;Vasiliu;Constantin;Bacău;Târgu Neamţ;Târgu Neamţ, bd. M. Eminescu, bl. G1, ap. 2
+109;Adi;Ioan-Ştefan;Braşov;Braşov;suspendat
+110;Anca;Ramona Loredana;Braşov;Braşov;Braşov, str. Iuliu Maniu nr. 64, sc. A, ap. 5
+111;Balca;Florentina;Braşov;Braşov;Braşov, str. Iuliu Maniu nr. 66, sc. A, ap. 1
+112;Buzoianu;Romulus Emanuel;Braşov;Braşov;Braşov, str. Iuliu Maniu nr. 47, et. 3, camera 320
+113;Corşate;Alexandru Alin;Braşov;Braşov;Braşov, str. Petru Maior nr. 3, ap. 3, judeţul Braşov
+114;Dîrstar;Cătălin;Braşov;Braşov;Braşov, str. Iuliu Maniu nr. 47, et. 3, camera 321
+115;Dendrino;Nicolae;Braşov;Braşov;Braşov, Str. Lungă nr. 31
+116;Dincă;Stelian Emil;Braşov;Braşov;Braşov, Bd. 15 Noiembrie nr. 43, sc. A, et. 2, ap. 4
+117;Drăgan;Daniel-George;Braşov;Braşov;Braşov, Bd. 15 Noiembrie nr. 43, sc. B, ap. 1
+118;Dutceac;Ioan;Braşov;Braşov;Braşov, Bd. Griviţei nr. 93, sc. C, ap. 1
+119;Filofie;Laurenţiu;Braşov;Braşov;Braşov, str. Mihail Kogălniceanu nr. 20, sc. D, et. 7, ap. 22
+120;Grigore;George-Cristian;Braşov;Braşov;Braşov, str. Iuliu Maniu nr. 66, bl. 66, et. 1, ap. 4
+121;Isac;Horaţiu;Braşov;Braşov;Braşov, Bd. 15 Noiembrie nr. 41, ap. 2
+122;Koncz;Csaba Jr.;Braşov;Braşov;Braşov, str. Iuliu Maniu nr. 47, parter
+123;Koppandi;Ollyver;Braşov;Braşov;Braşov, Bd. 15 Noiembrie nr. 43, sc. A, et. 2, ap. 5
+124;Limişcă;Silviu-Bogdan;Braşov;Braşov;Braşov, Str. Verii nr. 1, bl. 1G, ap. M3, interfon 23
+125;Manolache;Marcel Iulian;Braşov;Braşov;Braşov, str. Iuliu Maniu nr. 68, bl. 3, sc. B, ap. 6
+126;Strugariu;Ana Mihaela;Braşov;Braşov;Braşov, Str. Toamnei nr. 13, bl. 4, sc. D, ap. 2
+127;Tereaca;Cornel Toma;Braşov;Braşov;Braşov, str. Iuliu Maniu nr. 68, bl. 3, sc. B, ap. 1
+128;Ţermure;Călin Ovidiu;Braşov;Braşov;Braşov, Str. 15 Noiembrie nr. 62, sc. D, ap. 38
+129;Vulpe;Alexandru George;Braşov;Braşov;Braşov, str. Iuliu Maniu nr. 43, camera 814
+130;Foca;Marilena;Braşov;Făgăraş;suspendat
+131;Frăţilă;Viorel Alexandru;Braşov;Făgăraş;Făgăraş, str. Doamna Stanca nr. 25, judeţul Braşov
+132;Manole;Victor;Braşov;Făgăraş;Făgăraş, str. Doamna Stanca nr. 29, judeţul Braşov
+133;Drăgulănescu;Natalia;Braşov;Întorsura Buzăului;suspendat
+134;Frăţilă;Roxana;Braşov;Întorsura Buzăului;Asociat în Făgăraş, str. Doamna Stanca nr. 25, judeţul Braşov
+135;Ezer;Bogdan Ştefan;Braşov;Rupea;suspendat
+136;Bujdoso;Albert Zsolt;Braşov;Sfântu Gheorghe;Sfântu Gheorghe, str. Godri Ferenc nr. 10, parter, camera 1, judeţul Covasna
+137;Fodor;Istvan Zsolt;Braşov;Sfântu Gheorghe;Sfântu Gheorghe, str. Godri Ferenc nr. 10, parter, camera 1, judeţul Covasna
+138;Katona;Ella;Braşov;Sfântu Gheorghe;Sfântu Gheorghe, str. Ioszef Bem nr. 2, bl. 3, sc. F, ap. 7, judeţul Covasna
+139;Kolcza;Jeno-Gabor;Braşov;Sfântu Gheorghe;Sfântu Gheorghe, Str. Ciucului nr. 3, judeţul Covasna
+140;Mathe-Peter;Iosif;Braşov;Sfântu Gheorghe;Sfântu Gheorghe, str. Banki Donath nr. 35, judeţul Covasna
+141;Balaş;Marius;Braşov;Târgu Secuiesc;Târgu Secuiesc, str. Petofi Sandor nr. 33, bl. 6, sc. A, ap. 4, judeţul Covasna
+142;Mathe-Peter;Edit;Braşov;Târgu Secuiesc;Târgu Secuiesc, str. Petofi Sandor nr. 16, judeţul Covasna
+143;Blajiu;Gheorghe;Braşov;Zărneşti;Zărneşti, Str. Postăvarului bl. 11, sc.A, ap. 3, judeţul Braşov
+144;Foca;Dan;Braşov;Zărneşti;suspendat
+145;Al-Mutairi;Rodica Floriana;Bucureşti;Alexandria;Alexandria, Str. Dunării nr. 218, bl. TR-B4, sc. A, ap. 2, judeţul Teleorman
+146;Guţă;George Alexandru;Bucureşti;Alexandria;"Asociat BEJA ""Aeliesei şi Guţă"" în Bucureşti, şos. Nicolae Titulescu nr. 1, bl. A7, sc. 4, et. 9, ap. 120, sectorul 1"
+147;Mihaiţă;Marian;Bucureşti;Alexandria;Alexandria, Str. Dunării nr. 145 bis, bl. H127, sc. A, et. 1, ap. 5, judeţul Teleorman
+148;Zlatăn;Gabriela Simona;Bucureşti;Alexandria;Alexandria, Str. Libertăţii nr. 211, bl. L8-L9, et. 1, camera 3, judeţul Teleorman
+149;Bărbulescu;Constantin;Bucureşti;Bolintin-Vale;Str. Republicii, bl. B5, sc. D, et. 1, ap. 52, judeţul Giurgiu
+150;Mehesz-Geczi;Oana-Viorica;Bucureşti;Bolintin-Vale;Bolintin-Vale, Str. Republicii, bl. B3, sc. A, Giurgiu
+151;Damian;Cătălina Sofia;Bucureşti;Bolintin-Vale;suspendat
+152;Petre;Dan;Bucureşti;Bolintin-Vale;suspendat
+153;Ailiesei;Daniel;Bucureşti;Bucureşti;Şos. Nicolae Titulescu nr. 1, bl. A7, sc. 4, et. 9, ap. 120, sectorul 1
+154;Ana;Vasile Bogdan;Bucureşti;Bucureşti;Splaiul Unirii nr. 108, et. 1, sectorul 4
+155;Andrei;Ionel;Bucureşti;Bucureşti;Bd. I.C. Brătianu nr. 44, sc. B, ap. 24, sectorul 3
+156;Badea;Cătălin;Bucureşti;Bucureşti;Sf. Vineri nr. 23, bl. 105 B, sc. 1, ap. 4, sectorul 3
+157;Badea;Violeta;Bucureşti;Bucureşti;Intr. Patinoarului nr. 7, bl. PM50, sc. 3, ap. 98, sectorul 3
+158;Balaciu;Costel Cristian;Bucureşti;Bucureşti;Str. Traian nr. 190, ap. 1, sectorul 2
+159;Barbu;Cristian;Bucureşti;Bucureşti;Bd. Unirii nr. 20, bl. 5C, et. 3, ap. 16, sectorul 4
+160;Bati;Dan Cristian;Bucureşti;Bucureşti;Şos. Ştefan cel Mare nr. 2, bl. 13, sc. A, et. 1, ap. 25, sectorul 1
+161;Bătilă;Vlad;Bucureşti;Bucureşti;Splaiul Independenţei nr. 193, et. 7, ap. 22, sectorul 6, Bucureşti
+162;Boambeş;Viorel;Bucureşti;Bucureşti;Sf. Vineri nr. 23, bl. 105 B, sc. 1, ap. 4, sectorul 3
+163;Bocancea;Silviu-Mădălin;Bucureşti;Bucureşti;Bd. Mărăşeşti nr. 17, et. 2, ap. 4, sectorul 4
+164;Bran;Cristian;Bucureşti;Bucureşti;Calea 13 Septembrie nr. 231A, et. 1, ap. 1, sectorul 5
+165;Bucur;Şerban Constantin;Bucureşti;Bucureşti;Str. Baba Novac nr. 17, complex Baba Novac, sectorul 3
+166;Canea;Cătălin;Bucureşti;Bucureşti;Str. Drumul Taberei nr. 20, bl. C2, sc. 1, parter, ap. 2, sectorul 6
+167;Casagranda;Stana Anton;Bucureşti;Bucureşti;Splaiul Unirii nr. 10, bl. B5, sc. 1, et. 1, ap. 1, sectorul 4
+168;Chiţescu;Eugen Corneliu;Bucureşti;Bucureşti;Bd. Burebista nr. 1, bl. D 15, sc.2, parter, ap. 34, sectorul 3
+169;Chiţu;Laurenţiu Alexandru;Bucureşti;Bucureşti;Str. Târgu Neamţ nr. 2A, bl. B31, ap. 72, sectorul 6
+170;Cojocaru;Bogdan Mihai;Bucureşti;Bucureşti;Str. Mihai Eminescu nr. 17, et. 1, ap. 8, sectorul 1
+171;Constantin;Cătălin Gabriel;Bucureşti;Bucureşti;Calea Moşilor nr. 249, bl. 49, sc. 2, et. 4, ap. 40, sectorul 2
+172;Constantinescu;Mihai;Bucureşti;Bucureşti;Şos. Ştefan cel Mare nr. 17, bl. 17, sc. C, et. 1, ap. 62, sectorul 2
+173;Copuzeanu;Florin Traian;Bucureşti;Bucureşti;Splaiul Unirii nr. 33, bl. M4, sc. A, parter, ap. 4, sectorul 3
+174;Costescu;Lucian;Bucureşti;Bucureşti;Str. Bibescu Vodă nr. 1, bl. P4, sc. 2, et. 6, ap. 41, sectorul 4
+175;Crafcenco;Gheorghe Marius;Bucureşti;Bucureşti;Bd. C. Brâncoveanu nr. 9, bl. B14, sc. 4, parter, ap. 91, sectorul 4
+176;Creangă;Mădălin Iulian;Bucureşti;Bucureşti;Str. Delea Veche nr. 16-18, ap. 2, sectorul 2
+177;Cristache;Romeo Valentin;Bucureşti;Bucureşti;suspendat
+178;Culcea;Raluca Mariana;Bucureşti;Bucureşti;Bd. Unirii nr. 70, bl. J4, sc. 3, et. 1, ap. 53, sectorul 3
+179;Culea;Marian Orlando;Bucureşti;Bucureşti;Bd. Burebista nr. 4, bl. D13, sc. 4, ap. 120, sectorul 3
+180;Dângă;Liliana-Livia;Bucureşti;Bucureşti;suspendat
+181;Dima;Ilie;Bucureşti;Bucureşti;Calea Rahovei nr. 291, bl. 81B, sc.3, et. 1, ap. 72, sectorul 5
+182;Dima;Mihai;Bucureşti;Bucureşti;Str. Mircea Vodă nr. 41, bl. M31, sc. 1, parter, ap. 2, sectorul 3
+183;Dimache;Valentin Gabriel;Bucureşti;Bucureşti;Bd. Unirii nr. 57, bl. E4, sc. 4, et. 5, ap. 108, sectorul 3
+184;Dinu;Ilie;Bucureşti;Bucureşti;Str. Sf. Vineri nr. 21, bl. 102, sc.1, et. 2, ap. 6, sectorul 3
+185;Dobranici;Doina Crenguţa;Bucureşti;Bucureşti;Bd. Corneliu Coposu nr. 7, bl. 104, sc. 3, et. 2, ap. 67, sectorul 3
+186;Dobre;Valentin;Bucureşti;Bucureşti;Calea Moşilor nr. 296, bl. 46, sc. 2, et. 1, ap. 40, sectorul 2
+187;Dorcioman;Manuel Andrei;Bucureşti;Bucureşti;Bd. I.C. Brătianu nr. 39, bl. P6, sc. 2, ap. 37, sectorul 3
+188;Drăgănescu;Gabriel George;Bucureşti;Bucureşti;Bd. C. Brâncoveanu nr. 9, bl. B14, sc. 4, parter, ap. 91, sectorul 4
+189;Drăgănescu;Mirela Sorina Alexandra;Bucureşti;Bucureşti;Str. George Enescu nr. 7, parter, ap. 4, sectorul 1
+190;Drăghici;Petrişor Valeriu;Bucureşti;Bucureşti;Str. Vasile Lascăr nr. 5-7, et. 2, camera 206, sectorul 2
+191;Duică;Claudia Alexandra;Bucureşti;Bucureşti;Splaiul Independenţei nr. 1, bl. 16, sc. 2, et. 3, ap. 41, sectorul 5
+192;Duică;Claudiu;Bucureşti;Bucureşti;Splaiul Independenţei nr. 1, bl. 16, sc. 2, et. 3, ap. 41, sectorul 5
+193;Dumitrache;Bogdan;Bucureşti;Bucureşti;Bd. Decebal nr. 14, bl. S6, sc. B, et. 6, ap. 42, sectorul 3, interfon 42
+194;Dumitrescu;Florentina-Liliana;Bucureşti;Bucureşti;Str. Dumbrava Nouă nr. 36, bl. P25, sc. 1, et. 3, ap. 12, sectorul 5
+195;Dumitrescu;Liliana-Antonia Magdalena;Bucureşti;Bucureşti;suspendat
+196;Dumitru;Cristian Florin;Bucureşti;Bucureşti;Str. Sfânta Vineri nr. 25, bl. 105 C, sc. 2, et. 1, ap. 26, sectorul 3
+197;Dumitru;Nicolae;Bucureşti;Bucureşti;Str. Baba Novac nr. 17, complex Baba Novac, sectorul 3
+198;Duruian;Ionel;Bucureşti;Bucureşti;Calea Moşilor nr. 201, bl. 9, sc. A, et. 4, ap. 13, sectorul 2
+199;Enache;Anca;Bucureşti;Bucureşti;suspendat
+200;Ene;Magdalena;Bucureşti;Bucureşti;Str. Maltopol nr. 23, et. 4, sectorul 1
+201;Enea;Mihaela Raluca;Bucureşti;Bucureşti;Calea Victoriei nr. 100, et. 3, ap. 21, sectorul 1
+202;Ezer;Lucian;Bucureşti;Bucureşti;Bd. D. Cantemir nr. 19, bl. 5, sc. 1, ap. 4, sectorul 4
+203;Fediuc;Ghe.Marian;Bucureşti;Bucureşti;Str. Col. Poenaru Bordea nr. 12-14, et. 5, ap. 15, sectorul 4
+204;Fenoghen;Vladimir Liviu;Bucureşti;Bucureşti;suspendat
+205;Franz;Radu Călin;Bucureşti;Bucureşti;Calea Vitan nr. 119, bl. V21B, sc. 2, et. 6, ap. 56, sectorul 3
+206;Frîncu;Marius Claudiu;Bucureşti;Bucureşti;Bd. Gen. Ghe. Magheru nr. 43, et. 1, ap. 2, sectorul 1
+207;Ganea;Ioan Tiberiu;Bucureşti;Bucureşti;Bucureşti, Splaiul Unirii nr. 35, bl. M7, sc. 2, et. 5, ap. 54, sectorul 3
+208;Georgescu;Paul;Bucureşti;Bucureşti;Str. Sebastian Mihail nr. 27, bl. S10, sc. 1, et. 1, ap. 8, sectorul 5
+209;Ghelmeheanu;Sorin;Bucureşti;Bucureşti;suspendat
+210;Ghilencea;Marian Viorel;Bucureşti;Bucureşti;Bd. Decebal nr. 1, bl. H2, sc. 5, et. 2, ap. 127, sectorul 3
+211;Ghinea;Ioan Emanuel;Bucureşti;Bucureşti;Bd. Octavian Goga nr. 23, bl. M106, sc. 2, ap. 35, sectorul 3
+212;Ghişoiu;Mihai;Bucureşti;Bucureşti;Calea Călăraşi nr. 176, bl. 59, sc. C, ap.32, et. 8, sectorul 3
+213;Giurgea;Bucur;Bucureşti;Bucureşti;Str. Frasinului nr. 11-13, sectorul 1, Bucureşti
+214;Gonţ;Dorina;Bucureşti;Bucureşti;Bd. Unirii nr. 13, bl. 2C, sectorul 4
+215;Gonţ;Lucian;Bucureşti;Bucureşti;Bd. Unirii nr. 13, bl. 2C, sectorul 4
+216;Grozavu;Alina;Bucureşti;Bucureşti;Bd. Octavian Goga nr. 23, bl. M106, sc. 3, ap. 67, sectorul 3
+217;Guli;Constantin;Bucureşti;Bucureşti;Calea Călăraşi nr. 156, bl. 53bis, ap. 1, sectorul 3
+218;Haja;Ioana Mihaela;Bucureşti;Bucureşti;Piaţa Alba Iulia nr. 3, bl. I 2, sc. A, ap. 10, sectorul 3
+219;Hutuleac;Florentina Gabriela;Bucureşti;Bucureşti;Str. Şepcari nr. 9, bl. 1, sc. 1, et. 6, ap. 19, sectorul 3
+220;Iftime;Cătălin;Bucureşti;Bucureşti;Str. Şura Mare nr. 1, bl. 1A, sc. 4, et. 4, ap. 113, sectorul 4
+221;Ilie;Panaite;Bucureşti;Bucureşti;Bd. Constantin Brâncoveanu nr. 15, bl. B17, sc. 1, parter, ap. 2, sectorul 4
+222;Ioachim;Flavius;Bucureşti;Bucureşti;Str. Polonă nr. 92, bl. 17A+B, sc.3, et.4, ap. 108, sectorul 1, interfon 108
+223;Ion;Constantin Aurelian;Bucureşti;Bucureşti;Str. Delea Veche nr. 16-18, ap. 2, sectorul 2
+224;Ion;Gheoghe Mihail;Bucureşti;Bucureşti;Str. Braşov nr. 20, bl. OD1, sc. 1, parter, ap. 3, sectorul 6
+225;Ionescu;Marian Daniel;Bucureşti;Bucureşti;Splaiul Independenţei nr. 3 (fost Splaiul Unirii nr. 8), bl. 17, sc. 1, et. 5, ap. 15 şi 19bis, sectorul 4
+226;Ionescu;Niculae;Bucureşti;Bucureşti;Bd. C. Brâncoveanu nr. 9, bl. B14, sc. 4, parter, ap. 91, sectorul 4
+227;Ioniţă;Adrian;Bucureşti;Bucureşti;suspendat
+228;Iordache;Radu;Bucureşti;Bucureşti;Str. Nerva Traian nr. 16, bl. M35, sc. 2, et. 1, ap. 31, sectorul 3
+229;Ivan;Traian Daniel;Bucureşti;Bucureşti;Str. Sfânta Vineri nr. 32, bl. A5, sc. 1, et. 2, ap. 7, sectorul 3
+230;Jalbă;Georgiana Nicoleta;Bucureşti;Bucureşti;Calea Victoriei nr. 142, sc. D, ap. 1, sectorul 1
+231;Lăpugeanu;Paul Mugurel;Bucureşti;Bucureşti;Bd. Ion Mihalache nr. 104, bl. 85, sc. C, et. 3, ap. 70, sectorul 1
+232;Leancă;Constantin;Bucureşti;Bucureşti;Str. Nerva Traian nr. 9, bl. 67, sc.1, et. 1, ap. 4, sectorul 3
+233;Leonescu;Ilie Victor;Bucureşti;Bucureşti;Str. Poet Panait Cerna nr. 1, bl. M52, sc. 1, parter, ap. 1, sectorul 3
+234;Lepădatu;Andrei;Bucureşti;Bucureşti;Splaiul Unirii nr. 108, et. 1, sectorul 4
+235;Lupulescu;Cătălin Gigel;Bucureşti;Bucureşti;Str. Sf. Vineri nr. 21, bl. 102, sc.1, et. 2, ap. 6, sectorul 3
+236;Maghiar;Bogdan;Bucureşti;Bucureşti;Bd. Unirii nr. 20, bl. 5C, et. 4, ap. 31, sectorul 4
+237;Marchidanu;Iulian Valentin;Bucureşti;Bucureşti;Bd. Burebista nr. 1, bl. D 15, sc.2, parter, ap. 34, sectorul 3
+238;Marin;Adrian Cristian;Bucureşti;Bucureşti;Bd. Libertăţii nr. 18, bl. 104, sc. 2, ap. 14, sectorul 5
+239;Marin;Viorel Cristinel;Bucureşti;Bucureşti;Bd. Ion Mihalache nr. 104, bl. 85, sc. C, et. 3, ap. 70, sectorul 1
+240;Matei;Nicolae Marian;Bucureşti;Bucureşti;Str. Dianei nr. 10, sc. 1, et. 1, ap. 2, sectorul 2
+241;Mazilu;Cristinel Ionuţ;Bucureşti;Bucureşti;Splaiul Unirii nr. 45, bl. M15, sc. C, parter, ap. 68-69, sectorul 3
+242;Mazilu;Dorin;Bucureşti;Bucureşti;Splaiul Unirii nr. 45, bl. M15, sc. C, parter, ap. 68-69, sectorul 3
+243;Mărgulescu;Ramona Maria;Bucureşti;Bucureşti;Str. Sf. Vineri nr. 21, bl. 102, sc.1, et. 2, ap. 6, sectorul 3
+244;Mihai;Cristian;Bucureşti;Bucureşti;Bd. Dimitrie Cantemir nr. 15, bl. 9, sc. C, ap. 77, sectorul 4
+245;Miloş;Cristian;Bucureşti;Bucureşti;Calea Plevnei nr. 141, bl. 2, sc. A, et. 4, ap. 14, sectorul 6
+246;Miu;Ioana;Bucureşti;Bucureşti;Calea Dorobanţilor nr. 250, ap. 3, sectorul 1
+247;Moianu;Adrian;Bucureşti;Bucureşti;Splaiul Independenţei nr. 1, bl. 16, sc. 2, ap. 37, sectorul 5
+248;Mutuligă;Monica;Bucureşti;Bucureşti;Str. Ştirbei Vodă nr. 117, ap. 3, sectorul 1
+249;Nacu;Cristian Andrei;Bucureşti;Bucureşti;Bd. Carol I nr. 63, et. 3, ap. 8, sectorul 2
+250;Naglici;Mihai Şerban;Bucureşti;Bucureşti;Str. Istriei nr. 1, bl. C2, ap. 5, sectorul 3
+251;Nanu;Valentin Cristian;Bucureşti;Bucureşti;Bd. Unirii nr. 57, bl. E4, sc. 4, et. 5, ap. 108, sectorul 3
+252;Nastasă;Alexandru;Bucureşti;Bucureşti;suspendat
+253;Neagu;Ionel;Bucureşti;Bucureşti;suspendat
+254;Neculae;Mihai;Bucureşti;Bucureşti;Str. Tache Ionescu nr. 1, ap. 12, sectorul 1
+255;Negreanu;Marius Adrian;Bucureşti;Bucureşti;Str. Smaranda Brăescu nr. 18B, bl. 2A, sc. 1, ap. 2, sectorul 1
+256;Nemeş;Dan;Bucureşti;Bucureşti;Bd. Naţiunile Unite nr.4, bl. 107A, et.4, biroul B4, sectorul 5
+257;Nicolescu;Gheorghe Alin;Bucureşti;Bucureşti;Bd. Naţiunile Unite nr. 1, bl. 108A, et. 5, ap. A5, sectorul 5
+258;Niculae;Elena Roxana;Bucureşti;Bucureşti;Bd. Unirii nr. 27, bl. 15, sc. 1, ap. 5, sectorul 5
+259;Niculescu;Dinu Mihai;Bucureşti;Bucureşti;Bd. Nicolae Bălcescu nr. 24, sc. A, et. 10, ap. 3, sectorul 1
+260;Nuţă;Petrică Sorin;Bucureşti;Bucureşti;Calea Moşilor nr. 268, bl. 12, sc. B, et. 1, ap. 34, sectorul 2
+261;Ochian;Doru-Cătălin;Bucureşti;Bucureşti;Str. Ion Câmpineanu nr. 29, bl. 6, sc. B, ap. 56, sectorul 1
+262;Olaru;Melania;Bucureşti;Bucureşti;Aleea Negru Vodă nr. 4, bl. C3A, sc. 1, et. 4, ap. 12, sectorul 3
+263;Olteanu;Florentina Daniela;Bucureşti;Bucureşti;Piaţa Alba Iulia nr. 3, bl. I2, sc. A, ap. 10, sectorul 3
+264;Olteanu;Nicolae Caius;Bucureşti;Bucureşti;suspendat
+265;Opran;Dragoş;Bucureşti;Bucureşti;Str. Dr. Dumitru Râureanu nr. 5, et. 2, ap. 4, sectorul 5
+266;Oprescu;Mihai;Bucureşti;Bucureşti;Bd. Chişinău nr. 12, bl. B22, sc. A, parter, ap. 3, sectorul 2
+267;Panait;Marian;Bucureşti;Bucureşti;Bd. Unirii nr. 13, bl. 2C, sectorul 4
+268;Paviliu;Bogdan Adrian;Bucureşti;Bucureşti;Str. Concordiei nr. 7A, sectorul 4
+269;Păun;Cătălin Ştefan;Bucureşti;Bucureşti;Calea 13 Septembrie nr. 133, bl. T2B, sc. 2, et. 1, ap. 42, sectorul 5
+270;Pârvan;Violeta Alexandra;Bucureşti;Bucureşti;Bd. C. Coposu nr. 5, bl. 103, sc. 3, et. 2, ap. 54, sectorul 3
+271;Peticaru;Eduard;Bucureşti;Bucureşti;Spl. Independentei nr. 3, bl. 17, sc. 1, et. 5, ap. 15 şi 19 bis, sectorul 4
+272;Petre;Codruţ Adrian;Bucureşti;Bucureşti;Str. Transilvaniei nr. 1A, sectorul 1
+273;Petre;Cristian;Bucureşti;Bucureşti;Str. Băniei nr. 17, ap. 2, parter, sectorul 3
+274;Plăveti;Nicolae Dorin;Bucureşti;Bucureşti;Bd. Unirii nr. 15, bl. 3, sc. 1, et. 2, ap. 6, sectorul 4
+275;Popa;Carmen Gabriela;Bucureşti;Bucureşti;Piaţa Naţiunile Unite nr. 3-5, bloc turn, et. 3, ap. 17, sectorul 4
+276;Popa;Elena Laura;Bucureşti;Bucureşti;Bd. Corneliu Coposu nr. 5, bl. 103, sc. 1, et. 1, ap. 1, sectorul 3
+277;Popa;Mihail;Bucureşti;Bucureşti;Calea Călăraşi nr. 176, bl. 59, sc.C, ap. 32, et. 8, sectorul 3
+278;Popescu;Adina Vali;Bucureşti;Bucureşti;Bd. Decebal nr. 9, bl. S13, sc. 1, et. 1, ap. 1, sectorul 3
+279;Popescu;Claudiu George;Bucureşti;Bucureşti;Bd. Dimitrie Cantemir nr. 25, bl. 2, sc. C, et. 4, ap. 18, sectorul 4
+280;Popescu;Florin;Bucureşti;Bucureşti;Bd. Tineretului nr. 3, bl. Z1, ap. 5, parter, sectorul 4
+281;Popescu;Marian;Bucureşti;Bucureşti;Bd. Decebal nr. 9, bl. S13, sc. 1, et. 1, ap. 1, sectorul 3
+282;Predescu;Narcis Ionuţ;Bucureşti;Bucureşti;Str. Teiul Doamnei nr. 9, bl. 32, sc. A, et. 1, ap. 7, sectorul 2
+283;Raportoru;Georgeta;Bucureşti;Bucureşti;Piaţa Alba Iulia nr. 8, bl. I7, sc. 2, et. 2, ap. 28-29, sectorul 3
+284;Rădulescu;Marian;Bucureşti;Bucureşti;Str. Câmpia Libertăţii nr. 37, bl. IC3, et. 4, ap. 45, sectorul 3
+285;Răduţă;Nicoleta;Bucureşti;Bucureşti;Bd. Libertăţii nr. 18, bl. 104, sc. 1, et. 2, ap. 3, sectorul 5
+286;Răileanu;Ionuţ Cătălin;Bucureşti;Bucureşti;Str. Cluceru Udricani nr. 1-3, bl. 106A, sc. 2, et. 1, ap. 22, sectorul 3
+287;Renţea;Georgiana Ingrid;Bucureşti;Bucureşti;Splaiul Independenţei nr. 1, bl. 16, sc. 1, et. 2, ap. 7, sectorul 5
+288;Rocoşanu;Dragoş Paul;Bucureşti;Bucureşti;suspendat
+289;Rusu;Mircea Valentin;Bucureşti;Bucureşti;Bd. Basarabia nr. 256, et. 2, sectorul 3
+290;Safta;Doina;Bucureşti;Bucureşti;Bd. I.C. Brătianu nr. 39, bl. P6, sc. 2, et. 2, ap. 20, sectorul 3
+291;Sahlian;Dumitru;Bucureşti;Bucureşti;Str. Ioviţa nr. 23-27, ap. 4, sectorul 5
+292;Samoilă;Liliana Minodora;Bucureşti;Bucureşti;Bd. Dimitrie Cantemir nr. 2, bl. P2, sc. 1, et. 4, ap. 13, sectorul 4
+293;Sandu;Bogdan Iulian;Bucureşti;Bucureşti;Calea 13 Septembrie nr. 102, bl. 48A, et. 1, ap. 1, sectorul 5
+294;Sandu;Ionuţ Octavian;Bucureşti;Bucureşti;Splaiul Unirii nr. 108, et. 1, sectorul 4
+295;Scăeşteanu;Silvia;Bucureşti;Bucureşti;Bd. Naţiunile Unite nr. 1, bl. 108A, et. 7, corp A, sectorul 5
+296;Sersea;Adrian Eugen;Bucureşti;Bucureşti;Str. Dristorului nr. 97-119, bl. 63, sc. 1, parter, ap. 21, sectorul 3
+297;Somâldoc;Paula Daniela;Bucureşti;Bucureşti;Str. Negru Vodă nr. 2, bl. C4, sc. 2, ap. 37, sectorul 3
+298;Spiridonescu;Ileana Cornelia;Bucureşti;Bucureşti;Bd. Mareşal Averescu nr. 7A, complex Alia Apartments, bl. B, sc. B, et. 4, ap. 89, sectorul 1
+299;Stancu;Marian;Bucureşti;Bucureşti;Str. Cluceru Udricani nr. 18, et. 2-3, sectorul 3
+300;Stăiculescu;Dumitru;Bucureşti;Bucureşti;Bd. Unirii nr. 43, bl. E2, sc. 1, et. 2, ap. 6, sectorul 3
+301;Stănescu;Ilie;Bucureşti;Bucureşti;Bucureşti, str. Vasile Conta nr. 8-10, sectorul 2
+302;Sterca;Gabriel Cornel;Bucureşti;Bucureşti;Calea 13 Septembrie nr. 102, bl. 48A, et. 1, ap. 1, sectorul 5
+303;Suciu;Dan Andrei;Bucureşti;Bucureşti;Intr. Patinoarului nr. 7, bl. PM50, sc. 3, ap. 98, sectorul 3
+304;Şchiopu;Cristian Marcel;Bucureşti;Bucureşti;Calea Victoriei nr. 224, bl. D5, sc.A, et. 1, ap. 1, sectorul 3
+305;Şerbănescu;Valeriu;Bucureşti;Bucureşti;Splaiul Independenţei nr. 3, bl. 17, sc. 1, et. 5, ap. 15 şi 19 bis, sectorul 4
+306;Ştefan;Florin Cătălin;Bucureşti;Bucureşti;suspendat
+307;Ştefan;Florin Eduard;Bucureşti;Bucureşti;Str. Între Gârle nr. 7, sectorul 4
+308;Ştefan;Viorel Dinu;Bucureşti;Bucureşti;Str. Ion Câmpineanu nr. 33, bl. 3, sc. 3, ap. 79, sectorul 1
+309;Tănase;Ştefan Marian;Bucureşti;Bucureşti;Bd. Mircea Vodă nr. 40, bl. M11, sc. 3, parter, ap. 68, sectorul 3
+310;Tănăsescu;George Dorian;Bucureşti;Bucureşti;Bd. Ion Mihalache nr. 94, corp A, et. 2, ap. 3, sectorul 1
+311;Tănurca;Cristina;Bucureşti;Bucureşti;Bd. Burebista nr. 4, bl. D13, sc. 4, ap. 120, sectorul 3
+312;Terinte;Florin Cătălin;Bucureşti;Bucureşti;Bd. Libertăţii nr. 18, bl. 104, sc. 2, ap. 14, sectorul 5
+313;Timnea;Vicenţiu Pascal;Bucureşti;Bucureşti;Piaţa Alba Iulia nr. 2, bl. I1, sc.C, et. 2, ap. 55, sectorul 3
+314;Tiţu;Adriana;Bucureşti;Bucureşti;Piaţa Mihail Kogălniceanu nr. 1, sc. A, et. 2, ap. 11, sectorul 5
+315;Toader;Ovidiu Adrian;Bucureşti;Bucureşti;Bucureşti, Calea Vitan nr. 9, bl. V6, sc. 1, et. 1, ap. 7, sectorul 3
+316;Toma;Ana Maria;Bucureşti;Bucureşti;Str. Ilfov nr. 1, et. 2, ap. 3, sectorul 5
+317;Trancă;Bogdan Ovidiu;Bucureşti;Bucureşti;Piaţa Mihail Kogălniceanu nr. 8, sc. principală, ap. 29, sectorul 5
+318;Tudor (fostă Homeghiu) ;Irina Alexandra;Bucureşti;Bucureşti;Bd. Unirii nr. 70, bl. J4, sc. 4, et. 2, ap. 101, sectorul 3
+319;Tudorache;Cătălin Andrei;Bucureşti;Bucureşti;Bd. Mihail Kogălniceanu nr. 35, sc. B, et. 1, ap. 8, sectorul 5
+320;Tudorache;Cătălin Silviu;Bucureşti;Bucureşti;Str. Delea Veche nr. 16-18, ap. 2, sectorul 2
+321;Tudor-Barcău;Elena;Bucureşti;Bucureşti;suspendat
+322;Ţeţu;Demetrius;Bucureşti;Bucureşti;Calea Victoriei nr. 224, bl. D5, sc. A, et. 1, ap. 1
+323;Ulman;Bogdan Vasile;Bucureşti;Bucureşti;Piaţa Alba Iulia nr. 6, bl. I5, sc.B, et. 2, ap. 32, sectorul 3
+324;Vararu;Gavrilescu Cosmin Gabriel;Bucureşti;Bucureşti;Calea Călăraşi nr. 176, bl. 59, sc.C, ap. 32, et. 8, sectorul 3
+325;Vasiliev;Ana-Maria;Bucureşti;Bucureşti;suspendat
+326;Verdeş;Adriana Mihaela;Bucureşti;Bucureşti;Str. Sf. Vineri nr. 21, bl. 102, sc. 1, et. 2, ap. 6 sectorul 3
+327;Vişan;Cătălin;Bucureşti;Bucureşti;Bd. I.C. Brătianu nr. 39, bl. P6, sc. 2, ap. 37, sectorul 3
+328;Zainea;Ana Cristina;Bucureşti;Bucureşti;Bd. Unirii nr. 43, bl. E2, sc. 1, et. 2, ap. 6, sectorul 3
+329;Zastavneţchi;Dumitru;Bucureşti;Bucureşti;Bd. Mărăşeşti nr. 17, et. 2, ap. 4, sectorul 4
+330;Avram (Voican) ;Mădălina;Bucureşti;Buftea;Asociat SCPEJ Ungureanu Gheorghe şi Avram Mădălina în Craiova, str. General Magheru nr. 81, judeţul Dolj
+331;Balica;Marius Eugen;Bucureşti;Buftea;Str. Mihai Eminescu nr. 5, judeţul Ilfov
+332;Benescu;Cătălin Manuel;Bucureşti;Buftea;Buftea, bd. Mihai Eminescu nr. 1, bl. R1, sc. E, et. 2, ap.10, judeţul Ilfov
+333;Dobra;Ofelia Camelia;Bucureşti;Buftea;Asociat SCPEJ Dobra, Coşoreanu şi Asociaţii, în str. Cluceru Udricani nr. 18, et. 2, sectorul 3
+334;Dobra;Narcis Constantin;Bucureşti;Buftea;Asociat SCPEJ Dobra, Coşoreanu şi Asociaţii în str. Cluceru Udricani nr. 18, et. 2, sectorul 3
+335;Ichim;Viorel;Bucureşti;Buftea;Buftea, str. Ştirbei Vodă nr. 55, bl. Vila 1, sc. B, ap. 5, judeţul Ilfov
+336;Dumitrache;Cornelia Gabriela;Bucureşti;Călăraşi;Asociat BEJA Dumitrache şi Dumitrache în bd. Decebal nr. 14, bl. S6, sc. B, et. 6, ap. 42, sectorul 3, interfon 42
+337;Mihalcea;Ionel;Bucureşti;Călăraşi;Str. Bucureşti nr. 139, bl. A38 (Volna), judeţul Călăraşi
+338;Stanciu;Iulian;Bucureşti;Călăraşi;Călăraşi, Str. Al. Sahia nr. 2, bl. B4, ap. 2, parter
+339;Stoian;Valentin;Bucureşti;Călăraşi;Călăraşi, str. Flacăra nr. 26, bl. B-3, sc. 1, ap. 2, judeţul Călăraşi
+340;Şerban;Victor;Bucureşti;Călăraşi;Str. Bucureşti nr. 139, bl. A38 (Volna), judeţul Călăraşi
+341;Coşoreanu;Iulian Ilie;Bucureşti;Cornetu;Asociat SCPEJ Dobra Coşoreanu şi Asociaţii în str. Cluceru Udricani nr. 18, et. 2, sectorul 3
+342;Mihăilescu;Adriana Emanuela;Bucureşti;Cornetu;Şos. Alexandriei nr. 140, et. 2, cam. 4-5, judeţul Ilfov
+343;Ciupercă;Dumitru Virgil;Bucureşti;Feteşti;Str. Călăraşi nr. 540, bl. 11, sc B, parter, ap. 17, judeţul Ialomiţa
+344;Stănescu;Nicolae Bogdan;Bucureşti;Feteşti;suspendat
+345;Cristache;Ionuţ Bogdan;Bucureşti;Giurgiu;Giurgiu, str. Gen. Berthelot bl. 79, sc. D, et. 1, ap. 64, judeţul Giurgiu
+346;Gogoaşe;Popescu Florinel;Bucureşti;Giurgiu;Str. Portului bl. 60, sc. C, ap. 32, parter, judeţul Giurgiu
+347;Iordache;Ion;Bucureşti;Giurgiu;Giurgiu, Str. Episcopiei nr. 15, judeţul Giurgiu
+348;Iordache;Ramona Lucia;Bucureşti;Giurgiu;Giurgiu, Str. Episcopiei nr. 15, judeţul Giurgiu
+349;Martin;Constantin;Bucureşti;Giurgiu;Str. Gen. Berthelot bl. 79, sc. C, ap. 43, parter, judeţul Giurgiu
+350;Tudor;Florentina;Bucureşti;Giurgiu;Giurgiu, Str. Episcopiei bl. 60, sc. C, ap. 31, judeţul Giurgiu
+351;Oprişan;Constantin;Bucureşti;Lehliu-Gară;Lehliu-Gară, Str. Industriei nr. 34 A, judeţul Călăraşi
+352;Toma;Nina Valentina;Bucureşti;Lehliu-Gară;Asociat BEJA Toma Ana-Maria şi Toma Nina-Valentina în str. Ilfov nr. 1, et. 2, ap. 3, sectorul 5
+353;Ene;Alexandru;Bucureşti;Olteniţa;Olteniţa, Bd. Republicii nr. 51, bl. B, sc. A, ap. 1, judeţul Călăraşi
+354;Păun;Octav Lucian;Bucureşti;Olteniţa;suspendat
+355;Agiu;Iulian;Bucureşti;Roşiori de Vede;Str. Plt. Rădulescu bl. 302, sc. B, ap. 1, judeţul Teleorman
+356;Împungerouă;Doiniţa Mihaela;Bucureşti;Roşiori de Vede;Asociat BEJA Împungerouă Nicolae şi Împungerouă Doiniţa Mihaela în Str. Primăverii nr. 1, bl. C6, sc. B, ap. 18, et. 1,
+357;Banciu;Constantin;Bucureşti;Slobozia;Str. Cuza Vodă bl. 17, sc. A, ap. 1, parter, judeţul Ialomiţa
+358;Milea;Anghel;Bucureşti;Slobozia;Bd. Cosminului bl. BN5, et. 1, cam. 3, judeţul Ialomiţa
+359;Niţu;Ion;Bucureşti;Slobozia;Bd. Cosminului nr. 14, bl. T3, sc. A, et. 1, ap. 7, judeţul Ialomiţa
+360;Iancu;Olga Claudia;Bucureşti;Slobozia;
+361;Miloş;Marius Emil;Bucureşti;Turnu Măgurele;Turnu Măgurele, Str. Pompierilor bl. M1, sc. B, ap. 22, judeţul Teleorman
+362;Constantin;Radu;Bucureşti;Urziceni;Urziceni, str. Aleea Grădiniţei nr. 1, judeţul Ialomiţa
+363;Roşoagă;Marinela;Bucureşti;Urziceni;Urziceni, Str. Eroilor nr. 15, bl. 106, parter, ap. 4, judeţul Ialomiţa
+364;Ştefan;Marius Daniel;Bucureşti;Urziceni;Urziceni, str. Aleea Grădiniţei nr. 1, judeţul Ialomiţa
+365;Împungerouă;Nicolae;Bucureşti;Videle;Str. Primăverii nr. 1, bl. C6, sc. B, ap. 18, et. 1, judeţul Teleorman
+366;Niculae;George;Bucureşti;Videle;Asociat BEJA Constantin Gabriel Cătălin şi Niculae George în Calea Moşilor nr. 249, bl. 49, sc. 2, et. 4, ap. 40, sectorul 2
+367;Nistor;Vasile;Bucureşti;Zimnicea;Str. Cuza Vodă, bl. 10 A, sc. D, parter, localitatea Zimnicea, judeţul Teleorman
+368;Roşu;Ileana;Bucureşti;Zimnicea;suspendat
+369;Andreica;Flavius Inocenţiu;Cluj-Napoca;Baia Mare;Baia Mare, Bd. Republicii nr. 1, ap. 22, judeţul Maramureş
+370;Bud;Robert Mihai;Cluj-Napoca;Baia Mare;Baia Mare, Bd. Republicii nr. 1, ap. 17, judeţul Maramureş
+371;Culic;Ioan Marius;Cluj-Napoca;Baia Mare;suspendat
+372;Dragoş;Dorin Adrian;Cluj-Napoca;Baia Mare;Baia Mare, Bd. Republicii nr. 11, ap. 22, judeţul Maramureş
+373;Mărgineanu;Viorel Victor Daniel;Cluj-Napoca;Baia Mare;Baia Mare, str. George Coşbuc nr. 22A, judeţul Maramureş
+374;Morari;Marius Iacob;Cluj-Napoca;Baia Mare;Baia Mare, str. George Coşbuc nr. 32, ap. 33, judeţul Maramureş
+375;Paşca;Dorina Ştefania;Cluj-Napoca;Baia Mare;suspendat
+376;Pintea;Bogdan Ioan;Cluj-Napoca;Baia Mare;Baia Mare, Bd. Independenţei nr. 18, ap. 71, judeţul Maramureş
+377;Şimon;Attila;Cluj-Napoca;Baia Mare;Baia Mare, Bd. Republicii nr. 1, ap. 106, judeţul Maramureş
+378;Vasile;Marian;Cluj-Napoca;Baia Mare;Baia Mare, str. George Coşbuc nr. 27, ap. 15, judeţul Maramureş
+379;Vucea;Gheorghe;Cluj-Napoca;Baia Mare;Baia Mare, Bd. Republicii nr. 1, ap. 109, judeţul Maramureş
+380;Buta;Dumitru Mirel;Cluj-Napoca;Beclean;Str. Parcului nr. 1, bl. B, ap. 1, judeţul Bistriţa-Năsăud
+381;Mureşan;Vasile Mircea;Cluj-Napoca;Beclean;Beclean, str. I. L. Caragiale nr. 4, judeţul Bistriţa-Năsăud
+382;Andronesi;Valerian Dorin;Cluj-Napoca;Bistriţa;Bistriţa, str. Alba Iulia nr. 3, judeţul Bistriţa-Năsăud
+383;Câmpian;Alexandru Răzvan;Cluj-Napoca;Bistriţa;Bistriţa, str. Alexandru Odobescu nr.7, judeţul Bistriţa-Năsăud
+384;Ivanov;Emilian Giani;Cluj-Napoca;Bistriţa;Bistriţa, str. Nicolae Titulescu nr.21, judeţul Bistriţa-Năsăud
+385;Joldeş;Ovidiu Laurenţiu;Cluj-Napoca;Bistriţa;Bistriţa, str. Nicolae Titulescu nr. 27, ap. 7, judeţul Bistriţa-Năsăud
+386;Manchevici;Marin;Cluj-Napoca;Bistriţa;Bistriţa, str. Alexandru Odobescu nr. 17, judeţul Bistriţa-Năsăud
+387;Onişor;Ionel Marin;Cluj-Napoca;Bistriţa;Bistriţa, str. Nicolae Titulescu nr. 37, ap. 1, judeţul Bistriţa-Năsăud
+388;Adam;Dragoş;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 21, ap. 8, judeţul Cluj
+389;Boloş;Mircea;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 17, parter, ap. 7, judeţul Cluj
+390;Cîmpian;Mihai Radu;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, str. Pavel Roşca nr. 3, ap. 4, judeţul Cluj
+391;Coroian;Vasile;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, str. Iuliu Maniu nr. 30, ap. 1, judeţul Cluj
+392;Crişan;Radu;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 96, ap. 56, judeţul Cluj
+393;Lar;Viorel;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Bd. 21 Decembrie 1989 nr. 34, ap. 1, judeţul Cluj
+394;Maier;Ioan;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 42, ap. 14, judeţul Cluj
+395;Man;Ovidiu Ioan;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 13, et. 1, judeţul Cluj
+396;Mureşan;Paul Florin;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, str. Pavel Roşca nr. 4, sc. 1, demisol, ap. 21, judeţul Cluj
+397;Mureşanu;Radu Alex;Cluj-Napoca;Cluj-Napoca;Asociat BEJA Cîrja Maria-Iulia şi Mureşanu Radu Alex în Sibiu, Bd. Victoriei nr. 21, judeţul Sibiu
+398;Oszoczki;Andras;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 21, ap. 8, judeţul Cluj
+399;Petrule;Vasile Constantin;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 33-35-37, sc. B, et. 1, ap. B2, judeţul Cluj
+400;Popa;Nicolae Fanfany;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, str. Pavel Roşca nr. 4, ap. 26, judeţul Cluj
+401;Prisăcaru;Virgil Benonim;Cluj-Napoca;Cluj-Napoca;suspendat
+402;Soponar;Ciprian Lucian;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 13, et. 1, judeţul Cluj
+403;Stolnean;Diana Maria;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 9, ap. 7, judeţul Cluj
+404;Stolnean;Romeo Marius;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 11, ap. 1, judeţul Cluj
+405;Şortan;Ioan Călin;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 21, ap. 6, judeţul Cluj
+406;Şipoş;Alexandru;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, Calea Dorobanţilor nr. 1, judeţul Cluj
+407;Tămaş;Marcu;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, piaţa Mihai Viteazu nr. 31, ap. 8, judeţul Cluj
+408;Vinţ;Adrian Cosmin;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, str. Iuliu Maniu nr. 24, ap. 3, judeţul Cluj
+409;Vlad;Aurelian Liviu;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca, str. Onisifor Ghibu nr. 14, judeţul Cluj
+410;Todoruţ;Andrei;Cluj-Napoca;Dej;Dej, piaţa Bobâlna nr. 11, ap. 1, judeţul Cluj
+411;Matiş;Camelia Luminiţa;Cluj-Napoca;Dragomireşti;Dragomireşti, str. 1 Decembrie 1918 nr. 160, bl. B5, et. 1, ap. 3, judeţul Maramureş
+412;Lungu;Răzvan;Cluj-Napoca;Gherla;Gherla, str. Mihai Eminescu nr. 5, judeţul Cluj
+413;Miclea;Florina;Cluj-Napoca;Gherla;suspendat
+414;Rus;Sergiu Leon;Cluj-Napoca;Gherla;suspendat
+415;Varadi;Goia Andreea;Cluj-Napoca;Huedin;suspendat
+416;Popan;Iosif Nicolae;Cluj-Napoca;Jibou;Asociat SCPEJ Morari şi Asociaţii în Baia Mare, str. George Coşbuc nr. 32, ap. 33, judeţul Maramureş
+417;Ilovan;Dumitru;Cluj-Napoca;Năsăud;Năsăud, Str. Gării bl. 5 ABC, et. 1, judeţul Bistriţa-Năsăud
+418;Sârbu;Viorel;Cluj-Napoca;Năsăud;Năsăud, Str. Gării bl. 5 ABC, et. 1, judeţul Bistriţa-Năsăud
+419;Batin;Petru;Cluj-Napoca;Sighetu Marmaţiei;Sighetu Marmaţiei, str. Bogdan Vodă nr. 30, judeţul Maramureş
+420;Coman;Gheorghe Gavril;Cluj-Napoca;Sighetu Marmaţiei;Sighetu Marmaţiei, str. Bogdan Vodă nr. 30, judeţul Maramureş
+421;Roman;Mariana;Cluj-Napoca;Sighetu Marmaţiei;Sighetu Marmaţiei, str. Dragoş Vodă nr. 46, judeţul Maramureş
+422;Andronesi;Daniela Mariana;Cluj-Napoca;Şimleu Silvaniei;Asociat SCPEJ Andronesi Valerian Dorin & Andronesi Daniela Mariana în Bistriţa, str. Alba Iulia nr. 3, judeţul
+423;Stoica;Ioan Alin;Cluj-Napoca;Târgu Lăpuş;suspendat
+424;Trif;Adrian Cristian;Cluj-Napoca;Târgu Lăpuş;Târgu Lăpuş, str. Liviu Rebreanu nr. 17, ap. 4, judeţul Maramureş
+425;Marian;Daniel;Cluj-Napoca;Turda;Turda, Str. Republicii nr. 36, judeţul Cluj
+426;Miron;Boca Moldovan Andreea Laura;Cluj-Napoca;Turda;Turda, str. Dacia nr. 2, judeţul Cluj
+427;Sin;Marius;Cluj-Napoca;Turda;Turda, str. Dr. Ioan Raţiu nr. 9, bl. D20, sc. A, ap. 1, judeţul Cluj
+428;Amişculesei;Radu Cătălin;Cluj-Napoca;Vişeu de Sus;Vişeu de Sus, str. 22 Decembrie nr. 14/A, judeţul Maramureş
+429;Aniţei;Dorel;Cluj-Napoca;Vişeu de Sus;Vişeu de Sus, Str. Republicii nr.2, camera 6, judeţul Maramureş
+430;Ciumărnean;Romeo Gabriel;Cluj-Napoca;Zalău;Zalău, str. Tudor Vladimirescu nr. 1, bl. Lira, et. 1, ap. 8, judeţul Sălaj
+431;Kovacs;Levente Ferenc;Cluj-Napoca;Zalău;Zalău, str. Tudor Vladimirescu nr. 12, bl. D53, sc. D, ap. 3, judeţul Sălaj
+432;Oszoczki;Marton;Cluj-Napoca;Zalău;Zalău, str. Tudor Vladimirescu nr. 7, bl. P24, ap. 2, judeţul Sălaj
+433;Ţurcaş;Ioan;Cluj-Napoca;Zalău;Zalău, str. Tudor Vladimirescu nr. 7, bl. P24, ap. 2, judeţul Sălaj
+434;Dorache;Nicolae;Constanţa;Babadag;suspendat
+435;Ivănescu;Liviu;Constanţa;Babadag;suspendat
+436;Aragea;Daniel;Constanţa;Constanţa;Constanţa, Str. Dezrobirii nr. 120, bl. IS4, sc. B, ap. 20, parter, judeţul Constanţa
+437;Beciu;Stelian;Constanţa;Constanţa;Constanţa, bd. Mamaia nr. 224, biroul 2, mezanin, judeţul Constanţa
+438;Bogăţie;Silvia Laura;Constanţa;Constanţa;Constanţa, str. Mircea cel Bătrân nr. 129, judeţul Constanţa
+439;Bogdan;Ionică;Constanţa;Constanţa;Constanţa, bd. Tomis nr. 221, bl. TS 11 B, sc. A, ap. 1, parter, judeţul Constanţa
+440;Dăbuleanu;Dragoş;Constanţa;Constanţa;Constanţa, bd. Ferdinand nr. 53, bl. A8, sc. B, ap. 37, judeţul Constanţa
+441;Deacu;Vasile;Constanţa;Constanţa;Constanţa, str. Traian nr. 39, et. 1, judeţul Constanţa
+442;Duşu;Dumitru;Constanţa;Constanţa;Constanţa, bd. Mamaia nr. 55A, et. 1, judeţul Constanţa
+443;Gavrilescu;Alin Mihail;Constanţa;Constanţa;Constanţa, bd. Tomis nr. 46, et. 2, camerele 27, 31, 32, 33, 33A, judeţul Constanţa
+444;Menaef;Cristian;Constanţa;Constanţa;Constanţa, bd. Tomis nr. 8, et. 1, judeţul Constanţa
+445;Munteanu;Ionel;Constanţa;Constanţa;Constanţa, bd. Ferdinand nr. 33, bl. R7, judeţul Constanţa
+446;Negoescu;Marina Adelina;Constanţa;Constanţa;Constanţa, bd. Tomis nr. 320, bl. M4, sc. F, ap. 101, judeţul Constanţa
+447;Negoiţă;Steluţa Iuliana;Constanţa;Constanţa;Constanţa, str. Tudor Vladimirescu nr. 28, et. 1, judeţul Constanţa
+448;Oană;Silviu;Constanţa;Constanţa;Constanţa, str. Traian nr. 28, bl. C3, sc. C, ap. 32, judeţul Constanţa
+449;Sarkis;Ionica;Constanţa;Constanţa;Constanţa, str. Jupiter nr. 19, et. 1, judeţul Constanţa
+450;Spineanu;Marius Eleodor;Constanţa;Constanţa;Constanţa, str. Traian nr. 32, bl. C2, sc. C, ap. 32, judeţul Constanţa
+451;Stoica;Constantin Adrian;Constanţa;Constanţa;Constanţa, bd. Tomis nr. 44, et. 1, ap. 1, judeţul Constanţa
+452;Stoica;Constantin Gabriela-Simona;Constanţa;Constanţa;Constanţa, bd. Tomis nr. 44, et. 1, ap. 1, judeţul Constanţa
+453;Şoavă;Dan Basarab;Constanţa;Constanţa;Constanţa, str. Ecaterina Varga nr. 27, et. 1, judeţul Constanţa
+454;Vasile;Dumitru Gabriel;Constanţa;Constanţa;Constanţa, bd. Tomis nr. 267, bl. T4, ap. 16, parter, judeţul Constanţa
+455;Vasile;Nicoleta;Constanţa;Constanţa;Constanţa, bd. Tomis nr. 267, bl. T4, ap. 16, parter, judeţul Constanţa
+456;Vasiliu;Vicenţiu Ionuţ;Constanţa;Constanţa;Asociat BEJA Tudorie Ştefan şi Vasiliu Vicenţiu Ionuţ în Galaţi, Str. Brăilei nr. 136, bl. B3, sc. 6, ap. 51, judeţul
+457;Volintiru;Ştefan;Constanţa;Constanţa;Constanţa, str. Miron Costin nr. 36, ap. 6, judeţul Constanţa
+458;Ştefan;Gigi Valentin;Constanţa;Hârşova;suspendat
+459;Cristea;Nicolae;Constanţa;Mangalia;Asociat SCPEJ Dăbuleanu Dragoş şi Cristea în Constanţa, bd. Ferdinand nr. 53, bl. A8, sc. B, ap. 37, judeţul Constanţa
+460;Grasu;Gelu Iulian;Constanţa;Mangalia;Mangalia, str. Mircea cel Bătrân nr. 5, bl. M3, judeţul Constanţa
+461;Banea;Alexandru;Constanţa;Măcin;Măcin, str. Mihai Bravu, bl. 15, ap. 3, judeţul Tulcea
+462;Vlad;Marieta;Constanţa;Măcin;Asociat BEJA Vlad Irinel şi Vlad Marieta în Tulcea, Str. Luterană nr. 13, judeţul Tulcea
+463;Epure;Marius-Cristian;Constanţa;Medgidia;suspendat
+464;Rusu;Cătălina;Constanţa;Medgidia;Medgidia, Str. Independenţei nr. 87B, bl. C2, lot 2, ap. 6, parter, judeţul Constanţa
+465;Solomon;Neculai;Constanţa;Medgidia;Medgidia, Str. Independenţei nr. 87C, bl. cămin C3, ap. 2, judeţul Constanţa
+466;Bratu;Alexandru Remus;Constanţa;Tulcea;Tulcea, str. Slt. Gavrilov Corneliu nr. 152, judeţul Tulcea
+467;Casapu;Cătălin Octavian;Constanţa;Tulcea;Tulcea, Str. Păcii nr. 81, bl. PS, sc. A, mezanin, judeţul Tulcea
+468;Cornea;Pompiliu;Constanţa;Tulcea;Tulcea, Str. Păcii nr. 17A, judeţul Tulcea
+469;Dumbravă;Dumitru;Constanţa;Tulcea;Tulcea, str. Gavrilov Corneliu nr. 168, bl. A2, sc. B, ap. 5, judeţul Tulcea
+470;Ghenu-Dumbravă;Iuliana;Constanţa;Tulcea;Tulcea, str. Gavrilov Corneliu nr. 168, bl. A2, sc. B, ap. 5, judeţul Tulcea
+471;Lăzureanu;Valentina Anda;Constanţa;Tulcea;suspendat
+472;Şelaru;Adrian;Constanţa;Tulcea;Tulcea, Str. Isaccei nr. 20, judeţul Tulcea
+473;Vlad;Irinel;Constanţa;Tulcea;Tulcea, Str. Luterană nr. 13, judeţul Tulcea
+474;Cornescu;Adrian Vasile;Craiova;Baia de Aramă;Asociat SCPEJ Drăgan, Cornescu şi Asociaţii în Târgu Jiu, str. Traian nr. 5A
+475;Graf;Antonio-Lenhard;Craiova;Baia de Aramă;Baia de Aramă, Str. Republicii nr. 27, bl. G1, sc. 1, ap. 12, judeţul Mehedinţi
+476;Ţone;Anca Roxana;Craiova;Baia de Aramă;Asociat BEJ Franz Radu Călin, Bucureşti, calea Vitan nr. 119, bl. V21, sc. 2, et. 6, ap. 56, sectorul 3
+477;Ciobanu;Vasile Bogdan;Craiova;Balș;"""SCPEJ Prisecariu şi Ciobanu"" în Oneşti, Str. Republicii, bl.22, apt.22"
+478;Stan;Monica;Craiova;Balş;Balş, str. N. Bălcescu nr. 7, judeţul Mehedinţi
+479;Iovan;Cornel;Craiova;Băileşti;Băileşti, str. Carpaţi, bl. 2, sc. 2, ap. 4, judeţul Dolj
+480;Ioţovici;Mihaela;Craiova;Calafat;Calafat, str. Gh. Doja nr. 7
+481;Stan;Elena;Craiova;Calafat;suspendat
+482;Gulie;Rodica;Craiova;Caracal;Caracal, str. Iancu Jianu nr. 21A
+483;Neda;Ion;Craiova;Caracal;Caracal, Str. Bradului nr. 2
+484;Albu;Ionuţ Elian;Craiova;Craiova;Craiova, str. Madona Dudu nr. 35, et. 1, cam. 5-6, judeţul Dolj
+485;Balaci;Titi;Craiova;Craiova;Craiova, str. România Muncitoare nr. 67
+486;Borceanu;Diana Dorinela;Craiova;Craiova;Craiova, str. România Muncitoare nr. 66
+487;Budără;Adriana;Craiova;Craiova;Craiova, str. România Muncitoare nr. 62
+488;Crînguş;Florina;Craiova;Craiova;Craiova, str. A. I. Cuza nr. 22, et. 2
+489;Drăghia;Dan Gabriel;Craiova;Craiova;Craiova, str. România Muncitoare nr. 55, et. 1
+490;Filip;Caius Laurenţiu;Craiova;Craiova;Craiova, str. Nicolae Titulescu bl. H2, ap. 1
+491;Iacob;Mircea;Craiova;Craiova;Craiova, str. România Muncitoare nr. 54A
+492;Ilie;Maria Magdalena;Craiova;Craiova;Craiova, Str. Dezrobirii nr. 1D
+493;Ionaşcu;Cosmin Florin;Craiova;Craiova;Craiova, str. România Muncitoare nr. 54A, ap. 4
+494;Ionilete;Raol Florin;Craiova;Craiova;Craiova, str. România Muncitoare nr. 54A, ap. 3
+495;Ivanovici;Constantin;Craiova;Craiova;Craiova, Str. Brestei nr. 16, judeţul Dolj
+496;Ivanovici;Dragoş Theodor;Craiova;Craiova;Craiova, Str. Brestei nr. 16, judeţul Dolj
+497;Josceanu;Claudiu Ionel;Craiova;Craiova;Craiova, str. România Muncitoare nr. 54A, ap. 2, demisol
+498;Lăpădat;Nicolae;Craiova;Craiova;Craiova, str. România Muncitoare nr. 74
+499;Muşat;Marian;Craiova;Craiova;Craiova, str. Madona Dudu nr. 35, et. 1, camerele 5-6, judeţul Dolj
+500;Nicolae;Ion;Craiova;Craiova;Craiova, str. Nicolae Bălcescu nr. 15, bl. M15C, sc. 1, ap. 3
+501;Popescu;Angelica;Craiova;Craiova;Craiova, str. România Muncitoare nr. 82
+502;Strinoiu;Daniel;Craiova;Craiova;Craiova, str. România Muncitoare nr. 31
+503;Talpă;Neacşu Cristian;Craiova;Craiova;Craiova, str. România Muncitoare nr. 65
+504;Terpovici;Bogdan;Craiova;Craiova;Craiova, str. România Muncitoare nr. 65
+505;Toader;Anelin;Craiova;Craiova;Craiova, str. România Muncitoare nr. 54A, ap. 1, demisol
+506;Ungureanu;Gheorghe;Craiova;Craiova;Craiova, str. General Magheru nr. 81, judeţul Dolj
+507;Zăvoi;Ion Cristian;Craiova;Craiova;Craiova, str. România Muncitoare nr. 31
+508;Bojneag;Alin Cristian;Craiova;Drobeta-Turnu;suspendat
+509;Cerbulescu;Constantin;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, Str. Independenţei nr. 1B
+510;Cimpu;Robert;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, str. Traian nr. 33
+511;Clement;Gheorghe;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, str. Tabla Buţii nr. 40
+512;Dumitrescu;Alfred;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, str. Smârdan nr. 10
+513;Firu;Marilena Ionela;Craiova;Drobeta-Turnu;suspendat
+514;Guran;George Cătălin;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, str. Carol I nr. 6
+515;Madescu;Lionela;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, str. Iulius Cezar nr. 4
+516;Popescu;Alin;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, str. Dr. Babeş nr. 57, bl. 6, sc. 1
+517;Popescu;Lucian-Iorgu;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, str. Traian nr. 140
+518;Purcaru;Florentin-Claudiu;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, str. George Coşbuc nr. 12A
+519;Raicu;Ion;Craiova;Drobeta-Turnu;Drobeta-Turnu Severin, str. Carol I bl. A1, sc. 1
+520;Drăgoi;Mihai;Craiova;Filiaşi;Filiaşi, bd. Racoţeanu nr. 163A
+521;Tănasie;Neluţu;Craiova;Filiaşi;Filiaşi, Str. Unirii nr. 2
+522;Diaconiţa;Constantin;Craiova;Motru;Motru, Str. Trandafirilor bl. C4, ap. 1
+523;Tutunaru;Afrodita Laura;Craiova;Motru;suspendat
+524;Dăianu;Gheorghe;Craiova;Novaci;Novaci, Str. Parângului nr. 94
+525;Olaru;Dana;Craiova;Novaci;Asociat BEJA Olaru Constantin şi Olaru Dana în Târgu Jiu, str. Gh. Magheru, bl. 2, parter
+526;Vonica;Filimon;Craiova;Novaci;suspendat
+527;Dumitrescu;Ilona;Craiova;Orşova;Asociat BEJA Birsasteanu Florian şi Dumitrescu în Târgu Jiu, str. T. Vladimirescu nr. 36-38
+528;Pătăşanu;Constantin;Craiova;Orşova;Orşova, str. Porţile de Fier nr. 6
+529;Vlad;Laurenţiu;Craiova;Segarcea;suspendat
+530;Dragomir;Doru Marius;Craiova;Slatina;Slatina, str. Lipscani nr. 59
+531;Ispas;Denisa-Jenica;Craiova;Slatina;Slatina, str. Lipscani nr. 43
+532;Moraru;Claudiu Ionuţ;Craiova;Slatina;suspendat
+533;Păvăloiu;Georgeta;Craiova;Slatina;Slatina, str. M. Eminescu nr. 29
+534;Sima;Antonel;Craiova;Slatina;Slatina, bd. Nicolae Titulescu, bl. 47, corp A
+535;Tăpuşi;Ruxandra;Craiova;Slatina;Slatina, str. Lipscani nr. 31
+536;Vlad;Constantin;Craiova;Slatina;Slatina, str. Lipscani nr. 55
+537;Dîrloagă;Florinel;Craiova;Strehaia;Strehaia, Str. Republicii nr. 193
+538;Puşcă;Stelian;Craiova;Strehaia;Strehaia, Str. Republicii nr. 175
+539;Catrinoiu;Matei Cosmin;Craiova;Târgu;Târgu Cărbuneşti, Str. Trandafirilor nr. 22
+540;Cîrţină;Corina-Elena;Craiova;Târgu;suspendat
+541;Bîrsăşteanu;Florian;Craiova;Târgu Jiu;Târgu Jiu, str. T. Vladimirescu nr. 36-38, judeţul Gorj
+542;Diaconiţa;Elena Lavinia;Craiova;Târgu Jiu;Târgu Jiu, str. T. Vladimirescu nr. 42
+543;Drăgan;Costinel Romeo;Craiova;Târgu Jiu;Târgu Jiu, str. Traian nr. 5A, judeţul Gorj
+544;Enea;M.Marin;Craiova;Târgu Jiu;Târgu Jiu, str. T. Vladimirescu nr. 65
+545;Enea;Marin;Craiova;Târgu Jiu;Târgu Jiu, Str. Confederaţiei nr. 1
+546;Gagiu;Nicolae;Craiova;Târgu Jiu;Târgu Jiu str. Traian nr. 18, et. 1
+547;Nica;Ionuţ Tudor;Craiova;Târgu Jiu;Târgu Jiu, str. Traian, bl. 7, parter
+548;Olaru;Constantin;Craiova;Târgu Jiu;Târgu Jiu, str. Gh. Magheru, bl. 2, parter, judeţul Gorj
+549;Roşca;Dumitru;Craiova;Târgu Jiu;Târgu Jiu, str. T. Vladimirescu nr. 2, parter
+550;Şerban;Sorin;Craiova;Târgu Jiu;Târgu Jiu, str. T. Vladimirescu nr. 71, et. 1, cam. 2-3
+551;Talianu;Eduard-Cristian;Craiova;Târgu Jiu;Târgu Jiu
+552;Trancă;Nicuşor;Craiova;Târgu Jiu;Târgu Jiu, str. Traian nr. 1
+553;Andrei;Eugen;Craiova;Vânju Mare;Asociat SCPEJA Culea, Tanurca şi Asociaţii în bd. Burebista nr. 4, bl. D13, sc. 4, ap. 120, sectorul 3
+554;Mărăscu;Ion;Craiova;Vânju Mare;Vânju Mare, Str. Rahovei nr. 8, Dolj
+555;Mircea;Bogdan Constantin;Galaţi;Adjud;Adjud, str. Al. I. Cuza nr. 78, judeţul Vrancea
+556;Drăgulin;Eugen;Galaţi;Brăila;Brăila, Str. Frumoasă nr. 7, judeţul Brăila
+557;Eftene;Petruţ;Galaţi;Brăila;Brăila, bd. Al. I. Cuza nr. 5, bl. duplex, sc. 1, ap. 1, parter, judeţul Brăila
+558;Mândrilă;Costel;Galaţi;Brăila;Brăila, Calea Călăraşilor nr. 44, et. I, judeţul Brăila
+559;Nichifor;Sebastian Ionuţ;Galaţi;Brăila;Brăila, Calea Călăraşilor nr. 30, modulul nr. 6, judeţul Brăila
+560;Pintilie;Lucian Gabriel;Galaţi;Brăila;Brăila, bd. Al. I.Cuza nr. 18, judeţul Brăila
+561;Plăcintă;Adina Maria;Galaţi;Brăila;Brăila, Calea Călăraşilor nr. 39, biroul 25, judeţul Brăila
+562;Postelnicu;Gabriela;Galaţi;Brăila;suspendat
+563;Romarciuc;Cosmin Iulian;Galaţi;Brăila;Brăila, Calea Călăraşilor nr. 56, bl. 11, sc. 4, ap. 10, parter, judeţul Brăila
+564;Surdu;Dragoş Cristian;Galaţi;Brăila;Brăila, str. Al. I. Cuza nr. 32, clădirea XXL, et. 2, biroul 7, judeţul Brăila
+565;Turcu;George;Galaţi;Brăila;Brăila, bd. Al. I. Cuza nr. 3, judeţul Brăila
+566;Ivan;Stela Florentina;Galaţi;Făurei;suspendat
+567;Bercariu;Corneliu;Galaţi;Focşani;Focşani, str. Simion Bărnuţiu nr. 5, judeţul Vrancea
+568;Bîrsan;Firel;Galaţi;Focşani;Focşani, str. Bucegi nr. 2, bl. 7, ap. 16, judeţul Vrancea
+569;Bîrsan;Vicuţa Maria;Galaţi;Focşani;Focşani, str. Bucegi nr. 2, bl. 7, ap. 16, judeţul Vrancea
+570;Coman;Gelu;Galaţi;Focşani;Focşani, str. Cuza Vodă nr. 3, judeţul Vrancea
+571;Ţocu;Dan;Galaţi;Focşani;Focşani, Str. Eroilor nr. 4, bl. 2B, parter, ap. 24, judeţul Vrancea
+572;Caraman;Cosmin;Galaţi;Galaţi;Galaţi, str. Ovidiu nr. 3, bl. M13, sc. 4, et. 3, ap. 70, judeţul Galaţi
+573;Coţac;Dănuţ Carmen;Galaţi;Galaţi;Galaţi, str. Regiment 11 Siret nr. 43, bl. E9, sc. 1, ap. 4, judeţul Galaţi
+574;Dajbog;Geanina;Galaţi;Galaţi;Galaţi, Str. Brăilei nr. 157, bl. A7, ap. 25, judeţul Galaţi
+575;Manole;Mihai;Galaţi;Galaţi;suspendat
+576;Micu;Constantin;Galaţi;Galaţi;Galaţi, Str. Brăilei nr. 157, bl. A.7, ap. 16, judeţul Galaţi
+577;Munteanu;Laura Paraschiva;Galaţi;Galaţi;Galaţi, Str. Brăilei nr. 157, bl. A. 7, ap. 67, judeţul Galaţi
+578;Postelnicu;Ştefan;Galaţi;Galaţi;Galaţi, str. Regiment 11 Siret nr. 43, bl. E9, ap. 2, parter, judeţul Galaţi
+579;Râpan;Cornel;Galaţi;Galaţi;Galaţi, str. I. L. Caragiale nr. 6, et. 1, judeţul Galaţi
+580;Şerban;Teodora Gabriela;Galaţi;Galaţi;Galaţi, Str. Brăilei nr. 165, bl. A3, sc. 1, et. 1, ap. 39, judeţul Galaţi
+581;Tudorie;Ştefan;Galaţi;Galaţi;Galaţi, Str. Brăilei nr. 136, bl. B 3, sc. 6, ap. 51, judeţul Galaţi
+582;Motoc;Petrică;Galaţi;Însurăţei;Însurăţei, Str. Tineretului nr. 36, bl. B4, sc. 1, et. 1, ap. 2, cvartal 127, parcela 1757/1, Brăila
+583;Stelescu;Dana;Galaţi;Lieşti;Asociat BEJA Bercariu Corneliu şi Stelescu Dana în Focşani, str. Simion Bărnuţiu nr. 5, Vrancea
+584;Creţu;Ciprian Corneliu;Galaţi;Panciu;Panciu, Str. Democraţiei nr. 3, judeţul Vrancea
+585;Ionescu;Claudia Cristina;Galaţi;Panciu;Panciu, Str. Democraţiei nr. 3, judeţul Vrancea
+586;Chirică;Miştoi Costel;Galaţi;Târgu Bujor;Târgu Bujor, str. Gen. Eremia Grigorescu nr. 28, corp A, et. 2, judeţul Galaţi
+587;Badiu;Florin;Galaţi;Tecuci;Asociat BEJA Micu Constantin şi Badiu Florin în Galaţi, Str. Brăilei nr. 157, bl. A.7, ap. 16, Galaţi
+588;Gabor;Robert;Galaţi;Tecuci;Tecuci, str. Costache Racoviţă nr. 2, bl. R, ap. 64, judeţul Galaţi
+589;Ţigănuş;Viorel Mirel;Galaţi;Tecuci;Tecuci, str. Vasile Alecsandri nr. 2, bl. R, ap. 43-parter, judeţul Galaţi
+590;Bujoreanu;George Cristian;Iaşi;Bârlad;Bârlad, str. General Naumescu nr. 1, bl. B14, sc. A, parter, ap. 3
+591;Stan;Iulian Marius;Iaşi;Bârlad;Bârlad, Str. Republicii nr. 217, bl. UMPS, et. 2, Vaslui
+592;Trofin;Anca Mihaela;Iaşi;Bârlad;suspendat
+593;Guţu;Adrian;Iaşi;Huşi;Huşi, Str. Eroilor, bl. 17, sc. A, ap. 3
+594;Tufeanu;Vasile Bogdan;Iaşi;Huşi;Asociat BEJA Dominte Cristinel şi Tufeanu Vasile Bogdan în localitatea Iaşi, str. Grigore Ureche nr. 1-3, bl. Walter
+595;Airinei;Constantin;Iaşi;Iaşi;Iaşi, str. Armeană nr. 12
+596;Anchidin;Cornelia;Iaşi;Iaşi;Iaşi, str. Başotă nr. 4, et. 1
+597;Andrei;Cezar;Iaşi;Iaşi;"Iaşi, Casa cu absidă ""Laurenţiu Ulici"", centrul civic, str. Grigore Ureche"
+598;Bîrcă;Gabriel;Iaşi;Iaşi;Iaşi, str. Grigore Ureche nr. 3, bl. Walter Mărăcineanu, parter
+599;Chiriac;Cătălin Răzvan;Iaşi;Iaşi;Iaşi, bd. Ştefan cel Mare şi Sfânt nr. 67, bl. C3
+600;Damian;Ştefan Leonid;Iaşi;Iaşi;Iaşi, str. Grigore Ureche nr. 1-3
+601;Darie;Andreea;Iaşi;Iaşi;Iaşi, str. Grigore Ureche nr. 1, bl. 6 Martie, parter
+602;Dominte;Cristinel;Iaşi;Iaşi;Iaşi, str. Grigore Ureche nr. 1-3, bl. Walter Mărăcineanu, demisol
+603;Elesei;Beniamin;Iaşi;Iaşi;Iaşi, str. Sf. Lazăr nr. 4, bl. Peneş Curcanu, tr. V, et. 1, cab. nr. 16
+604;Florea;Mihai;Iaşi;Iaşi;Iaşi, str. Costache Negri nr. 37, bl. P1, parter, ap. 4
+605;Iovu;Dragoş;Iaşi;Iaşi;Iaşi, str. Sf. Lazăr nr. 27, et. 2, camera 215
+606;Mereuţă;Lăcrămioara;Iaşi;Iaşi;Iaşi, str. Anastasie Panu nr. 21, bl. 7 Noiembrie, sc. B, ap. 1
+607;Nichiţoi;Georgiana;Iaşi;Iaşi;Iaşi, str. Costache Negri nr. 37, bl. P1, parter, ap. 2
+608;Plumbu;Sergiu Sebastian;Iaşi;Iaşi;Iaşi, str. Anastasie Panu nr. 23, bl. Muntenia, mezanin
+609;Sandu;Cristian;Iaşi;Iaşi;Iaşi, str. Grigore Ureche nr. 3, bl. Ghe. Şonţu, demisol
+610;Silimon;Valentin;Iaşi;Iaşi;Iaşi, str. Anastasie Panu nr. 13-15, mezanin
+611;Zabolotnăi;Vladimir;Iaşi;Iaşi;Iaşi, str. Sf. Lazăr nr. 4, bl. Peneş Curcanu, tronson 5, sc. C, demisol
+612;Zacornea;Constantin Ciprian;Iaşi;Iaşi;"Iaşi, Casa cu Absidă ""Laurenţiu Ulici"", centrul civic, str. Grigore Ureche"
+613;Corbu;Vasile;Iaşi;Paşcani;Paşcani, str. E. Stamate, bl. D2A, judeţul Iaşi
+614;Lupu;Nicolăiţă Gheorghe Cristian;Iaşi;Paşcani;Paşcani, str. Ştefan cel Mare şi Sfânt nr. 107A, parter
+615;Toma;Dumitru Paul;Iaşi;Paşcani;Paşcani, str. Ştefan cel Mare nr. 13, complex et. 1
+616;Angheluţă;Lucian;Iaşi;Răducăneni;Comuna Răducăneni, Consum Coop, Iaşi
+617;Sîrbu;Ciprian Ioan;Iaşi;Răducăneni;Asociat BEJA Iovu Dragoş şi Sîrbu Criprian Ioan în Iaşi, str. Sf. Lazăr nr. 27, et. 2, camera 215
+618;Câmpeanu;Ioan;Iaşi;Vaslui;Vaslui, str. Traian, bl. 241, sc. A, et. P, ap. 3
+619;Silitră;Alin;Iaşi;Vaslui;Vaslui, str. Traian, bl. 241, sc. B, et. 1, ap. 8
+620;Stancu;Paulică;Iaşi;Vaslui;Asociat BEJA Pană Victor şi Stancu Paulică în Târgovişte, Bd. Independenţei, bl. 2A, P, ap. 5
+621;Popescu;Gilda;Oradea;Aleşd;Aleşd, Str. 1 Decembrie nr. 2, judeţul Bihor
+622;Nechifor;Ionela-Olguţa;Oradea;Beiuş;"Asociat BEJA Andrei Cezar şi Nechifor Ionela în Iaşi, Casa cu Absidă ""Laurenţiu Ulici"", centrul civic, str. Grigore Ureche"
+623;Paşca;Rodica-Lăcrămioara;Oradea;Beiuş;Beiuş, str. 22 Decembrie nr. 21, judeţul Bihor
+624;Pop;Ioan Vasile;Oradea;Carei;Carei, str. 1 Decembrie 1918 nr. 44, et. 1, judeţul Satu Mare
+625;Paşca;Ciprian-Narcis;Oradea;Marghita;Marghita, str. Tudor Vladimirescu nr. 3, judeţul Bihor
+626;Serfezi;Florin;Oradea;Marghita;Marghita, str. Horea nr. 7, judeţul Bihor
+627;Mihalcea;Benone;Oradea;Negreşti-Oaş;Negreşti-Oaş, Aleea Trandafirilor, bl. 10, ap. 1, judeţul Satu Mare
+628;Ardelean;Felix-Florin;Oradea;Oradea;Oradea, Str. Dunării nr. 12, ap. 2, judeţul Bihor
+629;Ardeleanu;Anamaria-Bianca;Oradea;Oradea;Oradea, str. G. Enescu nr. 6, judeţul Bihor
+630;Beiuşan;Andrei;Oradea;Oradea;Oradea, Str. Republicii nr. 13, ap. 1, judeţul Bihor
+631;Beiuşan;Gheorghe;Oradea;Oradea;Oradea, Str. Republicii nr. 13, ap. 1, judeţul Bihor
+632;Bucurean;Ioan-Călin;Oradea;Oradea;Oradea, str. Parcul Traian nr. 1, ap. 3, judeţul Bihor
+633;Chizec;Maria-Victoria;Oradea;Oradea;Oradea, Parcul Traian nr. 15, ap. 2, judeţul Bihor
+634;Gavruţă;Dan;Oradea;Oradea;Oradea, str. G. Enescu nr. 11, ap. 2, judeţul Bihor
+635;Gîrdan;Marius-Florin;Oradea;Oradea;Oradea, str. Franz Shubert nr. 3, judeţul Bihor
+636;Moza;Gheorghe Sorin;Oradea;Oradea;Oradea, str. Andrei Şaguna nr. 3, ap. 1, judeţul Bihor
+637;Neagoş;Dorel;Oradea;Oradea;Oradea, Str. Republicii nr. 12, et. 2, ap. 11, judeţul Bihor
+638;Pleş;Daniela-Maria;Oradea;Oradea;Oradea, str. Aurel Lazăr nr. 17, ap. 2, judeţul Bihor
+639;Popovici;Dorin;Oradea;Oradea;Oradea, Str. Tribunalului nr. 1, judeţul Bihor
+640;Puşcaş;Eugen-Nicolae;Oradea;Oradea;Oradea, str. Parcul Traian nr. 7, ap. 6, judeţul Bihor
+641;Vuşcan;Mihaela-Florentina;Oradea;Oradea;Oradea, Str. Republicii nr. 14, et. 21, ap. 6/A2, judeţul Bihor
+642;Beiuşan;Bogdan-Florin;Oradea;Salonta;Asociat SCPEJ Beiuşan în Oradea, Str. Republicii nr. 13, ap. 1, judeţul Bihor
+643;Danciu;Gheorghe Radu;Oradea;Satu Mare;Satu Mare, str. Horea nr. 8, ap. 4, judeţul Satu Mare
+644;Iva;Aniţaş Marian Dan;Oradea;Satu Mare;Satu Mare, str. Mihai Viteazu nr. 13, ap. 2, judeţul Satu Mare
+645;Kiss;Gabriel-Valentin;Oradea;Satu Mare;Satu Mare, str. Mihai Viteazu nr. 7, et. 1, judeţul Satu Mare
+646;Lăzărescu;Nicolae Dorin;Oradea;Satu Mare;Satu Mare, str. Mihai Viteazu nr. 9, et. P, judeţul Satu Mare
+647;Michiş;Ioan;Oradea;Satu Mare;Satu Mare, str. Horea nr. 11, judeţul Satu Mare
+648;Mociran;Viorel;Oradea;Satu Mare;Satu Mare, str. Mihai Viteazu nr. 19, ap. 30, judeţul Satu Mare
+649;Mureşan-Găzdac;Adela Viorela Elena;Oradea;Satu Mare;"Asociat SCPEJ ""Boloş şi Partenerii"" în Cluj-Napoca, Calea Dorobanţilor nr. 17, P, ap. 7, judeţul Cluj"
+650;Pătraş;Răzvan Lucian;Oradea;Satu Mare;Satu Mare, str. Horea nr. 8, ap. 6, et. 2, judeţul Satu Mare
+651;Rus-Vid;Ioan Cătălin;Oradea;Satu Mare;Satu Mare, str. Horea nr. 8, sc. A, ap. 12, judeţul Satu Mare
+652;Şortan;Monica Ioana;Oradea;Satu Mare;suspendat
+653;Muraru-Tătoiu;Bogdan;Piteşti;Bălceşti;Bălceşti, str. Petrache Poenaru nr. 2, judeţul Vâlcea
+654;Florea;Ioana;Piteşti;Câmpulung;Câmpulung, str. Constantin Popescu nr. 7, judeţul Argeş
+655;Mitu;Mihai Ioan;Piteşti;Câmpulung;Câmpulung, str. Fraţii Goleşti nr. 14, bl A6a, sc. B, ap. 1, parter, judeţul Argeş
+656;Petroaica;Florin-Adrian;Piteşti;Costeşti;Costeşti, Str. Victoriei, bl. L21, judeţul Argeş
+657;Iordache;Vasile;Piteşti;Curtea de Argeş;Curtea de Argeş, str. Tudor Vladimirescu nr. 2, judeţul Argeş
+658;Mateescu;Emilia;Piteşti;Curtea de Argeş;Curtea de Argeş, str. Mărăşeşti nr. 3, judeţul Argeş
+659;Bălan;Ovidiu;Piteşti;Drăgăşani;Drăgăşani, Str. 1 Mai (Regele Carol), bl. 90, parter, judeţul Vâlcea
+660;Prooroc;Olimpiu-Gabriel;Piteşti;Drăgăşani;Drăgăşani, str. Popa Şapcă, bl. M1, sc. C, ap. 1, parter, judeţul Vâlcea
+661;Drăgoescu;Raluca-Mihaela;Piteşti;Horezu;
+662;Stănescu;Elis-Anamaria;Piteşti;Horezu;Asociat BEJA Stănescu Ilie şi Sănescu Elis Anamaria în Bucureşti, str. Vasile Conta nr. 8-10, sectorul 2
+663;Văleanu;Ilie;Piteşti;Horezu;Horezu, Str. Unirii nr. 17, bl. O2, parter, tronson A, judeţul Vâlcea
+664;Albu;Cornel-Leonard;Piteşti;Piteşti;Piteşti, str. Fraţii Goleşti nr. 19B, etaj I, camera 5-6, judeţul Argeş
+665;Balica;Bogdan-Laurenţiu;Piteşti;Piteşti;Piteşti, Bd. Republicii, bl. 35, sc. B, demisol, ap. 6, judeţul Argeş
+666;Bucescu;Emanoil Aron;Piteşti;Piteşti;Piteşti, Bd. Eroilor nr. 24, parter, judeţul Argeş
+667;Copaci;Vasile-Dorel;Piteşti;Piteşti;Piteşti, Bd. Eroilor nr. 24, parter, judeţul Argeş
+668;Damaschin;Marius;Piteşti;Piteşti;Piteşti, Bd. Eroilor nr. 29A, etajul I, judeţul Argeş
+669;Gigoi;Emil;Piteşti;Piteşti;Piteşti, Bd. Republicii nr. 129, birourile 1 şi 4, judeţul Argeş
+670;Ioana;Cristian;Piteşti;Piteşti;Piteşti, Str. Violetelor, bl. PS11, sc. B, ap. 3, judeţul Argeş
+671;Iordache;Ion;Piteşti;Piteşti;Piteşti, Str. Eroilor nr. 2bis, judeţul Argeş
+672;Moromete;Constantin-Cosmin;Piteşti;Piteşti;Piteşti, Str. Eroilor, bl. A1, sc. A, ap. 1, parter, judeţul Argeş
+673;Negoescu;Adrian-Gheorghe;Piteşti;Piteşti;Piteşti, Bd. Eroilor nr. 24, parter, judeţul Argeş
+674;Paraschivescu;Marius-Gabriel;Piteşti;Piteşti;Piteşti, str. Fraţii Goleşti nr. 19B, etaj I, camera 3-4, judeţul Argeş
+675;Pisculungeanu;Vlad-Adrian;Piteşti;Piteşti;Piteşti, Str. Eroilor nr. 12, judeţul Argeş
+676;Predeanu;Adriana-Ramona;Piteşti;Piteşti;Piteşti, str. Exerciţiu nr. 74, judeţul Argeş
+677;Şotae;Marian;Piteşti;Piteşti;Piteşti, str. Fraţii Goleşti nr. 19B, etaj I, camera 1, judeţul Argeş
+678;Tudor;Florin-Alin;Piteşti;Piteşti;Piteşti, Bd. Eroilor nr. 35, camera 6, judeţul Argeş
+679;Vârgă;Ioan;Piteşti;Piteşti;Piteşti, str. Exerciţiu nr. 70, judeţul Argeş
+680;Bunescu;Dumitru-Teodor;Piteşti;Râmnicu Vâlcea;Râmnicu Vâlcea, Calea lui Traian nr. 135, bl. N2, parter, judeţul Vâlcea
+681;Buzatu;Constantin;Piteşti;Râmnicu Vâlcea;Râmnicu Vâlcea, Calea lui Traian nr. 135, bl. N2, parter, judeţul Vâlcea
+682;Cernea;Ion;Piteşti;Râmnicu Vâlcea;Râmnicu Vâlcea, Calea lui Traian nr. 131A, judeţul Vâlcea
+683;Deaconu;Mihail;Piteşti;Râmnicu Vâlcea;Râmnicu Vâlcea, Calea lui Traian nr. 135, bl. N2, parter, judeţul Vâlcea
+684;Gătejescu;Anda-Narghita;Piteşti;Râmnicu Vâlcea;Râmnicu Vâlcea, Calea lui Traian nr. 135, bl. N2, parter, judeţul Vâlcea
+685;Gătejescu;Bogdan;Piteşti;Râmnicu Vâlcea;Râmnicu Vâlcea, Calea lui Traian nr. 135, bl. N2, parter, judeţul Vâlcea
+686;Otliţă;Mircea-Gabriel;Piteşti;Râmnicu Vâlcea;Râmnicu Vâlcea, bd. T. Vladimirescu nr. 26, bl. V. Olănescu, sc. C, parter, ap. 29, judeţul Vâlcea
+687;Radu;Marius;Piteşti;Râmnicu Vâlcea;Brezoi, Str. Eroilor nr. 41, judeţul Vâlcea
+688;Mutuligă;Radu-Mihail;Piteşti;Topoloveni;Topoloveni, calea Bucureşti nr. 111, complex multifuncţional, corp A3, et. 2, judeţul Argeş
+689;Tomescu;Mihail;Piteşti;Topoloveni;
+690;Ailincăi;Alexandru;Ploieşti;Buzău;Buzău, Piaţa Daciei, bl. E, sc. A, ap. 4, judeţul Buzău
+691;Cucu;Lucian Ciprian;Ploieşti;Buzău;Buzău, Str. Unirii-Centru nr. 176, bl. B, sc. A, et. 1, ap. 5, judeţul Buzău
+692;Curelaru;Cristinel;Ploieşti;Buzău;Buzău. str. Cuza-Vodă nr. 1-3, et. 2, judeţul Buzău
+693;Isofache;Marius-Nicuşor;Ploieşti;Buzău;Buzău, Str. Unirii (centru) nr. 176, bl. A, sc. 2, et. 2, ap. 36, judeţul Buzău
+694;Lumperdean;Florin;Ploieşti;Buzău;Buzău, str. Bazar, bl. 1A, ap. 4, judeţul Buzău
+695;Paraipan;Sorin;Ploieşti;Buzău;Buzău, str. Bazar, bl. 1A, ap. 4, judeţul Buzău
+696;Pîntea;Vasile;Ploieşti;Buzău;satul Costeşti, comuna Costeşti, judeţul Buzău
+697;Popescu;Silviu-Andrei;Ploieşti;Buzău;Buzău, Str. Ostrovului, bl. A1, ap. 6, judeţul Buzău
+698;Popescu;Adrian;Ploieşti;Buzău;Buzău, Bd. Unirii, bl. 16B, mezanin, judeţul Buzău
+699;Porojnicu;Adrian;Ploieşti;Buzău;Buzău, str. Obor nr. 53, bl. 11, sc. B, ap. 2, parter, judeţul Buzău
+700;Roşu;Daniela;Ploieşti;Buzău;Buzău, str. Obor, bl. 11, sc. B, parter, judeţul Buzău
+701;Şeicaru;Dănuţ;Ploieşti;Buzău;suspendat
+702;Frîncu;Mihai;Ploieşti;Câmpina;Câmpina, Str. 1 Decembrie 1918 nr. 19, bl. R59, ap. 4, parter, judeţul Prahova
+703;Huideş;Elena;Ploieşti;Câmpina;suspendat
+704;Roşu;Cristian-Cornel;Ploieşti;Câmpina;Câmpina, Str. 1 Decembrie 1918 nr. 16, bl. 20C, et. 2, ap. 11, judeţul Prahova
+705;Bivolaru;Margareta;Ploieşti;Găeşti;Găeşti, Str. 13 Decembrie, bl. 49, sc. B, parter, judeţul Dâmboviţa
+706;Nicolescu;Dan-Răzvan;Ploieşti;Găeşti;suspendat
+707;Galea;Viorel Cristian;Ploieşti;Mizil;Asociat SCPEJ Trifina, Tănase şi Galea în Ploieşti, Piaţa Victoriei nr. 4, bl. CC VEST, ap. 83
+708;Maghiar;Ana-Maria;Ploieşti;Mizil;Asociat BEJA Maghiar Bogdan şi Maghiar Ana Maria în Bd. Unirii nr. 20, bl. 5C, et. 3, ap. 16, sectorul 4
+709;Betelie;Mihai;Ploieşti;Moreni;suspendat
+710;Dumitru;Florina Loredana;Ploieşti;Moreni;Moreni, Bd. Petrolului nr. 13, bl. B, sc. C, ap. 43, parter, judeţul Dâmboviţa
+711;Ichim;Mihai;Ploieşti;Pătârlagele;Pătârlagele, str. I.L. Caragiale nr. 1, judeţul Buzău
+712;Stîngă;Nicolae Cătălin;Ploieşti;Pătârlagele;Pătârlagele, str. I.L. Caragiale nr. 1, parter, judeţul Buzău
+713;Costoaie;Marcel;Ploieşti;Ploieşti;Ploieşti, G-ral Vasile Milea nr. 1, bl. A7, sc. D, et. 1, ap. 2, judeţul Prahova
+714;Divoiu;Maria;Ploieşti;Ploieşti;Ploieşti, str. Văleni nr. 41, judeţul Prahova
+715;Goslan;Mihai;Ploieşti;Ploieşti;Ploieşti, Str. Romană nr. 13, bl. A, sc. A, ap. 2, parter, judeţul Prahova
+716;Grecu;Ovidiu-Alexandru;Ploieşti;Ploieşti;Ploieşti, str. Take Ionescu nr. 9, judeţul Prahova
+717;Lică;Ionel;Ploieşti;Ploieşti;Ploieşti, str. Aurel Vlaicu nr. 12, judeţul Prahova
+718;Matei;Sebastian;Ploieşti;Ploieşti;Ploieşti, Piaţa Victoriei nr. 9, bl. CC Sud, sc. B, et. 1, ap. 19, judeţul Prahova
+719;Muşat;Ioan;Ploieşti;Ploieşti;Ploieşti, Piaţa Victoriei nr. 9, bl. CC Sud, camera 5, judeţul Prahova
+720;Muşat;Mihaela Alina;Ploieşti;Ploieşti;suspendat
+721;Petcu;Alexandru Adrian;Ploieşti;Ploieşti;Ploieşti, Str. Luminii nr. 2, bl. 30D, sc. A, ap. 2, judeţul Prahova
+722;Petrov;Sergiu-Alexandru;Ploieşti;Ploieşti;Ploieşti, Str. Anul 1907 nr. 37, judeţul Prahova
+723;Roşu;Ortansa Adriana;Ploieşti;Ploieşti;Ploieşti, str. Take Ionescu nr. 7, et. 2, ap. 8, judeţul Prahova
+724;Tănase;Dragoş-Iulian;Ploieşti;Ploieşti;Ploieşti, str. Dr. Bagdazar nr. 4, judeţul Prahova
+725;Tănase;Laura Ioana;Ploieşti;Ploieşti;Ploieşti, Piaţa Victoriei nr. 4, bl. CC Vest, sc. D, ap. 83, judeţul Prahova
+726;Trifina;Elena Cornelia;Ploieşti;Ploieşti;Ploieşti, Piaţa Victoriei nr. 4, bl. CC Vest, sc. D, ap. 83, judeţul Prahova
+727;Ţărean;Călin;Ploieşti;Ploieşti;Ploieşti, str. Emile Zola nr. 4, bl. I, et. 3, ap. 10, judeţul Prahova
+728;Chiriţescu;Alexandru;Ploieşti;Pogoanele;suspendat
+729;Mihai;Cristian-Sebastian;Ploieşti;Pogoanele;suspendat
+730;Pandrea;Corina Mihaela;Ploieşti;Pogoanele;suspendat
+731;Bujor;Oana Mihaela;Ploieşti;Pucioasa;Asociat SCPEJ Ţermure Călin Ovidiu şi Bujor Oana-Mihaela, loc. Braşov, Str. 15 Noiembrie nr. 62, sc. D, ap. 38, judeţul
+732;Gruianu;Viorel;Ploieşti;Pucioasa;Pucioasa, str. Nicolae Titulescu nr. 1, judeţul Dâmboviţa
+733;Ştefan;Cătălin Cristian;Ploieşti;Pucioasa;Pucioasa, Str. Fântânelor, bl. B, ap. 3, judeţul Dâmboviţa
+734;Marin;Florea;Ploieşti;Răcari;Răcari, str. Ana Ipătescu nr. 88, judeţul Dâmboviţa
+735;Marin;George Robert;Ploieşti;Răcari;Răcari, str. Ana Ipătescu nr. 88, judeţul Dâmboviţa
+736;Ciocîrlan;Constantin;Ploieşti;Râmnicu Sărat;Râmnicu Sărat, Bd. Victoriei, zona Centru, bl. A1, parter, judeţul Buzău
+737;Clinciu;Gheorghe;Ploieşti;Râmnicu Sărat;Râmnicu Sărat, str. Crângul Meiului nr. 34, judeţul Buzău
+738;Pavel;Bebi;Ploieşti;Sinaia;"Asociat SCPEJ ""Pavel şi Musat"" în Ploieşti, str. Toma Caragiu nr. 11, et. 1, ap. 5, judeţul Prahova"
+739;Bulin;Cornel-Vasile;Ploieşti;Târgovişte;Târgovişte, str. Avram Iancu nr. 20, bl. 37, sc. C, ap. 3, judeţul Dâmboviţa
+740;Deaconescu;Adrian;Ploieşti;Târgovişte;Târgovişte, str. Radu Gioglovan, bl. 51, sc. A, ap. 2, judeţul Dâmboviţa
+741;Mihai;Ducu;Ploieşti;Târgovişte;Târgovişte, Calea Bucureşti, bl. O1, sc. D, et. 1, ap. 2, judeţul Dâmboviţa
+742;Mihai;Alexandru Daniel;Ploieşti;Târgovişte;Târgovişte, Calea Bucureşti, bl. O1, sc. D, et. 1, ap. 2, judeţul Dâmboviţa
+743;Pană;Victor;Ploieşti;Târgovişte;Târgovişte, Bd. Independenţei, bl. 2A, parter, ap. 5, judeţul Dâmboviţa
+744;Scurtu;Alexe;Ploieşti;Târgovişte;suspendat
+745;Stănescu;Mihai;Ploieşti;Târgovişte;Târgovişte, Calea Bucureşti, bl. G9, parter, judeţul Dâmboviţa
+746;Tănase;Marian-Traian;Ploieşti;Târgovişte;Târgovişte, str. Radu Popescu nr. 4A, bl. 32A, sc. A, ap. 10, et. 2, judeţul Dâmboviţa
+747;Zavera;Carmen;Ploieşti;Târgovişte;Târgovişte, Calea Bucureşti nr. 9B, bl. G9, tronson B, sc. 1, et. 1, ap. 1, judeţul Dâmboviţa
+748;Neacşu;Constantin;Ploieşti;Vălenii de Munte;suspendat
+749;Negulescu;Emilian Mihail;Ploieşti;Vălenii de Munte;Vălenii de Munte, Aleea Alunilor nr. 1, judeţul Prahova
+750;Chiriac;Cristina Maria;Suceava;Botoşani;Botoşani, bd. Mihai Eminescu nr. 63, et. I, judeţul Botoşani
+751;Gavriliuc;Sorin;Suceava;Botoşani;Botoşani, bd. Mihai Eminescu nr. 48, et. I, cam. 45, judeţul Botoşani
+752;Manoilă;Vasile;Suceava;Botoşani;Botoşani, bd. Mihai Eminescu nr. 69, judeţul Botoşani
+753;Miron;Benoni Viorel;Suceava;Botoşani;suspendat
+754;Secrieru;Sînziana;Suceava;Botoşani;Botoşani, bd. George Enescu nr. 5, bl. 5, sc. B, ap. 2, parter, judeţul Botoşani
+755;Şfaiţer;Carmen;Suceava;Botoşani;Botoşani, bd. Mihai Eminescu nr. 48, et. I, cam. 45, judeţul Botoşani
+756;Temneanu;Ionuţ;Suceava;Botoşani;Botoşani, Str. Teatrului nr. 3A, judeţul Botoşani
+757;Căruceriu;Alexandru;Suceava;Câmpulung;Câmpulung Moldovenesc, Str. Mărţişorului nr. 1, judeţul Suceava
+758;Stolnean;Oana;Suceava;Câmpulung;
+759;Guceanu;Adrian;Suceava;Darabani;Darabani, Str. 1 Decembrie nr. 158, judeţul Botoşani
+760;Popa;Daniel;Suceava;Dorohoi;Dorohoi, str. Dimitrie Pompiliu nr. 64, bl. Turn, parter, judeţul Botoşani
+761;Şmocot;Grigori;Suceava;Dorohoi;Dorohoi, str. Nicolae Titulescu nr. 36, judeţul Botoşani
+762;Dumitraş;Ancuţa;Suceava;Fălticeni;Fălticeni, Str. Republicii nr. 25, et. 3, cam. 2, judeţul Suceava
+763;Hopu;Vasile;Suceava;Fălticeni;Fălticeni, Str. Nicu Gane, f.n., judeţul Suceava
+764;Lionti;Liontin;Suceava;Fălticeni;Fălticeni, Str. Republicii nr. 5, judeţul Suceava
+765;Bordian;Antonela Mihaela;Suceava;Gura Humorului;Gura Humorului, Bd. Bucovinei, bl. G9, ap. 1, judeţul Suceava
+766;Bordian;Constantin;Suceava;Gura Humorului;Gura Humorului, Bd. Bucovinei, bl. 18, sc. A, ap. 3, judeţul Suceava
+767;Neneci;Constantin Alexandru;Suceava;Gura Humorului;Asociat SCPEJ Ochian Doru Cătălin şi Neneci Alexandru în loc. Bucureşti, str. Ion Câmpineanu nr. 29, bl. 6, sc. B,
+768;Miron;Cătălin;Suceava;Rădăuţi;Rădăuţi, str. Piaţa Unirii nr. 70, judeţul Suceava
+769;Rusu;Cristian Silviu;Suceava;Rădăuţi;Rădăuţi, str. Piaţa Unirii nr. 20, parter, judeţul Suceava
+770;Cîrlan;Florin;Suceava;Săveni;Săveni, str. 1 Decembrie, bl. E3, parter, judeţul Botoşani
+771;Belibou;Paula;Suceava;Suceava;Suceava, Str. Anastasie Crimca nr. 1, bl. 1, sc. B, ap. 3, judeţul Suceava
+772;Cîmpulungeanu;Sarmis Marius Georgel;Suceava;Suceava;Suceava, str. Ştefan cel Mare nr. 37, bl. E2, sc. C, ap. 1A, judeţul Suceava
+773;Hojda;Sorin Ovidiu;Suceava;Suceava;Suceava, str. Mihai Eminescu nr. 10, bl. SD, sc. A, et. 4, cam. 20, judeţul Suceava
+774;Jugaru;Constantin;Suceava;Suceava;Suceava, str. Ştefan cel Mare nr. 43, bl. E3, sc. D, ap. 1, judeţul Suceava
+775;Manoliu;Elisabeta;Suceava;Suceava;Suceava, str. Ştefan cel Mare nr. 53, bl. G, sc. A, ap. 3, judeţul Suceava
+776;Moroşan;Oana Georgeta;Suceava;Suceava;Suceava, str. Ştefan cel Mare nr. 37, bl. E2, sc. D, ap. 2, judeţul Suceava
+777;Mustea;Marcel Mihai;Suceava;Suceava;Suceava, str. Ştefan cel Mare nr. 51, bl. A2, sc. A, ap. 3, judeţul Suceava
+778;Stărică;Radu;Suceava;Suceava;Suceava, str. Ştefan cel Mare nr. 37, bl. E2, sc. D, ap. 2, judeţul Suceava
+779;Tătaru;Ioan;Suceava;Suceava;Suceava, str. Ştefan cel Mare nr. 43, bl. E3, sc. D, ap. 1, judeţul Suceava
+780;Turleanu;Cornel;Suceava;Suceava;Suceava, str. Ştefan cel Mare nr. 26, ap. 2, judeţul Suceava
+781;Nica;Gabriel;Suceava;Vatra Dornei;Vatra Dornei, Str. Gării nr. 1, judeţul Suceava
+782;Ţugui;Claudia;Suceava;Vatra Dornei;Asociat SCPEJ Mustea şi Ţugui în Suceava, str. Ştefan cel Mare nr. 43, bl. E3, sc. D, ap. 2, judeţul Suceava
+783;Peter;Istvan;Târgu Mureş;Gheorgheni;Gheorgheni, Cartierul Florilor, bl. 43, sc. E. ap. 1, Harghita
+784;Vlas;Maria Cristina;Târgu Mureş;Luduş;Luduş, Str. Independenţei, bl. 1, sc. A, ap. 2, Mureş
+785;Bakos;Alexandra Karina;Târgu Mureş;Miercurea-Ciuc;suspendat
+786;Moraru;Aurelian;Târgu Mureş;Miercurea-Ciuc;Miercurea-Ciuc, Bd. Timişoarei, bl. 9, ap. 1
+787;Sarig;Attila;Târgu Mureş;Miercurea-Ciuc;Miercurea-Ciuc, str. T. Vladimirescu, bl. 23, sc. A, ap. 1
+788;Szilagyi;Erzsebet;Târgu Mureş;Miercurea-Ciuc;Miercurea-Ciuc, str. N. Bălcescu, bl. 2, ap. 12
+789;Biro;Mihaiu;Târgu Mureş;Odorheiu Secuiesc;Odorheiu Secuiesc, str. Tamasi Aron nr. 12, ap. 7
+790;Mihălcescu;Elvira Mariana;Târgu Mureş;Odorheiu Secuiesc;Odorheiu Secuiesc, str. Tompa Laszlo nr. 5/2
+791;Wachter;Julianna Eniko;Târgu Mureş;Odorheiu Secuiesc;Odorheiu Secuiesc, str. Tamasi Aron nr. 12, ap. 7
+792;Maier;Dorin Gheorghe;Târgu Mureş;Reghin;Reghin, str. Petru Maior nr. 54
+793;Olteanu;Radu;Târgu Mureş;Reghin;Reghin, str. Petru Maior nr. 48, et. 2, ap. 8
+794;Roga;Sorin;Târgu Mureş;Reghin;Reghin, Str. Sării nr. 2
+795;Urs;Luciana Victoria;Târgu Mureş;Reghin;Reghin, str. M.Viteazu nr. 54
+796;Kenosy;Adrian Zoltan;Târgu Mureş;Sighişoara;Sighişoara, str. H. Oberth nr. 28
+797;Corcescu;Horaţiu;Târgu Mureş;Târnăveni;Târnăveni, str. Gh. Mănoiu nr. 3
+798;Dumitru;Mirela;Târgu Mureş;Târnăveni;Asociat BEJA Dumitru Mirela şi Nuţă Sorin Sorin în loc. Bucureşti, Calea Moşilor nr. 268, bl. 12, sc. B, et. 1,
+799;Zorilescu;Mircea Adrian;Târgu Mureş;Târnăveni;Târnăveni Str. Republicii nr. 63
+800;Aştelean;Florin-Sergiu;Târgu Mureş;Târgu Mureş;Târgu Mureş, str. Mihai Viteazu nr. 1, ap. 1
+801;Cotoară;Cristian;Târgu Mureş;Târgu Mureş;Târgu Mureş, str. Ştefan cel Mare nr. 6, ap. 3
+802;Demeter;Tiberiu Claudiu;Târgu Mureş;Târgu Mureş;Târgu Mureş, str. Marton Aron nr. 2/2
+803;Giunca;Maria Cristina;Târgu Mureş;Târgu Mureş;Târgu Mureş, Str. Retezatului nr. 13
+804;Hurubă;Eugen;Târgu Mureş;Târgu Mureş;Târgu Mureş, Bd. 1 Decembrie 1918 nr. 21, ap. 3
+805;Ianculescu;George;Târgu Mureş;Târgu Mureş;Târgu Mureş, str. Marton Aron nr. 11
+806;Magyari;Szabolcs;Târgu Mureş;Târgu Mureş;Târgu Mureş, Str. Retezatului nr. 4
+807;Pop;Ioan;Târgu Mureş;Târgu Mureş;Târgu Mureş, str. Bolyai Farcas nr. 28
+808;Puia;Romulus;Târgu Mureş;Târgu Mureş;Târgu Mureş, Str. Busuiocului nr. 4, sc. C, parter, ap. 42
+809;Szekely;Szabolcs Barna;Târgu Mureş;Târgu Mureş;Târgu Mureş, str. Bolyai nr. 17A
+810;Toma;Gheorghe Cosmin;Târgu Mureş;Târgu Mureş;Târgu Mureş, str. Marton Aron nr. 25
+811;Ursulescu;Floarea;Târgu Mureş;Târgu Mureş;Târgu Mureş
+812;Vintilă;Marius Andrei;Târgu Mureş;Târgu Mureş;Târgu Mureş, str. M. Kogălniceanu nr. 5A
+813;Cotfas;Marin Cornel;Târgu Mureş;Topliţa;Topliţa, str. Miron Cristea, bl. D, sc. 1, ap. 1
+814;Bărar;Radu;Timişoara;Arad;Str. Ioan Vidu nr. 4, ap. 1, Arad, judeţul Arad
+815;Berlo;Cristian Ovidiu;Timişoara;Arad;Bd. Vasile Milea nr. 33-37, ap. 7, Arad, judeţul Arad
+816;Bociort;Crina Dorina;Timişoara;Arad;Bd. G-ral Vasile Milea nr. 41, ap. 2, Arad, judeţul Arad
+817;Boşneac;Lavinia Maria;Timişoara;Arad;Bd. G-ral Vasile Milea nr. 19, ap. 3, Arad, judeţul Arad
+818;Cârciumaru;Gheorghe;Timişoara;Arad;Str. G-ral Praporgescu nr. 13/15, sc. B, ap. 1, Arad, judeţul Arad
+819;Cherşa;Pantelimon;Timişoara;Arad;suspendat
+820;Dănilă;Ovidiu Adrian;Timişoara;Arad;Bd. G-ral Ion Dragalina nr. 4, ap. 3B, Arad, judeţul Arad
+821;Dobrei;Dacian Mihai;Timişoara;Arad;Bd. Vasile Milea nr. 33-37, ap. 10, Arad, judeţul Arad
+822;Godea;Alexandru;Timişoara;Arad;Str. G-ral Praporgescu nr. 21, ap. 2, Arad, judeţul Arad
+823;Horvat;Viorel;Timişoara;Arad;Str. Blajului nr. 2, et. 1, ap. 9, Arad, judeţul Arad
+824;Morcan;Claudiu Florin;Timişoara;Arad;Str. Blajului nr. 4, ap. 3, Arad, judeţul Arad
+825;Palea;Marius Valentin;Timişoara;Arad;Str. Blajului nr. 3, sc. A, et. 1, ap. 7, Arad, judeţul Arad
+826;Păsculescu;Horia;Timişoara;Arad;Bd. G-ral Vasile Milea nr. 41, ap. 2, Arad, judeţul Arad, cod 310182
+827;Pinteală;Andrada Georgiana;Timişoara;Caransebeş;Str. Nicolae Bălcescu nr. 3, et. 1, Caransebeş, judeţul Caraş-Severin
+828;Sima;Ion;Timişoara;Caransebeş;Str. Mihai Viteazu nr. 8, birou 8, Caransebeş, judeţul Caraş-Severin
+829;Ţimonea;Mihai;Timişoara;Caransebeş;Str. Cloşca nr. 3, Caransebeş, judeţul Caraş-Severin
+830;Buduşan;Mirabela;Timişoara;Chişineu-Criş;Piaţa Avram Iancu nr. 1, Chişineu-Criş, judeţul Arad
+831;Gagea;Hadrian-Dacian;Timişoara;Chişineu-Criş;Asociat SCPEJ Dănilă Ovidiu Adrian şi Gagea Hadrian Dacian în Arad, Str. Gării nr. 2B, Chişineu-Criş, judeţul Arad
+832;Roşu;Dan Cătălin;Timişoara;Chişineu-Criş;
+833;Bogdan;Alin Alexandru;Timişoara;Deta;Str. Victoriei nr. 33, judeţul Timiş
+834;Chiru;Marius;Timişoara;Deta;Asociat SCPEJ Crăciun Cristian şi Chiru Marius în Timişoara în str. Martin Luther nr. 2, et. 4, judeţul Timiş
+835;Oberşterescu;Ovidiu;Timişoara;Deta;Asociat SCPEJ Jurchescu Cristian Mihai şi Obersterescu Ovidiu în Timişoara în str. Paul Chinezu nr. 1, judeţul Timiş
+836;Claici;Marius;Timişoara;Făget;Str. 1 Decembrie 1918 nr. 3, judeţul Timiş
+837;Huţiu;Vasile Constantin;Timişoara;Făget;suspendat
+838;Măgureanu;Marta;Timişoara;Făget;
+839;Avrămuţi;Aurelia-Simona;Timişoara;Gurahonţ;suspendat
+840;Berlo;Ildiko;Timişoara;Gurahonţ;Asociat SCPEJ Berlo Cristian Ovidiu & Berlo Ildiko în Arad în bd. Vasile Milea nr. 33-37, ap. 7, Arad, judeţul Arad
+841;Ionescu;Traian;Timişoara;Gurahonţ;
+842;Cocoş;Constantin Ştefan;Timişoara;Ineu;
+843;Găluţi;Alexandru;Timişoara;Ineu;Str. Republicii nr. 26, Ineu, judeţul Arad
+844;Gavrilescu;Magnolia Maria;Timişoara;Ineu;Str. Republicii nr. 18, Ineu, judeţul Arad
+845;Rădulescu;Doina;Timişoara;Lipova;Str. Teiului nr. 18, Lipova, judeţul Arad
+846;Blajovan;Nucu Tiberius;Timişoara;Lugoj;Str. Ion Huniade, bl. 5, ap. 3, Lugoj, judeţul Timiş
+847;Damian-Kleinsz;Nicolae Vasile;Timişoara;Lugoj;Asociat SCPEJ Matei & Asociaţii în Timişoara, str. Ţepeş Vodă nr. 1, ap. 7, Timişoara, judeţul Timiş
+848;Rădulescu;George Cristian;Timişoara;Lugoj;Asociat SCPEJ Rădulescu în Str. Teiului nr. 18, Lipova, judeţul Arad
+849;Brad;Gheorghe;Timişoara;Moldova Nouă;Str. Mihai Viteazu nr. 36A, camera E11, Moldova Nouă, judeţul Caraş-Severin
+850;Deaconescu;Marius Ionuţ;Timişoara;Moldova Nouă;Asociat SCPEJ Deaconescu Adrian şi Deaconescu Marius Ionuţ în Târgovişte, str. Radu Gioglovan, bl. 51, sc. A, ap. 1-2,
+851;Măgureanu;George;Timişoara;Moldova Nouă;
+852;Babeu;Adrian;Timişoara;Reşiţa;Str. Petru Maior nr. 2, bl. 800, cam. 432-433, Resiţa, judeţul Caraş-Severin
+853;Grimacovschi;Iustin;Timişoara;Reşiţa;Str. Petru Maior nr. 2, bl. 800, et. 3, cam. 342-343, Reşiţa, judeţul Caraş-Severin
+854;Marchiş;Dan Felician;Timişoara;Reşiţa;Str. Ioan Corvin, bl. 4, sc. 4, ap. 2, judeţul Caraş-Severin
+855;Modâlcă;Gheorghe;Timişoara;Reşiţa;Str. Petru Maior nr. 2, bl. 800, et. 1, cam. 122, Reşiţa, judeţul Caraş-Severin
+856;Nebunu;Nicolae;Timişoara;Reşiţa;Str. Corbului, bl. 7, sc. 2, ap. 3, Reşiţa, judeţul Caraş-Severin
+857;Paşca;Narcis Gabriel;Timişoara;Reşiţa;Str. Fântânilor nr. 4, sc. 1, ap. 1, Reşiţa, judeţul Caraş-Severin
+858;Iliescu;Alexandru;Timişoara;Sânnicolau Mare;Piaţa 30 Decembrie nr. 9, Sânnicolau Mare
+859;Stepanov;Voislav;Timişoara;Sânnicolau Mare;Asociat BEJA Dragomir Daniel & Stepanov Voislav în str. Martin Luther nr. 2, et. 2, Timişoara, judeţul Timiş
+860;Ţerei;Simona Elisaveta;Timişoara;Sânnicolau Mare;Str. 16 Decembrie 1989 nr. 7, Sânnicolau Mare, judeţul Timiş
+861;Ardean;Claudiu-Gheorghe;Timişoara;Timişoara;Str. Palanca nr. 4, ap. B09, Timişoara, judeţul Timiş
+862;Căianu;Sergiu Titu;Timişoara;Timişoara;Str. Eugeniu de Savoya nr. 8, ap. 7, Timişoara, judeţul Timiş
+863;Capotescu;Ioan;Timişoara;Timişoara;Str. Paul Chinezu nr. 2, SAD 9, Timişoara, judeţul Timiş
+864;Crăciun;Cristian;Timişoara;Timişoara;Str. Martin Luther nr. 2, et. 4, Timişoara
+865;Dogeanu;Dorin Marian;Timişoara;Timişoara;Str. Lacului nr. 18, bl. D32, parter, ap. 4, Timişoara, judeţul Timiş
+866;Dragomir;Daniel;Timişoara;Timişoara;Str. Martin Luther nr. 2, et. 2, Timişoara, judeţul Timiş
+867;Floricescu;Valentin Florian;Timişoara;Timişoara;Str. Lucian Blaga nr. 14, et. 2, ap. 3, Timişoara, judeţul Timiş
+868;Grecu;Laura;Timişoara;Timişoara;Str. Episcop Augustin Pacha nr. 10, sc. A, ap. 13, Timişoara
+869;Jurchescu;Cristian Mihai;Timişoara;Timişoara;Str. Paul Chinezu nr. 1, ap. 4, Timişoara, judeţul Timiş
+870;Marghescu;Anca Lucia;Timişoara;Timişoara;Str. Palanca nr. 1, ap. 13, Timişoara, judeţul Timiş
+871;Matei;Alina Ioana;Timişoara;Timişoara;Str. Ţepeş Vodă nr. 1, ap. 7, Timişoara, judeţul Timiş
+872;Matei;Sorin Romeo;Timişoara;Timişoara;Str. Ţepeş Vodă nr. 1, ap. 7, Timişoara, judeţul Timiş
+873;Mereu;Cristian Petru;Timişoara;Timişoara;Str. Palanca nr. 4, ap. B03, Timişoara, judeţul Timiş
+874;Munteanu;Cristian;Timişoara;Timişoara;Str. Martin Luther nr. 2, et. 2, Timişoara, judeţul Timiş
+875;Opriţescu;Bujor;Timişoara;Timişoara;Str. G-ral Traian Doda nr. 1, ap. 5, Timişoara, judeţul Timiş
+876;Popa;Ovidiu Ştefan;Timişoara;Timişoara;suspendat
+877;Siegmeth;Robert Alin;Timişoara;Timişoara;Str. Ion Ghica nr. 15, Timişoara, judeţul Timiş
+878;Soameş;Cosmin Robert;Timişoara;Timişoara;Bd. Revoluţiei 1989 nr. 15A, cam. 1, Timişoara, judeţul Timiş
+879;Şoboleanu;Antoniu Dan;Timişoara;Timişoara;Str. Eugeniu de Savoya nr. 13, ap. 1, Timişoara, judeţul Timiş
+880;Teregovan;Florin;Timişoara;Timişoara;Str. Mărăşeşti nr. 8, ap. 4, cam. 1, Timişoara, judeţul Timiş
+881;Toporan;Gabriel Valentin;Timişoara;Timişoara;suspendat
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;; Sediul

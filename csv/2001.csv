@@ -1,0 +1,295 @@
+nr;nume;prenume;camera;localitate
+1;Sapta;Florian;Alba lulia;Alba lulia
+2;Baba;Teodor Nicolae;Alba lulia;Alba lulia
+3;Aldea;Marin Vasile;Alba lulia;Aiud
+4;Saratean;Dumitru Alexandru;Alba lulia;Blaj
+5;Say;Augustin;Alba lulia;Câmpeni
+6;Boldas;Liviu Nicolae;Alba lulia;Sebeș
+7;Baciu;Traian;Alba lulia;Deva
+8;Barboni;Eugen;Alba lulia;Deva
+9;Benteu;Aron;Alba lulia;Deva
+10;Vrabie;Florin Constantin;Alba lulia;Petroșani
+11;Oancea;Petru;Alba lulia;Orăștie
+12;Cirja;Ispas;Alba lulia;Sibiu
+13;Marin;Vasile;Alba lulia;Sibiu
+14;Cruduleci;Horatiu;Alba lulia;Sibiu
+15;Tatu;Felician Liviu;Alba lulia;Sibiu
+16;Rovinar;Daniel Marin;Alba lulia;Brad
+17;Tudor;Vasile Petru;Alba lulia;Mediaș
+18;Rotaru;Simion;Alba lulia;Mediaș
+19;Nutescu;Constantin Ciprian;Alba lulia;Săliște
+20;Opris;Ofelia;Alba lulia;Hațeg
+21;Scutea;Sorin;Alba lulia;Agnita
+22;Dumitrache;Emilia;Alba lulia;Petroșani
+23;Fieraru;Eugen;Pitești;Pitești
+24;Rada;Ion;Pitești;Pitești
+25;Bucescu;Emanoil Aron;Pitești;Pitești
+26;loana;Cristian;Pitești;Pitești
+27;Negoescu;Adrian Gheorghe;Pitești;Pitești
+28;Copaci;Vasile-Dorel;Pitești;Pitești
+29;Mitu;Mihai-loan;Pitești;Câmpulung
+30;lordache;Vasile;Pitești;Curtea de Argeș
+31;Raduca;Constantin;Pitești;Râmnicu Vâlcea
+32;Bunescu;Dumitru Teodor;Pitești;Râmnicu Vâlcea
+33;Deaconu;Mihai;Pitești;Râmnicu Vâlcea
+34;Buzatu;Constantin;Pitești;Râmnicu Vâlcea
+35;Condoiu;Florea;Pitești;Drăgășani
+36;Dobre;Vasile;Pitești;Drăgășani
+37;Valeanu;Vie;Pitești;Horezu
+38;Radu;Marius;Pitești;Brezoi
+39;Gatejescu;Bogdan Constantin;Pitești;Râmnicu Vâlcea
+40;Andrei;lonel;Pitești;Costești
+41;Grigore;Nicolae;Bacau;Bacău
+42;Chiticeanu;Florin;Bacau;Bacău
+43;Ciobanu;loan;Bacau;Bacău
+44;Dascalita;Dumitru;Bacau;Bacău
+45;Kovacs;Gabriel;Bacau;Buhuși
+46;Papa;Valentin;Bacau;Onești
+47;Băjenaru;Dorin;Bacau;Onești
+48;Prisecariu;Cezar Sorin;Bacau;Onești
+49;Bindileu;Eugen;Bacau;Moinești
+50;Mititelu;losif;Bacau;Podu Turcului
+51;Neneci;Tanase;Bacau;Piatra-Neamț
+52;Cotoi;Cornel;Bacau;Piatra-Neamț
+53;Postelnicu;Spiridon;Bacau;Român
+54;Dron;Gheorghe;Bacau;Târgu Neamț
+55;Man;loan;Bacau;Bicaz
+56;Mares;loan;Bacau;Piatra-Neamț
+57;Puiu;Gheorghe;Oradea;Oradea
+58;Bucurean;loan;Oradea;Oradea
+59;Puscas;Eugen Nicolae;Oradea;Oradea
+60;Negrau;Mihai;Oradea;Oradea
+61;Pasca;Titu;Oradea;Beiuș
+62;Popovici;Dorin;Oradea;Aleșd
+63;Serfezi;Florin;Oradea;Marghita
+64;Danciu;Gheorghe Radu;Oradea;Satu Mare
+65;Vasvari;Aurel;Oradea;Satu Mare
+66;Michis;loan;Oradea;Satu Mare
+67;Danciu;Cosmin Gabriel;Oradea;Negrești-Oaș
+68;Iva-Anitas;Dan Marian;Oradea;Carei
+69;Tugui;Cezar;Suceava;Suceava
+70;Tataru;loan;Suceava;Suceava
+71;Mustea;Marcel Mihai;Suceava;Suceava
+72;Jugaru;Constantin;Suceava;Suceava
+73;Bordian;Constantin;Suceava;Gura Humorului
+74;Miron;Catalin;Suceava;Rădăuți
+75;Miron;Benoni-Viorel;Suceava;Rădăuți
+76;starica;Radu;Suceava;Câmpulung Moldovenesc
+77;loneac;Sevastian;Suceava;Câmpulung Moldovenesc
+78;Hopu;Vasile;Suceava;Fălticeni
+79;Strachinaru;Durnitru;Suceava;Botoșani
+80;Gavriliuc;Sorin;Suceava;Botoșani
+81;Manoila;Vasile;Suceava;Botoșani
+82;Sfaiter;Carmen;Suceava;Botoșani
+83;Popa;Daniel;Suceava;Dorohoi
+84;Smocot;Grigore;Suceava;Dorohoi
+85;Guceanu;Adrian;Suceava;Darabani
+86;Cirlan;Florin;Suceava;Saveni
+87;Secrieru;Dinu;Suceava;Botoșani
+88;Tereaca;Cornel Toma;Brasov;Brașov
+89;Dinca;Stelian Emil;Brasov;Brașov
+90;Koppandi;Ollyver;Brasov;Brașov
+91;Dutceac;loan;Brasov;Brașov
+92;Blajiu;Gheorghe;Brasov;Zărnești
+93;Fratila;Viorel Alexandru;Brasov;Făgăraș
+94;Mathe-Peter;losif;Brasov;Sfântu Gheorghe
+95;Koncz;Csaba;Brasov;Sfântu Gheorghe
+96;Bales;Marius;Brasov;Târgu Secuiesc
+97;Kolcza;Jeno Gabor;Brasov;Sfântu Gheorghe
+98;Popescu;Sofica;Bucuresti;București
+99;lonfta;Elena;Bucuresti;București
+100;Dima;Mihai;Bucuresti;București
+101;lordache;Radu;Bucuresti;București
+102;Staiculescu;Dumitru;Bucuresti;București
+103;Boambes;Viorel;Bucuresti;București
+104;Badea;Cătălin;Bucuresti;București
+105;Casagranda-Stana;Anton;Bucuresti;București
+106;Tuca;Alexandru;Bucuresti;București
+107;Popescu;Claudiu George;Bucuresti;București
+108;Petre;Atecsandru;Bucuresti;București
+109;Papa;Vasile;Bucuresti;București
+110;Ezer;Lucian;Bucuresti;București
+111;Stanescu;Hie;Bucuresti;București
+112;Nemes;Dan;Bucuresti;București
+113;Vasiliu;George;Bucuresti;București
+114;Draganescu;Gabriel-George;Bucuresti;București
+115;Crafcenco;Marius-Gheorghe;Bucuresti;București
+116;lonescu;Nicolae;Bucuresti;București
+117;Raileanu;lonut;Bucuresti;București
+118;Tanase;Gheorghe;Bucuresti;București
+119;Ichim;Viorel;Bucuresti;Buftea
+120;Benescu;Catalin Manuel;Bucuresti;Buftea
+121;Nistor;Vasile;Bucuresti;Zimnicea
+122;Agiu;lulian;Bucuresti;Roșiori de
+123;Milos;Marius Emil;Bucuresti;Roșiori de
+124;Impungeroua;Nicolae;Bucuresti;Videle
+125;Mihafta;Marian;Bucuresti;Alexandria
+126;Horovath;Sorin-Cornel;Bucuresti;Alexandria
+127;Nitu;Ion;Bucuresti;Slobozia
+128;Banciu;Constantin;Bucuresti;Slobozia
+129;Constantin;Radu;Bucuresti;Urziceni
+130;Barbulescu;Constantin;Bucuresti;Bolintin Vale
+131;lordache;Ion;Bucuresti;Giurgiu
+132;Martin;Constantin;Bucuresti;Giurgiu
+133;Gogoase-Popescu;Florinel-Bebe;Bucuresti;Giurgiu
+134;Stoian;Valentin;Bucuresti;Călărași
+135;Serban;Victor;Bucuresti;Călărași
+136;Mihalcea;lonel;Bucuresti;Călărași
+137;Ene;Alexandru;Bucuresti;Oltenița
+138;Oprisan;Constantin;Bucuresti;Lehliu-Gara
+139;Stolnean;Romeo-Marius;Cluj-Napoca;Cluj-Napoca
+140;Cimpian;Mihai-Radu;Cluj-Napoca;Cluj-Napoca
+141;Bolos;Mircea;Cluj-Napoca;Cluj-Napoca
+142;Popa;Nicolae Fanfany;Cluj-Napoca;Cluj-Napoca
+143;Marian;Daniel;Cluj-Napoca;Turda
+144;Sipos;Alexandru;Cluj-Napoca;Dej
+145;Potra;lulian-Adrian;Cluj-Napoca;Huedin
+146;Moldovan;Ion-Florin;Cluj-Napoca;Gherla
+147;Ivanov;Emilian Giani;Cluj-Napoca;Bistrița
+148;Manchevici;Marin;Cluj-Napoca;Bistrița
+149;Andronesi;Valerian Dorin;Cluj-Napoca;Bistrița
+150;Ilovan;Dumitru;Cluj-Napoca;Năsăud
+151;Sarbu;Viorel;Cluj-Napoca;Năsăud
+152;Muresan;Vasile-Mircea;Cluj-Napoca;Beclean
+153;Vucea;Gheorghe;Cluj-Napoca;Baia Mare
+154;Moran;Manus lacob;Cluj-Napoca;Baia Mare
+155;Bud;Robert Mihai;Cluj-Napoca;Baia Mare
+156;Conran;Gheorghe Gavrii;Cluj-Napoca;Sighetu Marmației
+157;Batin;Petru;Cluj-Napoca;Sighetu Marmației
+158;Bucur;loan;Cluj-Napoca;Vișeu de Sus
+159;Titoc;loan;Cluj-Napoca;Târgu Lăpuș
+160;Oszoczki;Marton;Cluj-Napoca;Zalău
+161;Turcas;loan;Cluj-Napoca;Zalău
+162;Kovacs;Levente Ferenc;Cluj-Napoca;Zalău
+163;Fati;Vasile;Cluj-Napoca;Șimleu Silvaniei
+164;Simon;Attila;Cluj-Napoca;Baia Mare
+165;Deacu;Vasile;Constanta;Constanța
+166;Volintiru;Stefan;Constanta;Constanța
+167;Oana;Marian;Constanta;Constanța
+168;Malciu;Aural;Constanta;Constanța
+169;Vasile;Dumitru Gabriel;Constanta;Constanța
+170;Solomon;Nicolae;Constanta;Medgidia
+171;Pirju;Marian;Constanta;Medgidia
+172;Vlad;Irinel;Constanta;Tulcea
+173;Dumbrava;Dumitru;Constanta;Tulcea
+174;Cornea;Pompiliu;Constanta;Tulcea
+175;Casapu;Catalin Octavian;Constanta;Tulcea
+176;Banea;Alexandru;Constanta;Niacin
+177;Dorache;Nicolae;Constanta;Babadag
+178;Stoica-Constantin;Adrian;Constanta;Constanța
+179;Romanescu;Adrian;Constanta;Constanța
+180;Ivanovici;Cristodor Constantin;Craiova;Craiova
+181;Terpovici;Laurentiu Bogdan;Craiova;Craiova
+182;lacob;Mircea;Craiova;Craiova
+183;Balaci;Titi;Craiova;Craiova
+184;Talpa-Neacsu;Cristian Florian;Craiova;Craiova
+185;Balica;Marius-Eugen;Craiova;Craiova
+186;Drnelea;Apostol;Craiova;Catafat
+187;Cringus;Florina;Craiova;Filiași
+188;Olaru;Constantin;Craiova;Târgu Jiu
+189;Pasarin;lonel;Craiova;Târgu Jiu
+190;Talianu;Savu;Craiova;Târgu Jiu
+191;Tranca;Nicusor;Craiova;Târgu Cărbunești
+192;Raduletu;Valeriu;Craiova;Târgu Cărbunești
+193;Vonica;Filimon;Craiova;Novaci
+194;Matei;Marian;Craiova;Slatina
+195;Vald;Constantin;Craiova;Slatina
+196;Neda;lon;Craiova;Caracal
+197;Rafaila;Vasile;Craiova;Caracal
+198;Ispas;George;Craiova;Corabia
+199;Dirloaga;Florinel;Craiova;Strehaia
+200;Dumitrescu;Alfred Constantin;Craiova;Drobeta-Turnu Severin
+201;Cerbulescu;Constantin;Craiova;Drobeta-Turnu Severin
+202;Purcaru;Marcel;Craiova;Drobeta-Turnu Severin
+203;Raicu;Ion;Craiova;Vanju Mare
+204;Marascu;Ion;Craiova;Vanju Mare
+205;Patrasanu;Constantin;Craiova;Orșova
+206;Diaconita;Constantin;Craiova;Motru
+207;lovan;Cornel;Craiova;Segarcea
+208;Martinescu;lacob;Craiova;Baia de Aramă
+209;Colt;Victor;Galati;Galați
+210;Vitelaru;Dumitru;Galati;Galați
+211;Martin;Tudorel;Galati;Galați
+212;Micu;Constantin;Galati;Galați
+213;Munteanu;Paraschiva Laura;Galati;Galați
+214;Capraru;Apostu;Galati;Tecuci
+215;Tiganus;Viorel-Mirel;Galati;Tecuci
+216;Postelnicu;Stefan;Galati;Târgu Bujor
+217;Pint;Lucian Gabriel;Galati;Brăila
+218;Dragulin;Eugen;Galati;Brăila
+219;Motoc;Petrica;Galati;însurăței
+220;Coman;Gelu;Galati;Focșani
+221;Birsan;Mititelu Firel;Galati;Focșani
+222;Teodorescu;loan Cristian;Galati;Focșani
+223;Bercariu;Corneliu;Galati;Panciu
+224;Catac;Danut-Carmen;Galati;Adjud
+225;Postelnicu;Gabriela;Galati;Brăila
+226;Puia;Romulus;Targu Mures;Târgu Mureș
+227;Soos;Stefan;Targu Mures;Târgu Mureș
+228;Olariu;Titu-Traian;Targu Mures;Târgu Mureș
+229;Pop;loan;Targu Mures;Târgu Mureș
+230;Kenosy;Adrian Zoltan;Targu Mures;Sighișoara
+231;Corcescu;Horatiu;Targu Mures;Târnăveni
+232;Roga;Sorin;Targu Mures;Reghin
+233;Sang;Attila;Targu Mures;Miercurea-Ciuc
+234;Szilagyi;Erzsebet;Targu Mures;Miercurea-Ciuc
+235;Cotfas;Marin Cornel;Targu Mures;Toplița
+236;Baroti;Pal;Targu Mures;Gheorgheni
+237;Biro;Mihaiu;Targu Mures;Odorheiu Secuiesc
+238;Szekely;Szabolcs-Barna;Targu Mures;Târgu Mureș
+239;Olteanu;Radu;Targu Mures;Reghin
+240;Zacornea;Constantin;Iasi;Iași
+241;Mihaila;Radu;Iasi;Iași
+242;Andrei;Cezar;Iasi;Iași
+243;Birca;Gabriel;Iasi;Iași
+244;Airinei;Constantin;Iasi;Iași
+245;Stan;lulian Marius;Iasi;Mu rgen
+246;Boboc;Mihai;Iasi;Vaslui
+247;Angheluta;Lucian;Iasi;Raducaneni
+248;Corbu;Vasile;Iasi;Pașcani
+249;Popovici;Florin;Iasi;Pașcani
+250;Guțu;Adrian;Iasi;Huși
+251;Petre;Cristian;Ploiesti;Ploiești
+252;Radulescu;Remus;Ploiesti;Ploiești
+253;Maid;Sebastian;Ploiesti;Ploiești
+254;Trifina;Elena-Cornelia;Ploiesti;Ploiești
+255;Frincu;Mihai;Ploiesti;Câmpina
+256;Negulescu;Emilian-Mihail;Ploiesti;Vălenii de Munte
+257;Dragan;Ion;Ploiesti;Sinaia
+258;Mihai;Ducu;Ploiesti;Târgoviște
+259;Georgescu;Gheorghe;Ploiesti;Târgoviște
+260;Deaconescu;Adrian;Ploiesti;Târgoviște
+261;Stefan;Viorel Dinu;Ploiesti;Târgoviște
+262;Stanescu;Mihai;Ploiesti;Târgoviște
+263;Duica;Claudiu;Ploiesti;Găești
+264;Gruianu;Viorel;Ploiesti;Pucioasa
+265;Pavel;Bebi;Ploiesti;Moreni
+266;Mahn;Florea;Ploiesti;Răcari
+267;Porosnicu;Adrian;Ploiesti;Buzău
+268;Popescu;Adrian Gabriel;Ploiesti;Buzău
+269;Rusen;Valeriu;Ploiesti;Buzău
+270;Ailincai;Alexandru;Ploiesti;Râmnicu Sărat
+271;Clinciu;Gheorghe;Ploiesti;Râmnicu Sărat
+272;Nicolau;lulian Nicolae;Ploiesti;Pogoanele
+273;Manole;Victor;Ploiesti;Pătârlagele
+274;Tanase;Laura loana;Ploiesti;Ploiești
+275;Vitan;Stefan;Timisoara;Arad
+276;Popescu;Virgil;Timisoara;Arad
+277;Pasculesou;Horia;Timisoara;Arad
+278;Galuti;Alexandru;Timisoara;Ineu
+279;Oprea;Dan;Timisoara;Lipova
+280;Rus;Valentin Mihai;Timisoara;Gurahont
+281;Carciumaru;Gheorghe;Timisoara;Chișineu-Cris
+282;Nebunu;Nicolae;Timisoara;Reșița
+283;Modalca;Gheorghe;Timisoara;Reșița
+284;Ciobanu;Gheorghe;Timisoara;Reșița
+285;Tabusca;Vasile;Timisoara;Moldova Nouă
+286;Ghidut;Lucian-Cornel;Timisoara;Oravița
+287;Dragomir;Daniel;Timisoara;Timișoara
+288;Munteanu;Doru;Timisoara;Timișoara
+289;Opritescu;Bujor;Timisoara;Timișoara
+290;Todoran;Marius Sorin;Timisoara;Timișoara
+291;Hutiu;Vasile Constantin;Timisoara;Făget
+292;Blajovan;Nucu Tiberius;Timisoara;Lugoj
+293;Furdean;Mugurel;Timisoara;Lugoj
+294;Jurchescu;Cristian-Mihai;Timisoara;Deta
